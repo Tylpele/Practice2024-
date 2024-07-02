@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Message Form</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <div class="container">
+        <h1>Message Form</h1>
+        <form asp-action="Index" method="post">
+            <div class="form-group">
+                <label for="Message">Message</label>
+                <input type="text" class="form-control" id="Message" name="Message" />
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+
+        @if (ViewBag.Message != null)
+        {
+            <div class="alert alert-success mt-3">
+                <strong>Received Message:</strong> @ViewBag.Message
+            </div>
+        }
+    </div>
+</body>
+</html>
