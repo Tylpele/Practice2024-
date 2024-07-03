@@ -2,15 +2,53 @@
     ViewData["Title"] = "Home Page";
 }
 
-    <div class="container">
-        <h1>Message Form</h1>
-    <form asp-action="Submit" method="post">
-        <div class="form-group">
-            <label for="inputText">Enter text:</label>
-            <input type="text" class="form-control" id="inputText" name="inputText">
-        </div>
-        <button type="submit" class="btn btn-primary">Submit</button>
-    </form>
-
- 
+<div class="container">
+    <h1>Message Form</h1>
+    <div class="form-group">
+        <label for="inputText">Enter text:</label>
+        <input type="text" class="form-control" id="inputText" name="inputText">
     </div>
+    <button type="submit" class="btn btn-primary" id="sendButton">Submit</button>
+    <ul id="messagesList"></ul>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/5.0.9/signalr.js"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        var connection = new signalR.HubConnectionBuilder()
+            .withUrl("/chatHub")
+            .build();
+
+        connection.on("ReceiveMessage", function (message) {
+            var li = document.createElement("li");
+            document.getElementById("messagesList").appendChild(li);
+            li.textContent = `Bot: ${message}`;
+        });
+
+        connection.start().then(function () {
+            console.log("SignalR Connected");
+        }).catch(function (err) {
+            return console.error(err.toString());
+        });
+
+        document.getElementById("sendButton").addEventListener("click", function (event) {
+            var message = document.getElementById("inputText").value;
+
+            // Проверка на пустое сообщение
+            if (!message) {
+                alert("Message cannot be empty");
+                return;
+            }
+
+            var li = document.createElement("li");
+            document.getElementById("messagesList").appendChild(li);
+            li.textContent = `User: ${message}`;
+
+            connection.invoke("SendMessage", message).catch(function (err) {
+                return console.error(err.toString());
+            });
+            document.getElementById("inputText").value = "";
+            event.preventDefault();
+        });
+    });
+</script>

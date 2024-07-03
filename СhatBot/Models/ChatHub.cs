@@ -1,9 +1,13 @@
 ﻿using Microsoft.AspNetCore.SignalR;
+using СhatBot.RabbitMQ;
 
 public class ChatHub : Hub
-{
-    public async Task SendMessage(string message)
+{    
+    private const string NextQueue = "pre-queue";
+    public Task SendMessage(string message)
     {
-        await Clients.All.SendAsync("ReceiveMessage", message);
+       RabbitMqService.SendMessage(message, NextQueue);
+        Console.WriteLine("Сообщение "+ message+ " попало в очередь pre-queue");
+        return Task.CompletedTask; 
     }
 }

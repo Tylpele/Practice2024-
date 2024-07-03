@@ -25,16 +25,7 @@ namespace ChatBot.Controllers
             return View();
         }
 
-        [HttpPost]
-        public IActionResult Submit(string inputText)
-        {
-            string queueName = "pre-queue";
-            _rabbitMqService.SendMessage(inputText, queueName);
-            _preHandler.PreHandl(queueName);
-
-            ViewBag.Message = inputText.ToLower();
-            return View("Index");
-        }
+        
 
     }
 }

@@ -5,23 +5,27 @@ namespace СhatBot.Models
 {
     public class PostHandler: BackgroundService
     {
-        private readonly RabbitMqService _rabbitMqService;
-        IHubContext<ChatHub> _hubContext;
-        public PostHandler()
+
+        IHubContext<ChatHub> _chatHub;
+        private readonly string CurrentQueue = "post-queue";
+        public PostHandler(IHubContext<ChatHub> chatHub)
         {
-            _rabbitMqService = new RabbitMqService();
+            _chatHub = chatHub;
             
         }
-        public void PostHandl(string queueName)
+        public void PostHandleMessage(string message)
         {
-            string message = _rabbitMqService.ReceiveMessage(queueName);
-            Console.WriteLine("Сообщение " + message + " попало в очередь на отправку обратно");
-           // _hubContext.Clients.All.SendAsync("ReceiveMessage", message);
+            _chatHub.Clients.All.SendAsync("ReceiveMessage", message);
+            Console.WriteLine("Сообщение " + message + " выведено из очередей");
         }
 
         protected override Task ExecuteAsync(CancellationToken stoppingToken)
         {
-            throw new NotImplementedException();
+            stoppingToken.ThrowIfCancellationRequested();
+
+            RabbitMqService.StartListening(CurrentQueue, PostHandleMessage);
+
+            return Task.CompletedTask;
         }
     }
 }

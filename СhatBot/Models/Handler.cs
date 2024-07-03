@@ -5,31 +5,29 @@ namespace СhatBot.Models
 {
     public class Handler: BackgroundService
     {
-        private readonly RabbitMqService _rabbitMqService;
-        private readonly PostHandler _postHandler;
-       
 
-        public Handler()
+        private readonly string CurrentQueue = "queue";
+        private readonly string NextQueue = "post-queue";
+
+
+
+        public void HandleMessage(string message)
         {
-            _rabbitMqService = new RabbitMqService();
-            _postHandler = new PostHandler();
+            char[] temp = message.ToCharArray();
+            Array.Reverse(temp);
+            string answer = new string(temp);
 
-        }
-        public void Handl(string queueName)
-        {
-            string nextQueue = "post-queue";
-            string message = _rabbitMqService.ReceiveMessage(queueName);
-            Console.WriteLine("Сообщение " + message+" попало в очередь на обработку");
-
-            _rabbitMqService.SendMessage(message, nextQueue);
-            Console.WriteLine("Сообщение " + message + " передалось в очередь на обратную отправку");
-            _postHandler.PostHandl(nextQueue);
+            RabbitMqService.SendMessage(answer, NextQueue);
+            Console.WriteLine("Сообщение "+ message+ " отправлено в очередь post-queue");
 
         }
 
         protected override Task ExecuteAsync(CancellationToken stoppingToken)
         {
-            throw new NotImplementedException();
+            stoppingToken.ThrowIfCancellationRequested();
+
+            RabbitMqService.StartListening(CurrentQueue, HandleMessage);
+            return Task.CompletedTask;
         }
     }
 }

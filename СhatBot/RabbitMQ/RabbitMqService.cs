@@ -1,8 +1,11 @@
 ﻿using Microsoft.AspNetCore.Components.Forms;
 using RabbitMQ.Client;
+using RabbitMQ.Client.Events;
+using System.Data.Common;
 using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Text.Json;
+using System.Threading.Channels;
 using СhatBot.Models;
 using СhatBot.RabbitMQ;
 
@@ -10,11 +13,16 @@ namespace СhatBot.RabbitMQ
 {
     public class RabbitMqService : IRabbitMqService
     {
-        private readonly ConnectionFactory _factory;
+        private static readonly ConnectionFactory _factory;
+        private static readonly IConnection _connection;
+        private static readonly IModel _channel;
 
-        public RabbitMqService()
+
+        static RabbitMqService()
         {
             _factory = new ConnectionFactory { HostName = "localhost" };
+            _connection = _factory.CreateConnection();
+            _channel = _connection.CreateModel();
         }
 
         public void SendMessage(object obj)
@@ -23,12 +31,10 @@ namespace СhatBot.RabbitMQ
             SendMessage(message);
         }
 
-        public void SendMessage(string inputText, string queueName)
+        public static void SendMessage(string inputText, string queueName)
         {
-            using var connection = _factory.CreateConnection();
-            using var channel = connection.CreateModel();
 
-            channel.QueueDeclare(
+            _channel.QueueDeclare(
                 queue: queueName,
                 durable: false,
                 exclusive: false,
@@ -37,34 +43,30 @@ namespace СhatBot.RabbitMQ
             );
 
             var message = Encoding.UTF8.GetBytes(inputText);
-            channel.BasicPublish(exchange: "",
+            _channel.BasicPublish(exchange: "",
                                  routingKey: queueName,
                                  basicProperties: null,
                                  body: message);
         }
 
-        public string ReceiveMessage(string queueName)
+        public static void StartListening(string queueName, Action<string> onMessageRecieved)
         {
-            using var connection = _factory.CreateConnection();
-            using var channel = connection.CreateModel();
+            _channel.QueueDeclare(queue: queueName,
+                                 durable: false,
+                                 exclusive: false,
+                                 autoDelete: false,
+                                 arguments: null);
 
-            channel.QueueDeclare(
-                queue: queueName,
-                durable: false,
-                exclusive: false,
-                autoDelete: false,
-                arguments: null
-            );
-
-            var result = channel.BasicGet(queue: queueName, autoAck: false);
-
-
-            var body = result.Body.ToArray();
-            var message = Encoding.UTF8.GetString(body);
-
-            channel.BasicAck(deliveryTag: result.DeliveryTag, multiple: false);
-
-            return message;
+            var consumer = new EventingBasicConsumer(_channel);
+            consumer.Received += (model, ea) =>
+            {
+                var body = ea.Body.ToArray();
+                var message = Encoding.UTF8.GetString(body);
+                onMessageRecieved(message);
+            };
+            _channel.BasicConsume(queue: queueName,
+                     autoAck: true,
+                     consumer: consumer);
         }
     }
 }

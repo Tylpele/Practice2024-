@@ -3,7 +3,7 @@
     public interface IRabbitMqService
     {
         void SendMessage(object obj);
-        void SendMessage(string message, string queueName);
+        //void SendMessage(string message, string queueName);
 
     }
 }

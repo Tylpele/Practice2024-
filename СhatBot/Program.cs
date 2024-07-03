@@ -8,8 +8,12 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<IRabbitMqService, RabbitMqService>();
 builder.Services.AddControllersWithViews();
 builder.Services.AddSignalR();
+builder.Services.AddHostedService<PreHandler>();
+builder.Services.AddHostedService<Handler>();
+builder.Services.AddHostedService<PostHandler>();
 
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
