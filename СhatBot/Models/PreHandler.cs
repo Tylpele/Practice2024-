@@ -31,10 +31,10 @@ namespace СhatBot.Models
                 return;
             }
 
-            var userId = parts[0];
+            var ConnectionId = parts[0];
             var messageContent = parts[1].ToLower();
 
-            var newMessage = $"{userId}:{messageContent}";
+            var newMessage = $"{ConnectionId}:{messageContent}";
 
             RabbitMqService.SendMessage(newMessage, NextQueue);
             _logger.Info("Message " + message + " was sent to queue");

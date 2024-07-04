@@ -27,11 +27,11 @@ namespace СhatBot.Models
                 return;
             }
 
-            var userId = parts[0];
+            var ConnectionId = parts[0];
             var userMessage = parts[1];
 
-            await _chatHub.Clients.Client(userId).SendAsync("ReceiveMessage", userMessage);
-            _logger.Info($"Message to user {userId}: {userMessage} was sent");
+            await _chatHub.Clients.Client(ConnectionId).SendAsync("ReceiveMessage", userMessage);
+            _logger.Info($"Message to connection {ConnectionId}: {userMessage} was sent");
         }
 
         protected override Task ExecuteAsync(CancellationToken stoppingToken)

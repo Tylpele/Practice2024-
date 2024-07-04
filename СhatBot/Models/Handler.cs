@@ -43,18 +43,18 @@ namespace СhatBot.Models
                 return;
             }
 
-            var userId = parts[0];
+            var ConnectionId = parts[0];
             var messageContent = parts[1];
 
             if (_responses.TryGetValue(messageContent, out var answer))
             {
-                var responseMessage = $"{userId}:{answer}";
+                var responseMessage = $"{ConnectionId}:{answer}";
                 RabbitMqService.SendMessage(responseMessage, NextQueue);
                 _logger.Info($"Message '{messageContent}' processed and response '{answer}' was sent to {NextQueue}");
             }
             else
             {
-                var responseMessage = $"{userId}:I don't know the answer";
+                var responseMessage = $"{ConnectionId}:I don't know the answer";
                 RabbitMqService.SendMessage(responseMessage, NextQueue);
                 _logger.Warn($"No response found for message '{messageContent}'");
             }
