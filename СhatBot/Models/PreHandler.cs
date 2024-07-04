@@ -1,14 +1,18 @@
-﻿using RabbitMQ.Client;
+﻿using NLog;
+using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 using СhatBot.RabbitMQ;
+using Microsoft.Extensions.Hosting;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace СhatBot.Models
 {
-    public class PreHandler: BackgroundService
+    public class PreHandler : BackgroundService
     {
-
         private readonly string CurrentQueue = "pre-queue";
         private readonly string NextQueue = "queue";
+        private readonly NLog.Logger _logger = LogManager.GetCurrentClassLogger();
 
         protected override Task ExecuteAsync(CancellationToken stoppingToken)
         {
@@ -20,10 +24,20 @@ namespace СhatBot.Models
 
         private void PreHandleMessage(string message)
         {
-            string newMessage = message.ToLower();
+            var parts = message.Split(':');
+            if (parts.Length != 2)
+            {
+                _logger.Error("Invalid message format: " + message);
+                return;
+            }
+
+            var userId = parts[0];
+            var messageContent = parts[1].ToLower();
+
+            var newMessage = $"{userId}:{messageContent}";
 
             RabbitMqService.SendMessage(newMessage, NextQueue);
-            Console.WriteLine("Сообщение " + message+ " отправлено в очередь queue");
+            _logger.Info("Message " + message + " was sent to queue");
         }
     }
 }

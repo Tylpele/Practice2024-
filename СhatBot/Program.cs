@@ -1,5 +1,9 @@
 using ÑhatBot.Models;
 using ÑhatBot.RabbitMQ;
+using NLog;
+using NLog.Web;
+
+var logger = LogManager.Setup().LoadConfigurationFromAppSettings().GetCurrentClassLogger();
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +15,12 @@ builder.Services.AddSignalR();
 builder.Services.AddHostedService<PreHandler>();
 builder.Services.AddHostedService<Handler>();
 builder.Services.AddHostedService<PostHandler>();
+builder.Services.AddSingleton<RabbitMqService>();
+builder.Services.AddSingleton<Handler>();
+
+
+builder.Logging.ClearProviders();
+builder.Host.UseNLog();
 
 var app = builder.Build();
 
@@ -36,3 +46,4 @@ app.MapControllerRoute(
 
 app.MapHub<ChatHub>("/chatHub");
 app.Run();
+

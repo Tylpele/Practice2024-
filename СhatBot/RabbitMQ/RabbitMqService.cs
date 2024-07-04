@@ -41,7 +41,7 @@ namespace СhatBot.RabbitMQ
                 autoDelete: false,
                 arguments: null
             );
-
+            
             var message = Encoding.UTF8.GetBytes(inputText);
             _channel.BasicPublish(exchange: "",
                                  routingKey: queueName,

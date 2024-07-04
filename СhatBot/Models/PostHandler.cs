@@ -1,22 +1,37 @@
 ﻿using Microsoft.AspNetCore.SignalR;
+using Microsoft.Extensions.Hosting;
+using NLog;
 using СhatBot.RabbitMQ;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace СhatBot.Models
 {
-    public class PostHandler: BackgroundService
+    public class PostHandler : BackgroundService
     {
-
-        IHubContext<ChatHub> _chatHub;
+        private readonly IHubContext<ChatHub> _chatHub;
         private readonly string CurrentQueue = "post-queue";
+        private readonly NLog.Logger _logger = LogManager.GetCurrentClassLogger();
+
         public PostHandler(IHubContext<ChatHub> chatHub)
         {
             _chatHub = chatHub;
-            
         }
-        public void PostHandleMessage(string message)
+
+        public async void PostHandleMessage(string message)
         {
-            _chatHub.Clients.All.SendAsync("ReceiveMessage", message);
-            Console.WriteLine("Сообщение " + message + " выведено из очередей");
+            var parts = message.Split(':');
+            if (parts.Length != 2)
+            {
+                _logger.Error("Invalid message format: " + message);
+                return;
+            }
+
+            var userId = parts[0];
+            var userMessage = parts[1];
+
+            await _chatHub.Clients.Client(userId).SendAsync("ReceiveMessage", userMessage);
+            _logger.Info($"Message to user {userId}: {userMessage} was sent");
         }
 
         protected override Task ExecuteAsync(CancellationToken stoppingToken)
