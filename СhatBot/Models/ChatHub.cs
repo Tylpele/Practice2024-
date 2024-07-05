@@ -9,6 +9,6 @@ public class ChatHub : Hub
     public async Task SendMessageToQueue(string formattedMessage)
     {
         RabbitMqService.SendMessage(formattedMessage, "pre-queue");
-        _logger.Info($"Message sent to queue: {formattedMessage}");
+        _logger.Info($"Message sent to pre_queue: {formattedMessage}");
     }
 }

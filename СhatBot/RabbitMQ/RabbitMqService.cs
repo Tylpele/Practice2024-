@@ -17,7 +17,6 @@ namespace СhatBot.RabbitMQ
         private static readonly IConnection _connection;
         private static readonly IModel _channel;
 
-
         static RabbitMqService()
         {
             _factory = new ConnectionFactory { HostName = "localhost" };
@@ -33,7 +32,6 @@ namespace СhatBot.RabbitMQ
 
         public static void SendMessage(string inputText, string queueName)
         {
-
             _channel.QueueDeclare(
                 queue: queueName,
                 durable: false,
@@ -41,15 +39,21 @@ namespace СhatBot.RabbitMQ
                 autoDelete: false,
                 arguments: null
             );
-            
+
+            var properties = _channel.CreateBasicProperties();
+            properties.Headers = new Dictionary<string, object>
+            {
+                { "Type", "userMessage" }
+            };
+
             var message = Encoding.UTF8.GetBytes(inputText);
             _channel.BasicPublish(exchange: "",
                                  routingKey: queueName,
-                                 basicProperties: null,
+                                 basicProperties: properties, // Установка заголовков
                                  body: message);
         }
 
-        public static void StartListening(string queueName, Action<string> onMessageRecieved)
+        public static void StartListening(string queueName, Action<string> onMessageReceived)
         {
             _channel.QueueDeclare(queue: queueName,
                                  durable: false,
@@ -62,12 +66,23 @@ namespace СhatBot.RabbitMQ
             {
                 var body = ea.Body.ToArray();
                 var message = Encoding.UTF8.GetString(body);
-                onMessageRecieved(message);
+
+                // Проверка заголовков сообщений
+                if (ea.BasicProperties.Headers != null &&
+                    ea.BasicProperties.Headers.TryGetValue("Type", out var typeHeader) &&
+                    typeHeader is byte[] headerBytes &&
+                    Encoding.UTF8.GetString(headerBytes) == "userMessage")
+                {
+                    onMessageReceived(message);
+                }
+                else
+                {
+                    _channel.BasicNack(ea.DeliveryTag, false, true);
+                }
             };
             _channel.BasicConsume(queue: queueName,
-                     autoAck: true,
+                     autoAck: false,
                      consumer: consumer);
         }
     }
 }
-

@@ -15,6 +15,7 @@ builder.Services.AddSignalR();
 builder.Services.AddHostedService<PreHandler>();
 builder.Services.AddHostedService<Handler>();
 builder.Services.AddHostedService<PostHandler>();
+builder.Services.AddHostedService<StopFlagChecker>();
 builder.Services.AddSingleton<RabbitMqService>();
 builder.Services.AddSingleton<Handler>();
 
