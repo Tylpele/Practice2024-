@@ -12,12 +12,12 @@ public class StopFlagChecker: BackgroundService
 
 
         // Create a timer to send messages periodically
-        timer = new Timer(state => SendMessagePeriodically(), null, TimeSpan.Zero, TimeSpan.FromSeconds(5));
+        timer = new Timer(state => CheckFlag(), null, TimeSpan.Zero, TimeSpan.FromSeconds(5));
 
         // Wait indefinitely until cancellation is requested
         return Task.CompletedTask;
     }
-    private void SendMessagePeriodically()
+    private void CheckFlag()
     {
         if (File.Exists("C:\\Практика\\ChatBot\\ChatBot\\stop.flag"))
         {

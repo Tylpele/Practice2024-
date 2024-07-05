@@ -74,6 +74,7 @@ namespace СhatBot.RabbitMQ
                     Encoding.UTF8.GetString(headerBytes) == "userMessage")
                 {
                     onMessageReceived(message);
+                    _channel.BasicAck(ea.DeliveryTag, false);
                 }
                 else
                 {
