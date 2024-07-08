@@ -11,12 +11,12 @@ namespace ChatBot.Controllers
 
     {
         private readonly RabbitMqService _rabbitMqService;
-        private readonly PreHandler _preHandler;
+        private readonly PreProcessor _preHandler;
 
         public HomeController()
         {
             _rabbitMqService = new RabbitMqService();
-            _preHandler = new PreHandler();
+            _preHandler = new PreProcessor();
 
         }
 

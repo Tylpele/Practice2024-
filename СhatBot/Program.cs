@@ -12,12 +12,12 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<IRabbitMqService, RabbitMqService>();
 builder.Services.AddControllersWithViews();
 builder.Services.AddSignalR();
-builder.Services.AddHostedService<PreHandler>();
-builder.Services.AddHostedService<Handler>();
-builder.Services.AddHostedService<PostHandler>();
+builder.Services.AddHostedService<PreProcessor>();
+builder.Services.AddHostedService<Processor>();
+builder.Services.AddHostedService<PostProcessor>();
 builder.Services.AddHostedService<StopFlagChecker>();
 builder.Services.AddSingleton<RabbitMqService>();
-builder.Services.AddSingleton<Handler>();
+builder.Services.AddSingleton<Processor>();
 
 
 builder.Logging.ClearProviders();

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace СhatBot.Models
 {
-    public class PreHandler : BackgroundService
+    public class PreProcessor : BackgroundService
     {
         private readonly string CurrentQueue = "pre-queue";
         private readonly string NextQueue = "queue";

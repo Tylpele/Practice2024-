@@ -7,13 +7,13 @@ using System.Threading.Tasks;
 
 namespace СhatBot.Models
 {
-    public class PostHandler : BackgroundService
+    public class PostProcessor : BackgroundService
     {
         private readonly IHubContext<ChatHub> _chatHub;
         private readonly string CurrentQueue = "post-queue";
         private readonly NLog.Logger _logger = LogManager.GetCurrentClassLogger();
 
-        public PostHandler(IHubContext<ChatHub> chatHub)
+        public PostProcessor(IHubContext<ChatHub> chatHub)
         {
             _chatHub = chatHub;
         }

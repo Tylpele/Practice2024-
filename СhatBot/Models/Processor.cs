@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace СhatBot.Models
 {
-    public class Handler : BackgroundService
+    public class Processor : BackgroundService
     {
         private readonly string CurrentQueue = "queue";
         private readonly string NextQueue = "post-queue";
@@ -17,7 +17,7 @@ namespace СhatBot.Models
         private readonly NLog.Logger _logger = LogManager.GetCurrentClassLogger();
         private readonly Dictionary<string, string> _responses;
 
-        public Handler(RabbitMqService rabbitMqService)
+        public Processor(RabbitMqService rabbitMqService)
         {
             _rabbitMqService = rabbitMqService;
             _responses = LoadResponses("responses.json");
