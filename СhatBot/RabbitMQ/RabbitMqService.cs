@@ -11,7 +11,7 @@ using СhatBot.RabbitMQ;
 
 namespace СhatBot.RabbitMQ
 {
-    public class RabbitMqService : IRabbitMqService
+    public class RabbitMqService: IRabbitMqService
     {
         private static readonly ConnectionFactory _factory;
         private static readonly IConnection _connection;
@@ -24,10 +24,10 @@ namespace СhatBot.RabbitMQ
             _channel = _connection.CreateModel();
         }
 
-        public void SendMessage(object obj)
+        public static void SendMessage(object obj, string queueName)
         {
             var message = JsonSerializer.Serialize(obj);
-            SendMessage(message);
+            SendMessage(message, queueName);
         }
 
         public static void SendMessage(string inputText, string queueName)
@@ -43,23 +43,31 @@ namespace СhatBot.RabbitMQ
             var properties = _channel.CreateBasicProperties();
             properties.Headers = new Dictionary<string, object>
             {
-                { "Type", "userMessage" }
+                { "Type", Encoding.UTF8.GetBytes("userMessage") } // Преобразование строки в byte[]
             };
+
+            Console.WriteLine("Message Headers:");
+            foreach (var header in properties.Headers)
+            {
+                Console.WriteLine($"{header.Key}: {Encoding.UTF8.GetString((byte[])header.Value)}");
+            }
 
             var message = Encoding.UTF8.GetBytes(inputText);
             _channel.BasicPublish(exchange: "",
-                                 routingKey: queueName,
-                                 basicProperties: properties, // Установка заголовков
-                                 body: message);
+                                  routingKey: queueName,
+                                  basicProperties: properties,
+                                  body: message);
         }
 
         public static void StartListening(string queueName, Action<string> onMessageReceived)
         {
-            _channel.QueueDeclare(queue: queueName,
-                                 durable: false,
-                                 exclusive: false,
-                                 autoDelete: false,
-                                 arguments: null);
+            _channel.QueueDeclare(
+                queue: queueName,
+                durable: false,
+                exclusive: false,
+                autoDelete: false,
+                arguments: null
+            );
 
             var consumer = new EventingBasicConsumer(_channel);
             consumer.Received += (model, ea) =>
@@ -67,23 +75,25 @@ namespace СhatBot.RabbitMQ
                 var body = ea.Body.ToArray();
                 var message = Encoding.UTF8.GetString(body);
 
-                // Проверка заголовков сообщений
                 if (ea.BasicProperties.Headers != null &&
                     ea.BasicProperties.Headers.TryGetValue("Type", out var typeHeader) &&
                     typeHeader is byte[] headerBytes &&
                     Encoding.UTF8.GetString(headerBytes) == "userMessage")
                 {
-                    onMessageReceived(message);
                     _channel.BasicAck(ea.DeliveryTag, false);
+                    onMessageReceived(message);
                 }
                 else
                 {
                     _channel.BasicNack(ea.DeliveryTag, false, true);
                 }
             };
-            _channel.BasicConsume(queue: queueName,
-                     autoAck: false,
-                     consumer: consumer);
+
+            _channel.BasicConsume(
+                queue: queueName,
+                autoAck: false,
+                consumer: consumer
+            );
         }
     }
 }
