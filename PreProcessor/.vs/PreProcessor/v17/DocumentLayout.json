@@ -3,20 +3,23 @@
   "WorkspaceRootPath": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PreProcessor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AABD628-72E9-460D-B525-D29A4CB05B97}|PreProcessor\\PreProcessor.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\preprocessor\\preprocessor\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AABD628-72E9-460D-B525-D29A4CB05B97}|PreProcessor\\PreProcessor.csproj|solutionrelative:preprocessor\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AABD628-72E9-460D-B525-D29A4CB05B97}|PreProcessor\\PreProcessor.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\preprocessor\\preprocessor\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4AABD628-72E9-460D-B525-D29A4CB05B97}|PreProcessor\\PreProcessor.csproj|solutionrelative:preprocessor\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4AABD628-72E9-460D-B525-D29A4CB05B97}|PreProcessor\\PreProcessor.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\preprocessor\\preprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AABD628-72E9-460D-B525-D29A4CB05B97}|PreProcessor\\PreProcessor.csproj|solutionrelative:preprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AABD628-72E9-460D-B525-D29A4CB05B97}|PreProcessor\\PreProcessor.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\preprocessor\\preprocessor\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{4AABD628-72E9-460D-B525-D29A4CB05B97}|PreProcessor\\PreProcessor.csproj|solutionrelative:preprocessor\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AABD628-72E9-460D-B525-D29A4CB05B97}|PreProcessor\\PreProcessor.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\preprocessor\\preprocessor\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AABD628-72E9-460D-B525-D29A4CB05B97}|PreProcessor\\PreProcessor.csproj|solutionrelative:preprocessor\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AABD628-72E9-460D-B525-D29A4CB05B97}|PreProcessor\\PreProcessor.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\preprocessor\\preprocessor\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4AABD628-72E9-460D-B525-D29A4CB05B97}|PreProcessor\\PreProcessor.csproj|solutionrelative:preprocessor\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,32 +29,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "NLog.config",
-              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PreProcessor\\PreProcessor\\NLog.config",
-              "RelativeDocumentMoniker": "PreProcessor\\NLog.config",
-              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PreProcessor\\PreProcessor\\NLog.config",
-              "RelativeToolTip": "PreProcessor\\NLog.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-07-08T10:22:15.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RabbitMqService.cs",
-              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PreProcessor\\PreProcessor\\RabbitMqService.cs",
-              "RelativeDocumentMoniker": "PreProcessor\\RabbitMqService.cs",
-              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PreProcessor\\PreProcessor\\RabbitMqService.cs",
-              "RelativeToolTip": "PreProcessor\\RabbitMqService.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAuwF0AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T09:15:47.113Z",
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAGsTAAAAAAAAAAAMwHYTAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-09T07:22:36.132Z",
               "EditorCaption": ""
             },
             {
@@ -62,20 +52,46 @@
               "RelativeDocumentMoniker": "PreProcessor\\NLog.config",
               "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PreProcessor\\PreProcessor\\NLog.config",
               "RelativeToolTip": "PreProcessor\\NLog.config",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-08T10:22:15.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RabbitMqService.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PreProcessor\\PreProcessor\\RabbitMqService.cs",
+              "RelativeDocumentMoniker": "PreProcessor\\RabbitMqService.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PreProcessor\\PreProcessor\\RabbitMqService.cs",
+              "RelativeToolTip": "PreProcessor\\RabbitMqService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:15:47.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NLog.config",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PreProcessor\\PreProcessor\\NLog.config",
+              "RelativeDocumentMoniker": "PreProcessor\\NLog.config",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PreProcessor\\PreProcessor\\NLog.config",
+              "RelativeToolTip": "PreProcessor\\NLog.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-07-08T09:12:34.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PreProcessor\\PreProcessor\\Program.cs",
               "RelativeDocumentMoniker": "PreProcessor\\Program.cs",
               "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\PreProcessor\\PreProcessor\\Program.cs",
               "RelativeToolTip": "PreProcessor\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA4AAAALAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-08T09:06:51.374Z",
               "EditorCaption": ""

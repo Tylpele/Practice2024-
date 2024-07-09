@@ -9,8 +9,6 @@ C:\Практика\PreProcessor\PreProcessor\bin\Debug\net8.0\PreProcessor.runt
 C:\Практика\PreProcessor\PreProcessor\bin\Debug\net8.0\PreProcessor.dll
 C:\Практика\PreProcessor\PreProcessor\bin\Debug\net8.0\PreProcessor.pdb
 C:\Практика\PreProcessor\PreProcessor\bin\Debug\net8.0\NLog.dll
-C:\Практика\PreProcessor\PreProcessor\bin\Debug\net8.0\NLog.Extensions.Logging.dll
-C:\Практика\PreProcessor\PreProcessor\bin\Debug\net8.0\NLog.Web.AspNetCore.dll
 C:\Практика\PreProcessor\PreProcessor\bin\Debug\net8.0\RabbitMQ.Client.dll
 C:\Практика\PreProcessor\PreProcessor\obj\Debug\net8.0\PreProce.B6F6729A.Up2Date
 C:\Практика\PreProcessor\PreProcessor\obj\Debug\net8.0\PreProcessor.dll
@@ -18,3 +16,4 @@ C:\Практика\PreProcessor\PreProcessor\obj\Debug\net8.0\refint\PreProcess
 C:\Практика\PreProcessor\PreProcessor\obj\Debug\net8.0\PreProcessor.pdb
 C:\Практика\PreProcessor\PreProcessor\obj\Debug\net8.0\PreProcessor.genruntimeconfig.cache
 C:\Практика\PreProcessor\PreProcessor\obj\Debug\net8.0\ref\PreProcessor.dll
+C:\Практика\PreProcessor\PreProcessor\obj\Debug\net8.0\PreProcessor.sourcelink.json

@@ -4,10 +4,13 @@ using PreProcessor1;
 
 class Program
 {
-    //private readonly string CurrentQueue = "pre-queue";
-    private readonly NLog.Logger _logger = LogManager.GetCurrentClassLogger();
+    //private  readonly NLog.Logger _logger = LogManager.GetCurrentClassLogger();
+
     static void Main(string[] args)
     {
+        NLog.Logger _logger = LogManager.GetCurrentClassLogger();
+        LogManager.LoadConfiguration("C:\\Практика\\PreProcessor\\PreProcessor\\NLog.config");
+        _logger.Info("Application started");
         string CurrentQueue = "pre-queue";
         RabbitMqService.StartListening(CurrentQueue, PreHandleMessage);
         while (true)
@@ -21,7 +24,7 @@ class Program
         var parts = message.Split(':');
         if (parts.Length != 2)
         {
-            //_logger.Error("Invalid message format: " + message);
+           // _logger.Error("Invalid message format");
             return;
         }
 
@@ -31,7 +34,5 @@ class Program
         var newMessage = $"{ConnectionId}:{messageContent}";
 
         RabbitMqService.SendMessage(newMessage, NextQueue);
-        Console.WriteLine("Message was sent to queue");
-        //_logger.Info("Message " + message + " was sent to queue");
     }
 }

@@ -1,0 +1,7 @@
+2024-07-09 13:33:30.4477|INFO|PreProcessor.Program|Application started
+2024-07-09 13:33:30.4981|INFO|PreProcessor1.RabbitMqService|RabbitMQ connection established
+2024-07-09 13:33:30.4981|INFO|PreProcessor1.RabbitMqService|Started listening to queue: pre-queue
+2024-07-09 13:35:43.4069|INFO|PreProcessor.Program|Application started
+2024-07-09 13:35:43.4582|INFO|PreProcessor1.RabbitMqService|RabbitMQ connection established
+2024-07-09 13:35:43.4616|INFO|PreProcessor1.RabbitMqService|Started listening to queue: pre-queue
+2024-07-09 13:35:49.6378|INFO|PreProcessor1.RabbitMqService|Message for user was sent to queue
