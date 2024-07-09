@@ -1,17 +1,13 @@
-﻿using HeartbeatApp.RabbitMq;
-using Microsoft.Extensions.Hosting;
-using System;
-using System.IO;
-using System.Threading;
-using System.Threading.Tasks;
+﻿
+using HeartbeatApp.RabbitMq;
 using NLog;
-using NLog.Web;
 
 namespace HeartbeatApp.Models
 {
-    public class CheckQueue : BackgroundService
+    public class CheckSentQueue : BackgroundService
     {
-        private readonly string queueName = "queue";
+
+        private readonly string queueName = "sent-queue";
         private Timer sendTimer;
         private Timer listenTimer;
         private readonly string flagPath = "../../chatbot/webapp/stop.flag";
@@ -49,7 +45,7 @@ namespace HeartbeatApp.Models
             {
                 Queue.StartListening(queueName, (message) =>
                 {
-                   // _logger.Warn("Stop flag detected");
+                    //_logger.Warn("Stop flag detected");
                     DeleteFlagFileIfExists(flagPath);
                 });
             }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PreProcessor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5e6b7efee79b6ff6b5c6f51d19594db5febe859")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae9d5df6c86fdca5517d46a017fca3c16977901f")]
 [assembly: System.Reflection.AssemblyProductAttribute("PreProcessor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PreProcessor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

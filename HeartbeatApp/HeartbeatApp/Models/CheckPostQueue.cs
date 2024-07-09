@@ -33,7 +33,7 @@ namespace HeartbeatApp.Models
             }
             catch (Exception ex)
             {
-                _logger.Error($"Error sending message to queue: {ex.Message}");
+                _logger.Error($"Error sending message to post-queue");
                 CreateFlagFile();
             }
         }
@@ -44,7 +44,7 @@ namespace HeartbeatApp.Models
             {
                 Queue.StartListening(queueName, (message) =>
                 {
-                    //_logger.Info("Message received from queue: " + message);
+                    _logger.Warn("Stop flag not found");
                     DeleteFlagFileIfExists(flagPath);
                 });
             }

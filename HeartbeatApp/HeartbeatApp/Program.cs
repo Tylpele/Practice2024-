@@ -12,6 +12,7 @@ builder.Services.AddSignalR();
 builder.Services.AddHostedService<CheckPreQueue>();
 builder.Services.AddHostedService<CheckQueue>();
 builder.Services.AddHostedService<CheckPostQueue>();
+builder.Services.AddHostedService<CheckSentQueue>();
 
 logger.Debug("init main");
 var app = builder.Build();

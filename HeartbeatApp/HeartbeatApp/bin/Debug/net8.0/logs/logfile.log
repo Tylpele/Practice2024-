@@ -11124,3 +11124,1517 @@
 2024-07-09 15:53:20.0468 INFO Message sent to queue 
 2024-07-09 15:53:20.0468 INFO Message sent to post-queue 
 2024-07-09 15:53:20.0468 INFO Message sent to pre-queue 
+2024-07-09 16:00:10.7910 INFO Message sent to post-queue 
+2024-07-09 16:00:10.7910 INFO Message sent to pre-queue 
+2024-07-09 16:00:10.7910 INFO Message sent to queue 
+2024-07-09 16:00:15.7609 INFO Message sent to queue 
+2024-07-09 16:00:15.7609 INFO Message sent to pre-queue 
+2024-07-09 16:00:15.7609 INFO Message sent to post-queue 
+2024-07-09 16:00:20.7638 INFO Message sent to post-queue 
+2024-07-09 16:00:20.7638 INFO Message sent to queue 
+2024-07-09 16:00:20.7638 INFO Message sent to pre-queue 
+2024-07-09 16:00:25.7573 INFO Message sent to queue 
+2024-07-09 16:00:25.7573 INFO Message sent to pre-queue 
+2024-07-09 16:00:25.7582 INFO Message sent to post-queue 
+2024-07-09 16:00:30.7620 INFO Message sent to queue 
+2024-07-09 16:00:30.7620 INFO Message sent to pre-queue 
+2024-07-09 16:00:30.7620 INFO Message sent to post-queue 
+2024-07-09 16:00:35.7618 INFO Message sent to queue 
+2024-07-09 16:00:35.7618 INFO Message sent to pre-queue 
+2024-07-09 16:00:35.7618 INFO Message sent to post-queue 
+2024-07-09 16:00:40.7653 INFO Message sent to queue 
+2024-07-09 16:00:40.7653 INFO Message sent to post-queue 
+2024-07-09 16:00:40.7653 INFO Message sent to pre-queue 
+2024-07-09 16:00:45.7613 INFO Message sent to queue 
+2024-07-09 16:00:45.7613 INFO Message sent to post-queue 
+2024-07-09 16:00:45.7613 INFO Message sent to pre-queue 
+2024-07-09 16:00:50.7573 INFO Message sent to queue 
+2024-07-09 16:00:50.7577 INFO Message sent to post-queue 
+2024-07-09 16:00:50.7577 INFO Message sent to pre-queue 
+2024-07-09 16:00:55.7614 INFO Message sent to post-queue 
+2024-07-09 16:00:55.7614 INFO Message sent to queue 
+2024-07-09 16:00:55.7614 INFO Message sent to pre-queue 
+2024-07-09 16:01:00.7676 INFO Message sent to queue 
+2024-07-09 16:01:00.7676 INFO Message sent to post-queue 
+2024-07-09 16:01:00.7676 INFO Message sent to pre-queue 
+2024-07-09 16:01:05.7670 INFO Message sent to queue 
+2024-07-09 16:01:05.7670 INFO Message sent to post-queue 
+2024-07-09 16:01:05.7670 INFO Message sent to pre-queue 
+2024-07-09 16:01:10.7557 INFO Message sent to queue 
+2024-07-09 16:01:10.7557 INFO Message sent to post-queue 
+2024-07-09 16:01:10.7557 INFO Message sent to pre-queue 
+2024-07-09 16:01:15.7615 INFO Message sent to queue 
+2024-07-09 16:01:15.7615 INFO Message sent to post-queue 
+2024-07-09 16:01:15.7615 INFO Message sent to pre-queue 
+2024-07-09 16:01:20.7658 INFO Message sent to queue 
+2024-07-09 16:01:20.7658 INFO Message sent to pre-queue 
+2024-07-09 16:01:20.7658 INFO Message sent to post-queue 
+2024-07-09 16:01:25.7688 INFO Message sent to queue 
+2024-07-09 16:01:25.7688 INFO Message sent to post-queue 
+2024-07-09 16:01:25.7688 INFO Message sent to pre-queue 
+2024-07-09 16:01:30.7668 INFO Message sent to queue 
+2024-07-09 16:01:30.7668 INFO Message sent to post-queue 
+2024-07-09 16:01:30.7668 INFO Message sent to pre-queue 
+2024-07-09 16:01:35.7615 INFO Message sent to queue 
+2024-07-09 16:01:35.7615 INFO Message sent to post-queue 
+2024-07-09 16:01:35.7615 INFO Message sent to pre-queue 
+2024-07-09 16:01:40.7598 INFO Message sent to queue 
+2024-07-09 16:01:40.7598 INFO Message sent to pre-queue 
+2024-07-09 16:01:40.7598 INFO Message sent to post-queue 
+2024-07-09 16:01:45.7633 INFO Message sent to queue 
+2024-07-09 16:01:45.7633 INFO Message sent to post-queue 
+2024-07-09 16:01:45.7633 INFO Message sent to pre-queue 
+2024-07-09 16:01:50.7600 INFO Message sent to queue 
+2024-07-09 16:01:50.7600 INFO Message sent to pre-queue 
+2024-07-09 16:01:50.7600 INFO Message sent to post-queue 
+2024-07-09 16:01:55.7678 INFO Message sent to queue 
+2024-07-09 16:01:55.7678 INFO Message sent to pre-queue 
+2024-07-09 16:01:55.7678 INFO Message sent to post-queue 
+2024-07-09 16:02:00.7673 INFO Message sent to queue 
+2024-07-09 16:02:00.7673 INFO Message sent to pre-queue 
+2024-07-09 16:02:00.7673 INFO Message sent to post-queue 
+2024-07-09 16:02:05.7600 INFO Message sent to queue 
+2024-07-09 16:02:05.7600 INFO Message sent to post-queue 
+2024-07-09 16:02:05.7600 INFO Message sent to pre-queue 
+2024-07-09 16:02:10.7701 INFO Message sent to queue 
+2024-07-09 16:02:10.7701 INFO Message sent to pre-queue 
+2024-07-09 16:02:10.7701 INFO Message sent to post-queue 
+2024-07-09 16:02:15.7640 INFO Message sent to queue 
+2024-07-09 16:02:15.7640 INFO Message sent to post-queue 
+2024-07-09 16:02:15.7640 INFO Message sent to pre-queue 
+2024-07-09 16:02:20.7562 INFO Message sent to post-queue 
+2024-07-09 16:02:20.7562 INFO Message sent to queue 
+2024-07-09 16:02:20.7562 INFO Message sent to pre-queue 
+2024-07-09 16:02:25.7595 INFO Message sent to queue 
+2024-07-09 16:02:25.7595 INFO Message sent to pre-queue 
+2024-07-09 16:02:25.7595 INFO Message sent to post-queue 
+2024-07-09 16:02:30.7634 INFO Message sent to queue 
+2024-07-09 16:02:30.7634 INFO Message sent to pre-queue 
+2024-07-09 16:02:30.7634 INFO Message sent to post-queue 
+2024-07-09 16:02:35.7707 INFO Message sent to queue 
+2024-07-09 16:02:35.7707 INFO Message sent to post-queue 
+2024-07-09 16:02:35.7707 INFO Message sent to pre-queue 
+2024-07-09 16:02:40.7700 INFO Message sent to queue 
+2024-07-09 16:02:40.7700 INFO Message sent to post-queue 
+2024-07-09 16:02:40.7700 INFO Message sent to pre-queue 
+2024-07-09 16:02:45.7641 INFO Message sent to queue 
+2024-07-09 16:02:45.7641 INFO Message sent to post-queue 
+2024-07-09 16:02:45.7641 INFO Message sent to pre-queue 
+2024-07-09 16:02:50.7638 INFO Message sent to queue 
+2024-07-09 16:02:50.7638 INFO Message sent to post-queue 
+2024-07-09 16:02:50.7638 INFO Message sent to pre-queue 
+2024-07-09 16:02:55.7609 INFO Message sent to queue 
+2024-07-09 16:02:55.7609 INFO Message sent to post-queue 
+2024-07-09 16:02:55.7609 INFO Message sent to pre-queue 
+2024-07-09 16:03:00.7585 INFO Message sent to queue 
+2024-07-09 16:03:00.7585 INFO Message sent to post-queue 
+2024-07-09 16:03:00.7585 INFO Message sent to pre-queue 
+2024-07-09 16:03:05.7634 INFO Message sent to queue 
+2024-07-09 16:03:05.7634 INFO Message sent to post-queue 
+2024-07-09 16:03:05.7634 INFO Message sent to pre-queue 
+2024-07-09 16:03:10.7563 INFO Message sent to queue 
+2024-07-09 16:03:10.7563 INFO Message sent to post-queue 
+2024-07-09 16:03:10.7563 INFO Message sent to pre-queue 
+2024-07-09 16:03:15.7696 INFO Message sent to queue 
+2024-07-09 16:03:15.7696 INFO Message sent to pre-queue 
+2024-07-09 16:03:15.7696 INFO Message sent to post-queue 
+2024-07-09 16:03:20.7622 INFO Message sent to post-queue 
+2024-07-09 16:03:20.7622 INFO Message sent to queue 
+2024-07-09 16:03:20.7622 INFO Message sent to pre-queue 
+2024-07-09 16:03:25.7680 INFO Message sent to queue 
+2024-07-09 16:03:25.7680 INFO Message sent to post-queue 
+2024-07-09 16:03:25.7680 INFO Message sent to pre-queue 
+2024-07-09 16:03:30.7671 INFO Message sent to queue 
+2024-07-09 16:03:30.7671 INFO Message sent to post-queue 
+2024-07-09 16:03:30.7671 INFO Message sent to pre-queue 
+2024-07-09 16:03:35.7697 INFO Message sent to queue 
+2024-07-09 16:03:35.7697 INFO Message sent to pre-queue 
+2024-07-09 16:03:35.7697 INFO Message sent to post-queue 
+2024-07-09 16:03:40.7568 INFO Message sent to queue 
+2024-07-09 16:03:40.7568 INFO Message sent to post-queue 
+2024-07-09 16:03:40.7568 INFO Message sent to pre-queue 
+2024-07-09 16:03:45.7680 INFO Message sent to queue 
+2024-07-09 16:03:45.7680 INFO Message sent to post-queue 
+2024-07-09 16:03:45.7680 INFO Message sent to pre-queue 
+2024-07-09 16:03:50.7627 INFO Message sent to queue 
+2024-07-09 16:03:50.7627 INFO Message sent to post-queue 
+2024-07-09 16:03:50.7627 INFO Message sent to pre-queue 
+2024-07-09 16:03:55.7655 INFO Message sent to queue 
+2024-07-09 16:03:55.7655 INFO Message sent to pre-queue 
+2024-07-09 16:03:55.7655 INFO Message sent to post-queue 
+2024-07-09 16:04:00.7637 INFO Message sent to queue 
+2024-07-09 16:04:00.7637 INFO Message sent to post-queue 
+2024-07-09 16:04:00.7637 INFO Message sent to pre-queue 
+2024-07-09 16:04:05.7660 INFO Message sent to queue 
+2024-07-09 16:04:05.7660 INFO Message sent to post-queue 
+2024-07-09 16:04:05.7660 INFO Message sent to pre-queue 
+2024-07-09 16:04:10.7695 INFO Message sent to queue 
+2024-07-09 16:04:10.7695 INFO Message sent to post-queue 
+2024-07-09 16:04:10.7695 INFO Message sent to pre-queue 
+2024-07-09 16:04:15.7620 INFO Message sent to queue 
+2024-07-09 16:04:15.7620 INFO Message sent to post-queue 
+2024-07-09 16:04:15.7620 INFO Message sent to pre-queue 
+2024-07-09 16:04:20.7668 INFO Message sent to queue 
+2024-07-09 16:04:20.7668 INFO Message sent to pre-queue 
+2024-07-09 16:04:20.7668 INFO Message sent to post-queue 
+2024-07-09 16:04:25.7679 INFO Message sent to queue 
+2024-07-09 16:04:25.7679 INFO Message sent to post-queue 
+2024-07-09 16:04:25.7679 INFO Message sent to pre-queue 
+2024-07-09 16:04:30.7634 INFO Message sent to queue 
+2024-07-09 16:04:30.7634 INFO Message sent to post-queue 
+2024-07-09 16:04:30.7634 INFO Message sent to pre-queue 
+2024-07-09 16:04:35.7684 INFO Message sent to queue 
+2024-07-09 16:04:35.7684 INFO Message sent to post-queue 
+2024-07-09 16:04:35.7684 INFO Message sent to pre-queue 
+2024-07-09 16:04:40.7626 INFO Message sent to queue 
+2024-07-09 16:04:40.7626 INFO Message sent to post-queue 
+2024-07-09 16:04:40.7626 INFO Message sent to pre-queue 
+2024-07-09 16:04:45.7658 INFO Message sent to queue 
+2024-07-09 16:04:45.7658 INFO Message sent to post-queue 
+2024-07-09 16:04:45.7658 INFO Message sent to pre-queue 
+2024-07-09 16:04:50.7618 INFO Message sent to queue 
+2024-07-09 16:04:50.7618 INFO Message sent to post-queue 
+2024-07-09 16:04:50.7618 INFO Message sent to pre-queue 
+2024-07-09 16:04:55.7704 INFO Message sent to queue 
+2024-07-09 16:04:55.7704 INFO Message sent to post-queue 
+2024-07-09 16:04:55.7704 INFO Message sent to pre-queue 
+2024-07-09 16:05:00.7556 INFO Message sent to queue 
+2024-07-09 16:05:00.7556 INFO Message sent to post-queue 
+2024-07-09 16:05:00.7556 INFO Message sent to pre-queue 
+2024-07-09 16:05:05.7577 INFO Message sent to queue 
+2024-07-09 16:05:05.7577 INFO Message sent to post-queue 
+2024-07-09 16:05:05.7577 INFO Message sent to pre-queue 
+2024-07-09 16:05:10.7564 INFO Message sent to queue 
+2024-07-09 16:05:10.7564 INFO Message sent to post-queue 
+2024-07-09 16:05:10.7564 INFO Message sent to pre-queue 
+2024-07-09 16:05:15.7650 INFO Message sent to queue 
+2024-07-09 16:05:15.7650 INFO Message sent to post-queue 
+2024-07-09 16:05:15.7650 INFO Message sent to pre-queue 
+2024-07-09 16:05:20.7658 INFO Message sent to queue 
+2024-07-09 16:05:20.7658 INFO Message sent to pre-queue 
+2024-07-09 16:05:20.7658 INFO Message sent to post-queue 
+2024-07-09 16:05:25.7673 INFO Message sent to queue 
+2024-07-09 16:05:25.7673 INFO Message sent to post-queue 
+2024-07-09 16:05:25.7673 INFO Message sent to pre-queue 
+2024-07-09 16:05:30.7613 INFO Message sent to queue 
+2024-07-09 16:05:30.7613 INFO Message sent to post-queue 
+2024-07-09 16:05:30.7613 INFO Message sent to pre-queue 
+2024-07-09 16:05:35.7609 INFO Message sent to queue 
+2024-07-09 16:05:35.7609 INFO Message sent to post-queue 
+2024-07-09 16:05:35.7609 INFO Message sent to pre-queue 
+2024-07-09 16:05:40.7693 INFO Message sent to queue 
+2024-07-09 16:05:40.7693 INFO Message sent to post-queue 
+2024-07-09 16:05:40.7693 INFO Message sent to pre-queue 
+2024-07-09 16:05:45.7657 INFO Message sent to queue 
+2024-07-09 16:05:45.7657 INFO Message sent to post-queue 
+2024-07-09 16:05:45.7657 INFO Message sent to pre-queue 
+2024-07-09 16:05:50.7652 INFO Message sent to queue 
+2024-07-09 16:05:50.7652 INFO Message sent to pre-queue 
+2024-07-09 16:05:50.7652 INFO Message sent to post-queue 
+2024-07-09 16:05:55.7667 INFO Message sent to queue 
+2024-07-09 16:05:55.7667 INFO Message sent to post-queue 
+2024-07-09 16:05:55.7667 INFO Message sent to pre-queue 
+2024-07-09 16:06:00.7617 INFO Message sent to queue 
+2024-07-09 16:06:00.7617 INFO Message sent to post-queue 
+2024-07-09 16:06:00.7617 INFO Message sent to pre-queue 
+2024-07-09 16:06:05.7667 INFO Message sent to queue 
+2024-07-09 16:06:05.7667 INFO Message sent to post-queue 
+2024-07-09 16:06:05.7667 INFO Message sent to pre-queue 
+2024-07-09 16:06:10.7638 INFO Message sent to queue 
+2024-07-09 16:06:10.7638 INFO Message sent to post-queue 
+2024-07-09 16:06:10.7638 INFO Message sent to pre-queue 
+2024-07-09 16:06:15.7633 INFO Message sent to queue 
+2024-07-09 16:06:15.7633 INFO Message sent to post-queue 
+2024-07-09 16:06:15.7633 INFO Message sent to pre-queue 
+2024-07-09 16:06:20.7629 INFO Message sent to queue 
+2024-07-09 16:06:20.7629 INFO Message sent to post-queue 
+2024-07-09 16:06:20.7629 INFO Message sent to pre-queue 
+2024-07-09 16:06:25.7689 INFO Message sent to queue 
+2024-07-09 16:06:25.7689 INFO Message sent to post-queue 
+2024-07-09 16:06:25.7689 INFO Message sent to pre-queue 
+2024-07-09 16:06:30.7555 INFO Message sent to queue 
+2024-07-09 16:06:30.7555 INFO Message sent to post-queue 
+2024-07-09 16:06:30.7555 INFO Message sent to pre-queue 
+2024-07-09 16:06:35.7566 INFO Message sent to queue 
+2024-07-09 16:06:35.7566 INFO Message sent to post-queue 
+2024-07-09 16:06:35.7566 INFO Message sent to pre-queue 
+2024-07-09 16:06:40.7590 INFO Message sent to queue 
+2024-07-09 16:06:40.7590 INFO Message sent to post-queue 
+2024-07-09 16:06:40.7590 INFO Message sent to pre-queue 
+2024-07-09 16:06:45.7649 INFO Message sent to queue 
+2024-07-09 16:06:45.7649 INFO Message sent to pre-queue 
+2024-07-09 16:06:45.7649 INFO Message sent to post-queue 
+2024-07-09 16:06:50.7649 INFO Message sent to queue 
+2024-07-09 16:06:50.7649 INFO Message sent to post-queue 
+2024-07-09 16:06:50.7649 INFO Message sent to pre-queue 
+2024-07-09 16:06:55.7696 INFO Message sent to queue 
+2024-07-09 16:06:55.7696 INFO Message sent to post-queue 
+2024-07-09 16:06:55.7696 INFO Message sent to pre-queue 
+2024-07-09 16:07:00.7668 INFO Message sent to queue 
+2024-07-09 16:07:00.7668 INFO Message sent to post-queue 
+2024-07-09 16:07:00.7668 INFO Message sent to pre-queue 
+2024-07-09 16:07:05.7650 INFO Message sent to queue 
+2024-07-09 16:07:05.7650 INFO Message sent to pre-queue 
+2024-07-09 16:07:05.7650 INFO Message sent to post-queue 
+2024-07-09 16:07:10.7558 INFO Message sent to queue 
+2024-07-09 16:07:10.7558 INFO Message sent to post-queue 
+2024-07-09 16:07:10.7558 INFO Message sent to pre-queue 
+2024-07-09 16:07:15.7601 INFO Message sent to queue 
+2024-07-09 16:07:15.7601 INFO Message sent to pre-queue 
+2024-07-09 16:07:15.7601 INFO Message sent to post-queue 
+2024-07-09 16:07:20.7652 INFO Message sent to queue 
+2024-07-09 16:07:20.7652 INFO Message sent to post-queue 
+2024-07-09 16:07:20.7652 INFO Message sent to pre-queue 
+2024-07-09 16:07:25.7700 INFO Message sent to queue 
+2024-07-09 16:07:25.7700 INFO Message sent to post-queue 
+2024-07-09 16:07:25.7700 INFO Message sent to pre-queue 
+2024-07-09 16:07:30.7574 INFO Message sent to queue 
+2024-07-09 16:07:30.7578 INFO Message sent to post-queue 
+2024-07-09 16:07:30.7578 INFO Message sent to pre-queue 
+2024-07-09 16:07:35.7646 INFO Message sent to queue 
+2024-07-09 16:07:35.7646 INFO Message sent to post-queue 
+2024-07-09 16:07:35.7646 INFO Message sent to pre-queue 
+2024-07-09 16:07:40.7639 INFO Message sent to queue 
+2024-07-09 16:07:40.7639 INFO Message sent to post-queue 
+2024-07-09 16:07:40.7639 INFO Message sent to pre-queue 
+2024-07-09 16:07:45.7596 INFO Message sent to queue 
+2024-07-09 16:07:45.7596 INFO Message sent to post-queue 
+2024-07-09 16:07:45.7596 INFO Message sent to pre-queue 
+2024-07-09 16:07:50.7634 INFO Message sent to queue 
+2024-07-09 16:07:50.7634 INFO Message sent to pre-queue 
+2024-07-09 16:07:50.7634 INFO Message sent to post-queue 
+2024-07-09 16:07:55.7666 INFO Message sent to queue 
+2024-07-09 16:07:55.7666 INFO Message sent to post-queue 
+2024-07-09 16:07:55.7666 INFO Message sent to pre-queue 
+2024-07-09 16:08:00.7696 INFO Message sent to queue 
+2024-07-09 16:08:00.7696 INFO Message sent to pre-queue 
+2024-07-09 16:08:00.7696 INFO Message sent to post-queue 
+2024-07-09 16:08:05.7643 INFO Message sent to queue 
+2024-07-09 16:08:05.7643 INFO Message sent to pre-queue 
+2024-07-09 16:08:05.7643 INFO Message sent to post-queue 
+2024-07-09 16:08:13.2495 INFO Message sent to post-queue 
+2024-07-09 16:08:13.2495 INFO Message sent to queue 
+2024-07-09 16:08:13.2495 INFO Message sent to pre-queue 
+2024-07-09 16:08:18.2247 INFO Message sent to queue 
+2024-07-09 16:08:18.2247 INFO Message sent to post-queue 
+2024-07-09 16:08:18.2247 INFO Message sent to pre-queue 
+2024-07-09 16:08:23.2281 INFO Message sent to queue 
+2024-07-09 16:08:23.2281 INFO Message sent to pre-queue 
+2024-07-09 16:08:23.2281 INFO Message sent to post-queue 
+2024-07-09 16:08:28.2283 INFO Message sent to post-queue 
+2024-07-09 16:08:28.2283 INFO Message sent to queue 
+2024-07-09 16:08:28.2283 INFO Message sent to pre-queue 
+2024-07-09 16:08:33.2208 INFO Message sent to queue 
+2024-07-09 16:08:33.2208 INFO Message sent to pre-queue 
+2024-07-09 16:08:33.2208 INFO Message sent to post-queue 
+2024-07-09 16:08:38.2191 INFO Message sent to queue 
+2024-07-09 16:08:38.2191 INFO Message sent to pre-queue 
+2024-07-09 16:08:38.2191 INFO Message sent to post-queue 
+2024-07-09 16:08:43.2261 INFO Message sent to queue 
+2024-07-09 16:08:43.2265 INFO Message sent to pre-queue 
+2024-07-09 16:08:43.2265 INFO Message sent to post-queue 
+2024-07-09 16:08:48.2261 INFO Message sent to queue 
+2024-07-09 16:08:48.2265 INFO Message sent to post-queue 
+2024-07-09 16:08:48.2265 INFO Message sent to pre-queue 
+2024-07-09 16:08:53.2207 INFO Message sent to queue 
+2024-07-09 16:08:53.2333 INFO Message sent to post-queue 
+2024-07-09 16:08:53.2333 INFO Message sent to pre-queue 
+2024-07-09 16:08:58.2258 INFO Message sent to queue 
+2024-07-09 16:08:58.2262 INFO Message sent to pre-queue 
+2024-07-09 16:08:58.2262 INFO Message sent to post-queue 
+2024-07-09 16:09:03.2261 INFO Message sent to queue 
+2024-07-09 16:09:03.2267 INFO Message sent to post-queue 
+2024-07-09 16:09:03.2267 INFO Message sent to pre-queue 
+2024-07-09 16:09:08.2196 INFO Message sent to queue 
+2024-07-09 16:09:08.2196 INFO Message sent to post-queue 
+2024-07-09 16:09:08.2196 INFO Message sent to pre-queue 
+2024-07-09 16:09:13.2162 INFO Message sent to queue 
+2024-07-09 16:09:13.2162 INFO Message sent to pre-queue 
+2024-07-09 16:09:13.2162 INFO Message sent to post-queue 
+2024-07-09 16:09:18.2184 INFO Message sent to queue 
+2024-07-09 16:09:18.2184 INFO Message sent to post-queue 
+2024-07-09 16:09:18.2184 INFO Message sent to pre-queue 
+2024-07-09 16:09:23.2171 INFO Message sent to queue 
+2024-07-09 16:09:23.2171 INFO Message sent to post-queue 
+2024-07-09 16:09:23.2171 INFO Message sent to pre-queue 
+2024-07-09 16:09:28.2273 INFO Message sent to queue 
+2024-07-09 16:09:28.2273 INFO Message sent to post-queue 
+2024-07-09 16:09:28.2273 INFO Message sent to pre-queue 
+2024-07-09 16:09:33.2252 INFO Message sent to queue 
+2024-07-09 16:09:33.2252 INFO Message sent to post-queue 
+2024-07-09 16:09:33.2252 INFO Message sent to pre-queue 
+2024-07-09 16:09:38.2142 INFO Message sent to queue 
+2024-07-09 16:09:38.2142 INFO Message sent to pre-queue 
+2024-07-09 16:09:38.2142 INFO Message sent to post-queue 
+2024-07-09 16:09:43.2274 INFO Message sent to queue 
+2024-07-09 16:09:43.2274 INFO Message sent to post-queue 
+2024-07-09 16:09:43.2274 INFO Message sent to pre-queue 
+2024-07-09 16:09:48.2153 INFO Message sent to queue 
+2024-07-09 16:09:48.2153 INFO Message sent to post-queue 
+2024-07-09 16:09:48.2153 INFO Message sent to pre-queue 
+2024-07-09 16:09:53.2216 INFO Message sent to queue 
+2024-07-09 16:09:53.2216 INFO Message sent to pre-queue 
+2024-07-09 16:09:53.2216 INFO Message sent to post-queue 
+2024-07-09 16:09:58.2262 INFO Message sent to queue 
+2024-07-09 16:09:58.2262 INFO Message sent to post-queue 
+2024-07-09 16:09:58.2266 INFO Message sent to pre-queue 
+2024-07-09 16:10:03.2147 INFO Message sent to queue 
+2024-07-09 16:10:03.2147 INFO Message sent to pre-queue 
+2024-07-09 16:10:03.2147 INFO Message sent to post-queue 
+2024-07-09 16:10:08.2158 INFO Message sent to queue 
+2024-07-09 16:10:08.2158 INFO Message sent to post-queue 
+2024-07-09 16:10:08.2158 INFO Message sent to pre-queue 
+2024-07-09 16:10:13.2223 INFO Message sent to queue 
+2024-07-09 16:10:13.2223 INFO Message sent to post-queue 
+2024-07-09 16:10:13.2223 INFO Message sent to pre-queue 
+2024-07-09 16:10:18.2170 INFO Message sent to queue 
+2024-07-09 16:10:18.2170 INFO Message sent to post-queue 
+2024-07-09 16:10:18.2170 INFO Message sent to pre-queue 
+2024-07-09 16:10:23.2272 INFO Message sent to queue 
+2024-07-09 16:10:23.2272 INFO Message sent to post-queue 
+2024-07-09 16:10:23.2272 INFO Message sent to pre-queue 
+2024-07-09 16:10:28.2255 INFO Message sent to queue 
+2024-07-09 16:10:28.2255 INFO Message sent to post-queue 
+2024-07-09 16:10:28.2255 INFO Message sent to pre-queue 
+2024-07-09 16:10:33.2161 INFO Message sent to queue 
+2024-07-09 16:10:33.2161 INFO Message sent to post-queue 
+2024-07-09 16:10:33.2161 INFO Message sent to pre-queue 
+2024-07-09 16:10:38.2267 INFO Message sent to queue 
+2024-07-09 16:10:38.2267 INFO Message sent to post-queue 
+2024-07-09 16:10:38.2267 INFO Message sent to pre-queue 
+2024-07-09 16:10:43.2188 INFO Message sent to queue 
+2024-07-09 16:10:43.2188 INFO Message sent to pre-queue 
+2024-07-09 16:10:43.2188 INFO Message sent to post-queue 
+2024-07-09 16:10:48.2175 INFO Message sent to queue 
+2024-07-09 16:10:48.2175 INFO Message sent to post-queue 
+2024-07-09 16:10:48.2175 INFO Message sent to pre-queue 
+2024-07-09 16:10:53.2289 INFO Message sent to queue 
+2024-07-09 16:10:53.2289 INFO Message sent to pre-queue 
+2024-07-09 16:10:53.2289 INFO Message sent to post-queue 
+2024-07-09 16:10:58.2276 INFO Message sent to queue 
+2024-07-09 16:10:58.2276 INFO Message sent to post-queue 
+2024-07-09 16:10:58.2276 INFO Message sent to pre-queue 
+2024-07-09 16:11:03.2192 INFO Message sent to queue 
+2024-07-09 16:11:03.2192 INFO Message sent to post-queue 
+2024-07-09 16:11:03.2192 INFO Message sent to pre-queue 
+2024-07-09 16:11:08.2260 INFO Message sent to queue 
+2024-07-09 16:11:08.2264 INFO Message sent to post-queue 
+2024-07-09 16:11:08.2264 INFO Message sent to pre-queue 
+2024-07-09 16:11:13.2145 INFO Message sent to queue 
+2024-07-09 16:11:13.2145 INFO Message sent to post-queue 
+2024-07-09 16:11:13.2145 INFO Message sent to pre-queue 
+2024-07-09 16:11:18.2223 INFO Message sent to queue 
+2024-07-09 16:11:18.2223 INFO Message sent to post-queue 
+2024-07-09 16:11:18.2223 INFO Message sent to pre-queue 
+2024-07-09 16:11:23.2267 INFO Message sent to queue 
+2024-07-09 16:11:23.2267 INFO Message sent to post-queue 
+2024-07-09 16:11:23.2267 INFO Message sent to pre-queue 
+2024-07-09 16:11:28.2214 INFO Message sent to queue 
+2024-07-09 16:11:28.2214 INFO Message sent to post-queue 
+2024-07-09 16:11:28.2214 INFO Message sent to pre-queue 
+2024-07-09 16:11:33.2219 INFO Message sent to queue 
+2024-07-09 16:11:33.2219 INFO Message sent to post-queue 
+2024-07-09 16:11:33.2219 INFO Message sent to pre-queue 
+2024-07-09 16:11:38.2176 INFO Message sent to queue 
+2024-07-09 16:11:38.2176 INFO Message sent to post-queue 
+2024-07-09 16:11:38.2176 INFO Message sent to pre-queue 
+2024-07-09 16:11:43.2215 INFO Message sent to queue 
+2024-07-09 16:11:43.2215 INFO Message sent to post-queue 
+2024-07-09 16:11:43.2215 INFO Message sent to pre-queue 
+2024-07-09 16:11:48.2192 INFO Message sent to queue 
+2024-07-09 16:11:48.2192 INFO Message sent to pre-queue 
+2024-07-09 16:11:48.2192 INFO Message sent to post-queue 
+2024-07-09 16:11:53.2182 INFO Message sent to queue 
+2024-07-09 16:11:53.2182 INFO Message sent to post-queue 
+2024-07-09 16:11:53.2182 INFO Message sent to pre-queue 
+2024-07-09 16:11:58.2255 INFO Message sent to queue 
+2024-07-09 16:11:58.2255 INFO Message sent to pre-queue 
+2024-07-09 16:11:58.2260 INFO Message sent to post-queue 
+2024-07-09 16:12:03.2178 INFO Message sent to queue 
+2024-07-09 16:12:03.2178 INFO Message sent to post-queue 
+2024-07-09 16:12:03.2178 INFO Message sent to pre-queue 
+2024-07-09 16:12:08.2195 INFO Message sent to queue 
+2024-07-09 16:12:08.2195 INFO Message sent to post-queue 
+2024-07-09 16:12:08.2195 INFO Message sent to pre-queue 
+2024-07-09 16:12:13.2282 INFO Message sent to queue 
+2024-07-09 16:12:13.2282 INFO Message sent to pre-queue 
+2024-07-09 16:12:13.2282 INFO Message sent to post-queue 
+2024-07-09 16:12:44.3927 INFO Message sent to queue 
+2024-07-09 16:12:44.3927 INFO Message sent to pre-queue 
+2024-07-09 16:12:44.3927 INFO Message sent to post-queue 
+2024-07-09 16:12:49.3640 INFO Message sent to queue 
+2024-07-09 16:12:49.3640 INFO Message sent to pre-queue 
+2024-07-09 16:12:49.3640 INFO Message sent to post-queue 
+2024-07-09 16:12:54.3594 INFO Message sent to post-queue 
+2024-07-09 16:12:54.3594 INFO Message sent to queue 
+2024-07-09 16:12:54.3594 INFO Message sent to pre-queue 
+2024-07-09 16:12:59.3655 INFO Message sent to queue 
+2024-07-09 16:12:59.3655 INFO Message sent to post-queue 
+2024-07-09 16:12:59.3655 INFO Message sent to pre-queue 
+2024-07-09 16:13:04.3698 INFO Message sent to post-queue 
+2024-07-09 16:13:04.3698 INFO Message sent to queue 
+2024-07-09 16:13:04.3698 INFO Message sent to pre-queue 
+2024-07-09 16:13:09.3718 INFO Message sent to queue 
+2024-07-09 16:13:09.3718 INFO Message sent to pre-queue 
+2024-07-09 16:13:09.3718 INFO Message sent to post-queue 
+2024-07-09 16:13:14.3725 INFO Message sent to queue 
+2024-07-09 16:13:14.3725 INFO Message sent to post-queue 
+2024-07-09 16:13:14.3725 INFO Message sent to pre-queue 
+2024-07-09 16:13:19.3612 INFO Message sent to queue 
+2024-07-09 16:13:19.3612 INFO Message sent to post-queue 
+2024-07-09 16:13:19.3612 INFO Message sent to pre-queue 
+2024-07-09 16:13:24.3731 INFO Message sent to queue 
+2024-07-09 16:13:24.3731 INFO Message sent to post-queue 
+2024-07-09 16:13:24.3731 INFO Message sent to pre-queue 
+2024-07-09 16:13:29.3629 INFO Message sent to queue 
+2024-07-09 16:13:29.3629 INFO Message sent to post-queue 
+2024-07-09 16:13:29.3629 INFO Message sent to pre-queue 
+2024-07-09 16:13:34.3588 INFO Message sent to queue 
+2024-07-09 16:13:34.3588 INFO Message sent to pre-queue 
+2024-07-09 16:13:34.3588 INFO Message sent to post-queue 
+2024-07-09 16:13:39.3710 INFO Message sent to queue 
+2024-07-09 16:13:39.3710 INFO Message sent to pre-queue 
+2024-07-09 16:13:39.3710 INFO Message sent to post-queue 
+2024-07-09 16:13:44.3630 INFO Message sent to queue 
+2024-07-09 16:13:44.3630 INFO Message sent to pre-queue 
+2024-07-09 16:13:44.3630 INFO Message sent to post-queue 
+2024-07-09 16:13:49.3681 INFO Message sent to queue 
+2024-07-09 16:13:49.3681 INFO Message sent to post-queue 
+2024-07-09 16:13:49.3681 INFO Message sent to pre-queue 
+2024-07-09 16:13:54.3650 INFO Message sent to queue 
+2024-07-09 16:13:54.3650 INFO Message sent to post-queue 
+2024-07-09 16:13:54.3650 INFO Message sent to pre-queue 
+2024-07-09 16:13:59.3734 INFO Message sent to queue 
+2024-07-09 16:13:59.3734 INFO Message sent to post-queue 
+2024-07-09 16:13:59.3734 INFO Message sent to pre-queue 
+2024-07-09 16:14:04.3679 INFO Message sent to queue 
+2024-07-09 16:14:04.3679 INFO Message sent to post-queue 
+2024-07-09 16:14:04.3679 INFO Message sent to pre-queue 
+2024-07-09 16:14:09.3595 INFO Message sent to queue 
+2024-07-09 16:14:09.3595 INFO Message sent to post-queue 
+2024-07-09 16:14:09.3595 INFO Message sent to pre-queue 
+2024-07-09 16:14:14.3643 INFO Message sent to queue 
+2024-07-09 16:14:14.3643 INFO Message sent to post-queue 
+2024-07-09 16:14:14.3643 INFO Message sent to pre-queue 
+2024-07-09 16:14:19.3631 INFO Message sent to queue 
+2024-07-09 16:14:19.3631 INFO Message sent to post-queue 
+2024-07-09 16:14:19.3631 INFO Message sent to pre-queue 
+2024-07-09 16:14:24.3653 INFO Message sent to queue 
+2024-07-09 16:14:24.3653 INFO Message sent to post-queue 
+2024-07-09 16:14:24.3653 INFO Message sent to pre-queue 
+2024-07-09 16:14:29.3681 INFO Message sent to queue 
+2024-07-09 16:14:29.3681 INFO Message sent to post-queue 
+2024-07-09 16:14:29.3681 INFO Message sent to pre-queue 
+2024-07-09 16:14:34.3728 INFO Message sent to queue 
+2024-07-09 16:14:34.3728 INFO Message sent to pre-queue 
+2024-07-09 16:14:34.3728 INFO Message sent to post-queue 
+2024-07-09 16:14:39.3631 INFO Message sent to queue 
+2024-07-09 16:14:39.3631 INFO Message sent to post-queue 
+2024-07-09 16:14:39.3631 INFO Message sent to pre-queue 
+2024-07-09 16:14:44.3610 INFO Message sent to queue 
+2024-07-09 16:14:44.3610 INFO Message sent to post-queue 
+2024-07-09 16:14:44.3610 INFO Message sent to pre-queue 
+2024-07-09 16:14:49.3619 INFO Message sent to queue 
+2024-07-09 16:14:49.3619 INFO Message sent to post-queue 
+2024-07-09 16:14:49.3619 INFO Message sent to pre-queue 
+2024-07-09 16:14:54.3619 INFO Message sent to queue 
+2024-07-09 16:14:54.3619 INFO Message sent to pre-queue 
+2024-07-09 16:14:54.3619 INFO Message sent to post-queue 
+2024-07-09 16:14:59.3719 INFO Message sent to queue 
+2024-07-09 16:14:59.3719 INFO Message sent to pre-queue 
+2024-07-09 16:14:59.3719 INFO Message sent to post-queue 
+2024-07-09 16:15:04.3806 INFO Message sent to queue 
+2024-07-09 16:15:04.3806 INFO Message sent to post-queue 
+2024-07-09 16:15:04.3806 INFO Message sent to pre-queue 
+2024-07-09 16:15:09.4131 INFO Message sent to queue 
+2024-07-09 16:15:09.4222 INFO Message sent to post-queue 
+2024-07-09 16:15:09.4222 INFO Message sent to pre-queue 
+2024-07-09 16:15:14.3662 INFO Message sent to queue 
+2024-07-09 16:15:14.3662 INFO Message sent to post-queue 
+2024-07-09 16:15:14.3662 INFO Message sent to pre-queue 
+2024-07-09 16:15:19.3630 INFO Message sent to post-queue 
+2024-07-09 16:15:19.3630 INFO Message sent to queue 
+2024-07-09 16:15:19.3630 INFO Message sent to pre-queue 
+2024-07-09 16:15:24.3629 INFO Message sent to queue 
+2024-07-09 16:15:24.3629 INFO Message sent to post-queue 
+2024-07-09 16:15:24.3629 INFO Message sent to pre-queue 
+2024-07-09 16:15:29.3653 INFO Message sent to queue 
+2024-07-09 16:15:29.3653 INFO Message sent to post-queue 
+2024-07-09 16:15:29.3653 INFO Message sent to pre-queue 
+2024-07-09 16:15:34.3619 INFO Message sent to queue 
+2024-07-09 16:15:34.3619 INFO Message sent to post-queue 
+2024-07-09 16:15:34.3619 INFO Message sent to pre-queue 
+2024-07-09 16:15:39.3769 INFO Message sent to queue 
+2024-07-09 16:15:39.3769 INFO Message sent to post-queue 
+2024-07-09 16:15:39.3769 INFO Message sent to pre-queue 
+2024-07-09 16:15:44.3619 INFO Message sent to queue 
+2024-07-09 16:15:44.3619 INFO Message sent to pre-queue 
+2024-07-09 16:15:44.3619 INFO Message sent to post-queue 
+2024-07-09 16:15:49.3689 INFO Message sent to queue 
+2024-07-09 16:15:49.3689 INFO Message sent to post-queue 
+2024-07-09 16:15:49.3689 INFO Message sent to pre-queue 
+2024-07-09 16:15:54.3616 INFO Message sent to queue 
+2024-07-09 16:15:54.3616 INFO Message sent to post-queue 
+2024-07-09 16:15:54.3616 INFO Message sent to pre-queue 
+2024-07-09 16:15:59.3633 INFO Message sent to queue 
+2024-07-09 16:15:59.3633 INFO Message sent to post-queue 
+2024-07-09 16:15:59.3633 INFO Message sent to pre-queue 
+2024-07-09 16:16:04.3661 INFO Message sent to queue 
+2024-07-09 16:16:04.3661 INFO Message sent to pre-queue 
+2024-07-09 16:16:04.3661 INFO Message sent to post-queue 
+2024-07-09 16:16:09.3641 INFO Message sent to queue 
+2024-07-09 16:16:09.3641 INFO Message sent to post-queue 
+2024-07-09 16:16:09.3641 INFO Message sent to pre-queue 
+2024-07-09 16:16:14.3636 INFO Message sent to queue 
+2024-07-09 16:16:14.3636 INFO Message sent to post-queue 
+2024-07-09 16:16:14.3636 INFO Message sent to pre-queue 
+2024-07-09 16:16:19.3685 INFO Message sent to queue 
+2024-07-09 16:16:19.3685 INFO Message sent to pre-queue 
+2024-07-09 16:16:19.3685 INFO Message sent to post-queue 
+2024-07-09 16:16:24.3592 INFO Message sent to queue 
+2024-07-09 16:16:24.3592 INFO Message sent to post-queue 
+2024-07-09 16:16:24.3592 INFO Message sent to pre-queue 
+2024-07-09 16:16:29.3709 INFO Message sent to queue 
+2024-07-09 16:16:29.3709 INFO Message sent to pre-queue 
+2024-07-09 16:16:29.3709 INFO Message sent to post-queue 
+2024-07-09 16:16:34.3693 INFO Message sent to queue 
+2024-07-09 16:16:34.3693 INFO Message sent to pre-queue 
+2024-07-09 16:16:34.3693 INFO Message sent to post-queue 
+2024-07-09 16:16:39.3693 INFO Message sent to queue 
+2024-07-09 16:16:39.3693 INFO Message sent to post-queue 
+2024-07-09 16:16:39.3693 INFO Message sent to pre-queue 
+2024-07-09 16:16:44.3688 INFO Message sent to queue 
+2024-07-09 16:16:44.3688 INFO Message sent to post-queue 
+2024-07-09 16:16:44.3688 INFO Message sent to pre-queue 
+2024-07-09 16:16:49.3619 INFO Message sent to queue 
+2024-07-09 16:16:49.3619 INFO Message sent to post-queue 
+2024-07-09 16:16:49.3619 INFO Message sent to pre-queue 
+2024-07-09 16:16:54.3643 INFO Message sent to queue 
+2024-07-09 16:16:54.3643 INFO Message sent to pre-queue 
+2024-07-09 16:16:54.3643 INFO Message sent to post-queue 
+2024-07-09 16:16:59.3676 INFO Message sent to queue 
+2024-07-09 16:16:59.3676 INFO Message sent to post-queue 
+2024-07-09 16:16:59.3676 INFO Message sent to pre-queue 
+2024-07-09 16:17:04.3643 INFO Message sent to queue 
+2024-07-09 16:17:04.3643 INFO Message sent to pre-queue 
+2024-07-09 16:17:04.3643 INFO Message sent to post-queue 
+2024-07-09 16:17:09.3691 INFO Message sent to queue 
+2024-07-09 16:17:09.3691 INFO Message sent to pre-queue 
+2024-07-09 16:17:09.3691 INFO Message sent to post-queue 
+2024-07-09 16:17:14.3665 INFO Message sent to queue 
+2024-07-09 16:17:14.3665 INFO Message sent to post-queue 
+2024-07-09 16:17:14.3672 INFO Message sent to pre-queue 
+2024-07-09 16:17:19.3655 INFO Message sent to queue 
+2024-07-09 16:17:19.3655 INFO Message sent to post-queue 
+2024-07-09 16:17:19.3655 INFO Message sent to pre-queue 
+2024-07-09 16:17:24.3685 INFO Message sent to queue 
+2024-07-09 16:17:24.3685 INFO Message sent to post-queue 
+2024-07-09 16:17:24.3685 INFO Message sent to pre-queue 
+2024-07-09 16:17:29.3731 INFO Message sent to queue 
+2024-07-09 16:17:29.3731 INFO Message sent to pre-queue 
+2024-07-09 16:17:29.3731 INFO Message sent to post-queue 
+2024-07-09 16:17:34.3700 INFO Message sent to queue 
+2024-07-09 16:17:34.3700 INFO Message sent to pre-queue 
+2024-07-09 16:17:34.3700 INFO Message sent to post-queue 
+2024-07-09 16:17:39.3654 INFO Message sent to queue 
+2024-07-09 16:17:39.3654 INFO Message sent to pre-queue 
+2024-07-09 16:17:39.3654 INFO Message sent to post-queue 
+2024-07-09 16:17:44.3650 INFO Message sent to queue 
+2024-07-09 16:17:44.3650 INFO Message sent to post-queue 
+2024-07-09 16:17:44.3650 INFO Message sent to pre-queue 
+2024-07-09 16:17:49.3641 INFO Message sent to queue 
+2024-07-09 16:17:49.3641 INFO Message sent to post-queue 
+2024-07-09 16:17:49.3641 INFO Message sent to pre-queue 
+2024-07-09 16:17:54.3672 INFO Message sent to queue 
+2024-07-09 16:17:54.3675 INFO Message sent to pre-queue 
+2024-07-09 16:17:54.3675 INFO Message sent to post-queue 
+2024-07-09 16:17:59.3633 INFO Message sent to queue 
+2024-07-09 16:17:59.3633 INFO Message sent to post-queue 
+2024-07-09 16:17:59.3633 INFO Message sent to pre-queue 
+2024-07-09 16:18:04.3655 INFO Message sent to queue 
+2024-07-09 16:18:04.3655 INFO Message sent to pre-queue 
+2024-07-09 16:18:04.3655 INFO Message sent to post-queue 
+2024-07-09 16:18:09.3631 INFO Message sent to queue 
+2024-07-09 16:18:09.3631 INFO Message sent to post-queue 
+2024-07-09 16:18:09.3631 INFO Message sent to pre-queue 
+2024-07-09 16:18:14.3732 INFO Message sent to queue 
+2024-07-09 16:18:14.3732 INFO Message sent to post-queue 
+2024-07-09 16:18:14.3732 INFO Message sent to pre-queue 
+2024-07-09 16:18:19.3626 INFO Message sent to queue 
+2024-07-09 16:18:19.3626 INFO Message sent to post-queue 
+2024-07-09 16:18:19.3626 INFO Message sent to pre-queue 
+2024-07-09 16:18:24.3587 INFO Message sent to queue 
+2024-07-09 16:18:24.3587 INFO Message sent to post-queue 
+2024-07-09 16:18:24.3587 INFO Message sent to pre-queue 
+2024-07-09 16:18:29.3606 INFO Message sent to queue 
+2024-07-09 16:18:29.3606 INFO Message sent to pre-queue 
+2024-07-09 16:18:29.3606 INFO Message sent to post-queue 
+2024-07-09 16:18:34.3727 INFO Message sent to queue 
+2024-07-09 16:18:34.3727 INFO Message sent to post-queue 
+2024-07-09 16:18:34.3727 INFO Message sent to pre-queue 
+2024-07-09 16:18:39.3686 INFO Message sent to queue 
+2024-07-09 16:18:39.3686 INFO Message sent to post-queue 
+2024-07-09 16:18:39.3686 INFO Message sent to pre-queue 
+2024-07-09 16:18:44.3615 INFO Message sent to queue 
+2024-07-09 16:18:44.3615 INFO Message sent to pre-queue 
+2024-07-09 16:18:44.3615 INFO Message sent to post-queue 
+2024-07-09 16:18:49.3601 INFO Message sent to queue 
+2024-07-09 16:18:49.3601 INFO Message sent to pre-queue 
+2024-07-09 16:18:49.3601 INFO Message sent to post-queue 
+2024-07-09 16:18:54.3641 INFO Message sent to queue 
+2024-07-09 16:18:54.3641 INFO Message sent to post-queue 
+2024-07-09 16:18:54.3641 INFO Message sent to pre-queue 
+2024-07-09 16:18:59.3631 INFO Message sent to queue 
+2024-07-09 16:18:59.3631 INFO Message sent to pre-queue 
+2024-07-09 16:18:59.3631 INFO Message sent to post-queue 
+2024-07-09 16:19:04.3662 INFO Message sent to queue 
+2024-07-09 16:19:04.3662 INFO Message sent to post-queue 
+2024-07-09 16:19:04.3669 INFO Message sent to pre-queue 
+2024-07-09 16:19:09.3697 INFO Message sent to queue 
+2024-07-09 16:19:09.3697 INFO Message sent to post-queue 
+2024-07-09 16:19:09.3697 INFO Message sent to pre-queue 
+2024-07-09 16:19:14.3683 INFO Message sent to queue 
+2024-07-09 16:19:14.3683 INFO Message sent to pre-queue 
+2024-07-09 16:19:14.3683 INFO Message sent to post-queue 
+2024-07-09 16:19:19.3721 INFO Message sent to queue 
+2024-07-09 16:19:19.3721 INFO Message sent to post-queue 
+2024-07-09 16:19:19.3721 INFO Message sent to pre-queue 
+2024-07-09 16:19:24.3767 INFO Message sent to queue 
+2024-07-09 16:19:24.3767 INFO Message sent to post-queue 
+2024-07-09 16:19:24.3767 INFO Message sent to pre-queue 
+2024-07-09 16:19:29.3592 INFO Message sent to queue 
+2024-07-09 16:19:29.3592 INFO Message sent to post-queue 
+2024-07-09 16:19:29.3592 INFO Message sent to pre-queue 
+2024-07-09 16:19:34.3586 INFO Message sent to queue 
+2024-07-09 16:19:34.3586 INFO Message sent to post-queue 
+2024-07-09 16:19:34.3586 INFO Message sent to pre-queue 
+2024-07-09 16:19:39.3630 INFO Message sent to queue 
+2024-07-09 16:19:39.3630 INFO Message sent to post-queue 
+2024-07-09 16:19:39.3630 INFO Message sent to pre-queue 
+2024-07-09 16:19:44.3646 INFO Message sent to queue 
+2024-07-09 16:19:44.3646 INFO Message sent to post-queue 
+2024-07-09 16:19:44.3646 INFO Message sent to pre-queue 
+2024-07-09 16:19:49.3673 INFO Message sent to queue 
+2024-07-09 16:19:49.3673 INFO Message sent to post-queue 
+2024-07-09 16:19:49.3673 INFO Message sent to pre-queue 
+2024-07-09 16:19:54.3674 INFO Message sent to queue 
+2024-07-09 16:19:54.3674 INFO Message sent to post-queue 
+2024-07-09 16:19:54.3674 INFO Message sent to pre-queue 
+2024-07-09 16:19:59.3729 INFO Message sent to queue 
+2024-07-09 16:19:59.3729 INFO Message sent to post-queue 
+2024-07-09 16:19:59.3729 INFO Message sent to pre-queue 
+2024-07-09 16:20:04.3642 INFO Message sent to queue 
+2024-07-09 16:20:04.3642 INFO Message sent to post-queue 
+2024-07-09 16:20:04.3642 INFO Message sent to pre-queue 
+2024-07-09 16:20:09.3720 INFO Message sent to queue 
+2024-07-09 16:20:09.3720 INFO Message sent to pre-queue 
+2024-07-09 16:20:09.3720 INFO Message sent to post-queue 
+2024-07-09 16:20:14.3582 INFO Message sent to queue 
+2024-07-09 16:20:14.3582 INFO Message sent to pre-queue 
+2024-07-09 16:20:14.3582 INFO Message sent to post-queue 
+2024-07-09 16:20:19.3728 INFO Message sent to queue 
+2024-07-09 16:20:19.3728 INFO Message sent to post-queue 
+2024-07-09 16:20:19.3728 INFO Message sent to pre-queue 
+2024-07-09 16:20:24.3708 INFO Message sent to queue 
+2024-07-09 16:20:24.3708 INFO Message sent to pre-queue 
+2024-07-09 16:20:24.3708 INFO Message sent to post-queue 
+2024-07-09 16:20:29.3670 INFO Message sent to queue 
+2024-07-09 16:20:29.3670 INFO Message sent to post-queue 
+2024-07-09 16:20:29.3677 INFO Message sent to pre-queue 
+2024-07-09 16:20:34.3672 INFO Message sent to queue 
+2024-07-09 16:20:34.3675 INFO Message sent to pre-queue 
+2024-07-09 16:20:34.3675 INFO Message sent to post-queue 
+2024-07-09 16:20:39.3706 INFO Message sent to queue 
+2024-07-09 16:20:39.3706 INFO Message sent to post-queue 
+2024-07-09 16:20:39.3706 INFO Message sent to pre-queue 
+2024-07-09 16:20:44.3722 INFO Message sent to queue 
+2024-07-09 16:20:44.3722 INFO Message sent to post-queue 
+2024-07-09 16:20:44.3722 INFO Message sent to pre-queue 
+2024-07-09 16:20:49.3608 INFO Message sent to queue 
+2024-07-09 16:20:49.3608 INFO Message sent to post-queue 
+2024-07-09 16:20:49.3608 INFO Message sent to pre-queue 
+2024-07-09 16:20:54.3614 INFO Message sent to queue 
+2024-07-09 16:20:54.3614 INFO Message sent to post-queue 
+2024-07-09 16:20:54.3614 INFO Message sent to pre-queue 
+2024-07-09 16:20:59.3632 INFO Message sent to queue 
+2024-07-09 16:20:59.3632 INFO Message sent to pre-queue 
+2024-07-09 16:20:59.3632 INFO Message sent to post-queue 
+2024-07-09 16:21:04.3605 INFO Message sent to queue 
+2024-07-09 16:21:04.3605 INFO Message sent to pre-queue 
+2024-07-09 16:21:04.3605 INFO Message sent to post-queue 
+2024-07-09 16:21:09.3604 INFO Message sent to queue 
+2024-07-09 16:21:09.3604 INFO Message sent to post-queue 
+2024-07-09 16:21:09.3604 INFO Message sent to pre-queue 
+2024-07-09 16:21:14.3621 INFO Message sent to queue 
+2024-07-09 16:21:14.3621 INFO Message sent to post-queue 
+2024-07-09 16:21:14.3621 INFO Message sent to pre-queue 
+2024-07-09 16:21:19.3726 INFO Message sent to queue 
+2024-07-09 16:21:19.3726 INFO Message sent to pre-queue 
+2024-07-09 16:21:19.3726 INFO Message sent to post-queue 
+2024-07-09 16:21:24.3690 INFO Message sent to queue 
+2024-07-09 16:21:24.3690 INFO Message sent to pre-queue 
+2024-07-09 16:21:24.3690 INFO Message sent to post-queue 
+2024-07-09 16:21:29.3670 INFO Message sent to queue 
+2024-07-09 16:21:29.3670 INFO Message sent to post-queue 
+2024-07-09 16:21:29.3670 INFO Message sent to pre-queue 
+2024-07-09 16:21:34.3591 INFO Message sent to queue 
+2024-07-09 16:21:34.3591 INFO Message sent to post-queue 
+2024-07-09 16:21:34.3591 INFO Message sent to pre-queue 
+2024-07-09 16:21:39.3666 INFO Message sent to queue 
+2024-07-09 16:21:39.3669 INFO Message sent to pre-queue 
+2024-07-09 16:21:39.3669 INFO Message sent to post-queue 
+2024-07-09 16:21:44.3698 INFO Message sent to queue 
+2024-07-09 16:21:44.3698 INFO Message sent to post-queue 
+2024-07-09 16:21:44.3698 INFO Message sent to pre-queue 
+2024-07-09 16:21:49.3619 INFO Message sent to queue 
+2024-07-09 16:21:49.3619 INFO Message sent to pre-queue 
+2024-07-09 16:21:49.3619 INFO Message sent to post-queue 
+2024-07-09 16:21:54.3636 INFO Message sent to queue 
+2024-07-09 16:21:54.3636 INFO Message sent to pre-queue 
+2024-07-09 16:21:54.3636 INFO Message sent to post-queue 
+2024-07-09 16:21:59.3689 INFO Message sent to queue 
+2024-07-09 16:21:59.3689 INFO Message sent to pre-queue 
+2024-07-09 16:21:59.3689 INFO Message sent to post-queue 
+2024-07-09 16:22:04.3587 INFO Message sent to queue 
+2024-07-09 16:22:04.3587 INFO Message sent to pre-queue 
+2024-07-09 16:22:04.3587 INFO Message sent to post-queue 
+2024-07-09 16:22:09.3723 INFO Message sent to queue 
+2024-07-09 16:22:09.3723 INFO Message sent to post-queue 
+2024-07-09 16:22:09.3723 INFO Message sent to pre-queue 
+2024-07-09 16:22:14.3640 INFO Message sent to queue 
+2024-07-09 16:22:14.3640 INFO Message sent to post-queue 
+2024-07-09 16:22:14.3640 INFO Message sent to pre-queue 
+2024-07-09 16:22:19.3644 INFO Message sent to queue 
+2024-07-09 16:22:19.3644 INFO Message sent to pre-queue 
+2024-07-09 16:22:19.3644 INFO Message sent to post-queue 
+2024-07-09 16:22:24.3604 INFO Message sent to queue 
+2024-07-09 16:22:24.3604 INFO Message sent to pre-queue 
+2024-07-09 16:22:24.3604 INFO Message sent to post-queue 
+2024-07-09 16:22:29.3709 INFO Message sent to queue 
+2024-07-09 16:22:29.3709 INFO Message sent to post-queue 
+2024-07-09 16:22:29.3709 INFO Message sent to pre-queue 
+2024-07-09 16:22:34.3625 INFO Message sent to queue 
+2024-07-09 16:22:34.3625 INFO Message sent to post-queue 
+2024-07-09 16:22:34.3625 INFO Message sent to pre-queue 
+2024-07-09 16:22:39.3723 INFO Message sent to queue 
+2024-07-09 16:22:39.3723 INFO Message sent to pre-queue 
+2024-07-09 16:22:39.3723 INFO Message sent to post-queue 
+2024-07-09 16:22:44.3616 INFO Message sent to queue 
+2024-07-09 16:22:44.3616 INFO Message sent to pre-queue 
+2024-07-09 16:22:44.3616 INFO Message sent to post-queue 
+2024-07-09 16:22:49.3593 INFO Message sent to queue 
+2024-07-09 16:22:49.3593 INFO Message sent to post-queue 
+2024-07-09 16:22:49.3593 INFO Message sent to pre-queue 
+2024-07-09 16:22:54.3680 INFO Message sent to queue 
+2024-07-09 16:22:54.3680 INFO Message sent to post-queue 
+2024-07-09 16:22:54.3680 INFO Message sent to pre-queue 
+2024-07-09 16:22:59.3728 INFO Message sent to queue 
+2024-07-09 16:22:59.3728 INFO Message sent to post-queue 
+2024-07-09 16:22:59.3728 INFO Message sent to pre-queue 
+2024-07-09 16:23:04.3692 INFO Message sent to queue 
+2024-07-09 16:23:04.3692 INFO Message sent to post-queue 
+2024-07-09 16:23:04.3692 INFO Message sent to pre-queue 
+2024-07-09 16:23:09.3734 INFO Message sent to queue 
+2024-07-09 16:23:09.3734 INFO Message sent to post-queue 
+2024-07-09 16:23:09.3734 INFO Message sent to pre-queue 
+2024-07-09 16:23:14.3692 INFO Message sent to queue 
+2024-07-09 16:23:14.3692 INFO Message sent to post-queue 
+2024-07-09 16:23:14.3692 INFO Message sent to pre-queue 
+2024-07-09 16:23:19.3689 INFO Message sent to queue 
+2024-07-09 16:23:19.3689 INFO Message sent to post-queue 
+2024-07-09 16:23:19.3689 INFO Message sent to pre-queue 
+2024-07-09 16:23:24.3685 INFO Message sent to queue 
+2024-07-09 16:23:24.3685 INFO Message sent to post-queue 
+2024-07-09 16:23:24.3685 INFO Message sent to pre-queue 
+2024-07-09 16:23:29.3694 INFO Message sent to queue 
+2024-07-09 16:23:29.3694 INFO Message sent to pre-queue 
+2024-07-09 16:23:29.3694 INFO Message sent to post-queue 
+2024-07-09 16:23:34.3713 INFO Message sent to queue 
+2024-07-09 16:23:34.3713 INFO Message sent to pre-queue 
+2024-07-09 16:23:34.3713 INFO Message sent to post-queue 
+2024-07-09 16:23:39.3652 INFO Message sent to queue 
+2024-07-09 16:23:39.3652 INFO Message sent to pre-queue 
+2024-07-09 16:23:39.3652 INFO Message sent to post-queue 
+2024-07-09 16:23:44.3671 INFO Message sent to queue 
+2024-07-09 16:23:44.3674 INFO Message sent to post-queue 
+2024-07-09 16:23:44.3674 INFO Message sent to pre-queue 
+2024-07-09 16:23:49.3720 INFO Message sent to queue 
+2024-07-09 16:23:49.3720 INFO Message sent to pre-queue 
+2024-07-09 16:23:49.3720 INFO Message sent to post-queue 
+2024-07-09 16:23:54.2937 INFO Message sent to queue 
+2024-07-09 16:23:54.2937 INFO Message sent to post-queue 
+2024-07-09 16:23:54.2937 INFO Message sent to sent-queue 
+2024-07-09 16:23:54.2937 INFO Message sent to pre-queue 
+2024-07-09 16:23:54.2937 WARN Stop flag detected 
+2024-07-09 16:23:54.3056 WARN Stop flag detected 
+2024-07-09 16:23:54.3056 WARN Stop flag detected 
+2024-07-09 16:23:59.2693 INFO Message sent to queue 
+2024-07-09 16:23:59.2693 INFO Message sent to post-queue 
+2024-07-09 16:23:59.2693 INFO Message sent to pre-queue 
+2024-07-09 16:23:59.2693 INFO Message sent to sent-queue 
+2024-07-09 16:23:59.2693 WARN Stop flag detected 
+2024-07-09 16:23:59.2693 WARN Stop flag detected 
+2024-07-09 16:23:59.2693 WARN Stop flag detected 
+2024-07-09 16:24:04.2581 INFO Message sent to pre-queue 
+2024-07-09 16:24:04.2581 WARN Stop flag detected 
+2024-07-09 16:24:04.2737 INFO Message sent to queue 
+2024-07-09 16:24:04.2737 INFO Message sent to sent-queue 
+2024-07-09 16:24:04.2737 INFO Message sent to post-queue 
+2024-07-09 16:24:04.2737 WARN Stop flag detected 
+2024-07-09 16:24:04.2737 WARN Stop flag detected 
+2024-07-09 16:24:09.2679 INFO Message sent to sent-queue 
+2024-07-09 16:24:09.2679 INFO Message sent to queue 
+2024-07-09 16:24:09.2679 INFO Message sent to pre-queue 
+2024-07-09 16:24:09.2679 WARN Stop flag detected 
+2024-07-09 16:24:09.2679 INFO Message sent to post-queue 
+2024-07-09 16:24:09.2679 WARN Stop flag detected 
+2024-07-09 16:24:09.2679 WARN Stop flag detected 
+2024-07-09 16:24:14.2695 INFO Message sent to post-queue 
+2024-07-09 16:24:14.2695 INFO Message sent to sent-queue 
+2024-07-09 16:24:14.2695 INFO Message sent to pre-queue 
+2024-07-09 16:24:14.2695 INFO Message sent to queue 
+2024-07-09 16:24:14.2695 WARN Stop flag detected 
+2024-07-09 16:24:14.2747 WARN Stop flag detected 
+2024-07-09 16:24:14.2747 WARN Stop flag detected 
+2024-07-09 16:24:19.2627 INFO Message sent to post-queue 
+2024-07-09 16:24:19.2627 INFO Message sent to sent-queue 
+2024-07-09 16:24:19.2627 INFO Message sent to queue 
+2024-07-09 16:24:19.2627 INFO Message sent to pre-queue 
+2024-07-09 16:24:19.2627 WARN Stop flag detected 
+2024-07-09 16:24:19.2627 WARN Stop flag detected 
+2024-07-09 16:24:19.2627 WARN Stop flag detected 
+2024-07-09 16:24:24.2669 INFO Message sent to post-queue 
+2024-07-09 16:24:24.2669 INFO Message sent to sent-queue 
+2024-07-09 16:24:24.2669 INFO Message sent to queue 
+2024-07-09 16:24:24.2669 WARN Stop flag detected 
+2024-07-09 16:24:24.2669 INFO Message sent to pre-queue 
+2024-07-09 16:24:24.2669 WARN Stop flag detected 
+2024-07-09 16:24:24.2669 WARN Stop flag detected 
+2024-07-09 16:24:29.2639 INFO Message sent to post-queue 
+2024-07-09 16:24:29.2639 INFO Message sent to queue 
+2024-07-09 16:24:29.2639 INFO Message sent to sent-queue 
+2024-07-09 16:24:29.2639 INFO Message sent to pre-queue 
+2024-07-09 16:24:29.2639 WARN Stop flag detected 
+2024-07-09 16:24:29.2639 WARN Stop flag detected 
+2024-07-09 16:24:29.2639 WARN Stop flag detected 
+2024-07-09 16:24:34.2701 INFO Message sent to post-queue 
+2024-07-09 16:24:34.2701 INFO Message sent to sent-queue 
+2024-07-09 16:24:34.2701 INFO Message sent to queue 
+2024-07-09 16:24:34.2701 WARN Stop flag detected 
+2024-07-09 16:24:34.2701 INFO Message sent to pre-queue 
+2024-07-09 16:24:34.2701 WARN Stop flag detected 
+2024-07-09 16:24:34.2735 WARN Stop flag detected 
+2024-07-09 16:24:39.2680 INFO Message sent to post-queue 
+2024-07-09 16:24:39.2680 INFO Message sent to sent-queue 
+2024-07-09 16:24:39.2680 INFO Message sent to queue 
+2024-07-09 16:24:39.2680 INFO Message sent to pre-queue 
+2024-07-09 16:24:39.2680 WARN Stop flag detected 
+2024-07-09 16:24:39.2680 WARN Stop flag detected 
+2024-07-09 16:24:39.2680 WARN Stop flag detected 
+2024-07-09 16:24:44.2718 INFO Message sent to post-queue 
+2024-07-09 16:24:44.2718 INFO Message sent to sent-queue 
+2024-07-09 16:24:44.2718 INFO Message sent to queue 
+2024-07-09 16:24:44.2718 WARN Stop flag detected 
+2024-07-09 16:24:44.2718 INFO Message sent to pre-queue 
+2024-07-09 16:24:44.2754 WARN Stop flag detected 
+2024-07-09 16:24:44.2754 WARN Stop flag detected 
+2024-07-09 16:24:49.2622 INFO Message sent to post-queue 
+2024-07-09 16:24:49.2622 INFO Message sent to sent-queue 
+2024-07-09 16:24:49.2622 INFO Message sent to queue 
+2024-07-09 16:24:49.2622 WARN Stop flag detected 
+2024-07-09 16:24:49.2622 INFO Message sent to pre-queue 
+2024-07-09 16:24:49.2622 WARN Stop flag detected 
+2024-07-09 16:24:49.2622 WARN Stop flag detected 
+2024-07-09 16:24:54.2638 INFO Message sent to post-queue 
+2024-07-09 16:24:54.2638 INFO Message sent to sent-queue 
+2024-07-09 16:24:54.2638 INFO Message sent to queue 
+2024-07-09 16:24:54.2638 WARN Stop flag detected 
+2024-07-09 16:24:54.2638 INFO Message sent to pre-queue 
+2024-07-09 16:24:54.2638 WARN Stop flag detected 
+2024-07-09 16:24:54.2638 WARN Stop flag detected 
+2024-07-09 16:24:59.2655 INFO Message sent to post-queue 
+2024-07-09 16:24:59.2655 INFO Message sent to sent-queue 
+2024-07-09 16:24:59.2655 INFO Message sent to pre-queue 
+2024-07-09 16:24:59.2655 WARN Stop flag detected 
+2024-07-09 16:24:59.2655 INFO Message sent to queue 
+2024-07-09 16:24:59.2655 WARN Stop flag detected 
+2024-07-09 16:24:59.2655 WARN Stop flag detected 
+2024-07-09 16:25:04.2590 INFO Message sent to post-queue 
+2024-07-09 16:25:04.2590 INFO Message sent to queue 
+2024-07-09 16:25:04.2590 INFO Message sent to sent-queue 
+2024-07-09 16:25:04.2590 WARN Stop flag detected 
+2024-07-09 16:25:04.2590 INFO Message sent to pre-queue 
+2024-07-09 16:25:04.2590 WARN Stop flag detected 
+2024-07-09 16:25:04.2590 WARN Stop flag detected 
+2024-07-09 16:25:09.2652 INFO Message sent to post-queue 
+2024-07-09 16:25:09.2652 INFO Message sent to sent-queue 
+2024-07-09 16:25:09.2652 INFO Message sent to pre-queue 
+2024-07-09 16:25:09.2652 INFO Message sent to queue 
+2024-07-09 16:25:09.2652 WARN Stop flag detected 
+2024-07-09 16:25:09.2652 WARN Stop flag detected 
+2024-07-09 16:25:09.2652 WARN Stop flag detected 
+2024-07-09 16:25:14.2738 INFO Message sent to post-queue 
+2024-07-09 16:25:14.2738 INFO Message sent to queue 
+2024-07-09 16:25:14.2738 INFO Message sent to pre-queue 
+2024-07-09 16:25:14.2738 INFO Message sent to sent-queue 
+2024-07-09 16:25:14.2738 WARN Stop flag detected 
+2024-07-09 16:25:14.2738 WARN Stop flag detected 
+2024-07-09 16:25:14.2738 WARN Stop flag detected 
+2024-07-09 16:25:19.2656 INFO Message sent to post-queue 
+2024-07-09 16:25:19.2656 INFO Message sent to sent-queue 
+2024-07-09 16:25:19.2656 INFO Message sent to queue 
+2024-07-09 16:25:19.2656 WARN Stop flag detected 
+2024-07-09 16:25:19.2656 INFO Message sent to pre-queue 
+2024-07-09 16:25:19.2656 WARN Stop flag detected 
+2024-07-09 16:25:19.2656 WARN Stop flag detected 
+2024-07-09 16:25:24.2709 INFO Message sent to post-queue 
+2024-07-09 16:25:24.2709 INFO Message sent to sent-queue 
+2024-07-09 16:25:24.2709 INFO Message sent to queue 
+2024-07-09 16:25:24.2709 WARN Stop flag detected 
+2024-07-09 16:25:24.2709 INFO Message sent to pre-queue 
+2024-07-09 16:25:24.2709 WARN Stop flag detected 
+2024-07-09 16:25:24.2740 WARN Stop flag detected 
+2024-07-09 16:25:29.2736 INFO Message sent to post-queue 
+2024-07-09 16:25:29.2738 INFO Message sent to queue 
+2024-07-09 16:25:29.2738 INFO Message sent to sent-queue 
+2024-07-09 16:25:29.2738 INFO Message sent to pre-queue 
+2024-07-09 16:25:29.2738 WARN Stop flag detected 
+2024-07-09 16:25:29.2738 WARN Stop flag detected 
+2024-07-09 16:25:29.2738 WARN Stop flag detected 
+2024-07-09 16:25:34.2730 INFO Message sent to post-queue 
+2024-07-09 16:25:34.2730 INFO Message sent to sent-queue 
+2024-07-09 16:25:34.2737 INFO Message sent to queue 
+2024-07-09 16:25:34.2737 INFO Message sent to pre-queue 
+2024-07-09 16:25:34.2737 WARN Stop flag detected 
+2024-07-09 16:25:34.2737 WARN Stop flag detected 
+2024-07-09 16:25:34.2737 WARN Stop flag detected 
+2024-07-09 16:25:39.2613 INFO Message sent to post-queue 
+2024-07-09 16:25:39.2613 INFO Message sent to sent-queue 
+2024-07-09 16:25:39.2613 INFO Message sent to queue 
+2024-07-09 16:25:39.2613 INFO Message sent to pre-queue 
+2024-07-09 16:25:39.2613 WARN Stop flag detected 
+2024-07-09 16:25:39.2613 WARN Stop flag detected 
+2024-07-09 16:25:39.2613 WARN Stop flag detected 
+2024-07-09 16:25:44.2612 INFO Message sent to post-queue 
+2024-07-09 16:25:44.2612 INFO Message sent to queue 
+2024-07-09 16:25:44.2612 INFO Message sent to sent-queue 
+2024-07-09 16:25:44.2612 WARN Stop flag detected 
+2024-07-09 16:25:44.2612 INFO Message sent to pre-queue 
+2024-07-09 16:25:44.2612 WARN Stop flag detected 
+2024-07-09 16:25:44.2612 WARN Stop flag detected 
+2024-07-09 16:25:49.2712 INFO Message sent to post-queue 
+2024-07-09 16:25:49.2712 INFO Message sent to sent-queue 
+2024-07-09 16:25:49.2712 INFO Message sent to queue 
+2024-07-09 16:25:49.2712 INFO Message sent to pre-queue 
+2024-07-09 16:25:49.2712 WARN Stop flag detected 
+2024-07-09 16:25:49.2761 WARN Stop flag detected 
+2024-07-09 16:25:49.2761 WARN Stop flag detected 
+2024-07-09 16:25:54.2607 INFO Message sent to post-queue 
+2024-07-09 16:25:54.2607 INFO Message sent to sent-queue 
+2024-07-09 16:25:54.2607 INFO Message sent to queue 
+2024-07-09 16:25:54.2607 WARN Stop flag detected 
+2024-07-09 16:25:54.2607 INFO Message sent to pre-queue 
+2024-07-09 16:25:54.2607 WARN Stop flag detected 
+2024-07-09 16:25:54.2607 WARN Stop flag detected 
+2024-07-09 16:25:59.2641 INFO Message sent to post-queue 
+2024-07-09 16:25:59.2641 INFO Message sent to sent-queue 
+2024-07-09 16:25:59.2641 INFO Message sent to queue 
+2024-07-09 16:25:59.2641 INFO Message sent to pre-queue 
+2024-07-09 16:25:59.2641 WARN Stop flag detected 
+2024-07-09 16:25:59.2641 WARN Stop flag detected 
+2024-07-09 16:25:59.2641 WARN Stop flag detected 
+2024-07-09 16:26:04.2669 INFO Message sent to post-queue 
+2024-07-09 16:26:04.2669 INFO Message sent to sent-queue 
+2024-07-09 16:26:04.2669 INFO Message sent to queue 
+2024-07-09 16:26:04.2669 WARN Stop flag detected 
+2024-07-09 16:26:04.2669 INFO Message sent to pre-queue 
+2024-07-09 16:26:04.2669 WARN Stop flag detected 
+2024-07-09 16:26:04.2669 WARN Stop flag detected 
+2024-07-09 16:26:09.2656 INFO Message sent to post-queue 
+2024-07-09 16:26:09.2656 INFO Message sent to queue 
+2024-07-09 16:26:09.2656 INFO Message sent to sent-queue 
+2024-07-09 16:26:09.2656 WARN Stop flag detected 
+2024-07-09 16:26:09.2656 INFO Message sent to pre-queue 
+2024-07-09 16:26:09.2656 WARN Stop flag detected 
+2024-07-09 16:26:09.2656 WARN Stop flag detected 
+2024-07-09 16:26:14.2717 INFO Message sent to post-queue 
+2024-07-09 16:26:14.2717 INFO Message sent to sent-queue 
+2024-07-09 16:26:14.2717 INFO Message sent to queue 
+2024-07-09 16:26:14.2717 WARN Stop flag detected 
+2024-07-09 16:26:14.2717 INFO Message sent to pre-queue 
+2024-07-09 16:26:14.2757 WARN Stop flag detected 
+2024-07-09 16:26:14.2757 WARN Stop flag detected 
+2024-07-09 16:26:19.2630 INFO Message sent to post-queue 
+2024-07-09 16:26:19.2630 INFO Message sent to sent-queue 
+2024-07-09 16:26:19.2630 INFO Message sent to pre-queue 
+2024-07-09 16:26:19.2630 WARN Stop flag detected 
+2024-07-09 16:26:19.2630 INFO Message sent to queue 
+2024-07-09 16:26:19.2630 WARN Stop flag detected 
+2024-07-09 16:26:19.2630 WARN Stop flag detected 
+2024-07-09 16:26:24.2693 INFO Message sent to post-queue 
+2024-07-09 16:26:24.2693 INFO Message sent to sent-queue 
+2024-07-09 16:26:24.2693 INFO Message sent to queue 
+2024-07-09 16:26:24.2693 WARN Stop flag detected 
+2024-07-09 16:26:24.2693 INFO Message sent to pre-queue 
+2024-07-09 16:26:24.2740 WARN Stop flag detected 
+2024-07-09 16:26:24.2740 WARN Stop flag detected 
+2024-07-09 16:26:29.2586 INFO Message sent to pre-queue 
+2024-07-09 16:26:29.2586 WARN Stop flag detected 
+2024-07-09 16:26:29.2736 INFO Message sent to queue 
+2024-07-09 16:26:29.2736 INFO Message sent to sent-queue 
+2024-07-09 16:26:29.2736 INFO Message sent to post-queue 
+2024-07-09 16:26:29.2736 WARN Stop flag detected 
+2024-07-09 16:26:29.2736 WARN Stop flag detected 
+2024-07-09 16:26:34.2620 INFO Message sent to post-queue 
+2024-07-09 16:26:34.2620 INFO Message sent to sent-queue 
+2024-07-09 16:26:34.2620 INFO Message sent to queue 
+2024-07-09 16:26:34.2620 WARN Stop flag detected 
+2024-07-09 16:26:34.2620 INFO Message sent to pre-queue 
+2024-07-09 16:26:34.2620 WARN Stop flag detected 
+2024-07-09 16:26:34.2620 WARN Stop flag detected 
+2024-07-09 16:26:39.2646 INFO Message sent to post-queue 
+2024-07-09 16:26:39.2646 INFO Message sent to queue 
+2024-07-09 16:26:39.2646 INFO Message sent to sent-queue 
+2024-07-09 16:26:39.2646 INFO Message sent to pre-queue 
+2024-07-09 16:26:39.2646 WARN Stop flag detected 
+2024-07-09 16:26:39.2646 WARN Stop flag detected 
+2024-07-09 16:26:39.2646 WARN Stop flag detected 
+2024-07-09 16:26:44.2602 INFO Message sent to post-queue 
+2024-07-09 16:26:44.2602 INFO Message sent to queue 
+2024-07-09 16:26:44.2602 INFO Message sent to sent-queue 
+2024-07-09 16:26:44.2602 WARN Stop flag detected 
+2024-07-09 16:26:44.2602 INFO Message sent to pre-queue 
+2024-07-09 16:26:44.2602 WARN Stop flag detected 
+2024-07-09 16:26:44.2602 WARN Stop flag detected 
+2024-07-09 16:26:49.2709 INFO Message sent to post-queue 
+2024-07-09 16:26:49.2709 INFO Message sent to sent-queue 
+2024-07-09 16:26:49.2709 INFO Message sent to queue 
+2024-07-09 16:26:49.2709 INFO Message sent to pre-queue 
+2024-07-09 16:26:49.2709 WARN Stop flag detected 
+2024-07-09 16:26:49.2757 WARN Stop flag detected 
+2024-07-09 16:26:49.2757 WARN Stop flag detected 
+2024-07-09 16:26:54.2605 INFO Message sent to post-queue 
+2024-07-09 16:26:54.2605 INFO Message sent to queue 
+2024-07-09 16:26:54.2605 INFO Message sent to sent-queue 
+2024-07-09 16:26:54.2605 WARN Stop flag detected 
+2024-07-09 16:26:54.2605 INFO Message sent to pre-queue 
+2024-07-09 16:26:54.2605 WARN Stop flag detected 
+2024-07-09 16:26:54.2605 WARN Stop flag detected 
+2024-07-09 16:26:59.2647 INFO Message sent to post-queue 
+2024-07-09 16:26:59.2647 INFO Message sent to sent-queue 
+2024-07-09 16:26:59.2647 INFO Message sent to queue 
+2024-07-09 16:26:59.2647 WARN Stop flag detected 
+2024-07-09 16:26:59.2647 INFO Message sent to pre-queue 
+2024-07-09 16:26:59.2647 WARN Stop flag detected 
+2024-07-09 16:26:59.2647 WARN Stop flag detected 
+2024-07-09 16:27:04.2700 INFO Message sent to post-queue 
+2024-07-09 16:27:04.2700 INFO Message sent to sent-queue 
+2024-07-09 16:27:04.2700 INFO Message sent to queue 
+2024-07-09 16:27:04.2700 INFO Message sent to pre-queue 
+2024-07-09 16:27:04.2700 WARN Stop flag detected 
+2024-07-09 16:27:04.2740 WARN Stop flag detected 
+2024-07-09 16:27:04.2740 WARN Stop flag detected 
+2024-07-09 16:27:09.2672 INFO Message sent to post-queue 
+2024-07-09 16:27:09.2672 INFO Message sent to sent-queue 
+2024-07-09 16:27:09.2672 INFO Message sent to queue 
+2024-07-09 16:27:09.2672 WARN Stop flag detected 
+2024-07-09 16:27:09.2672 INFO Message sent to pre-queue 
+2024-07-09 16:27:09.2672 WARN Stop flag detected 
+2024-07-09 16:27:09.2672 WARN Stop flag detected 
+2024-07-09 16:27:14.2716 INFO Message sent to post-queue 
+2024-07-09 16:27:14.2716 INFO Message sent to queue 
+2024-07-09 16:27:14.2716 INFO Message sent to sent-queue 
+2024-07-09 16:27:14.2716 WARN Stop flag detected 
+2024-07-09 16:27:14.2716 INFO Message sent to pre-queue 
+2024-07-09 16:27:14.2763 WARN Stop flag detected 
+2024-07-09 16:27:14.2763 WARN Stop flag detected 
+2024-07-09 16:27:19.2622 INFO Message sent to post-queue 
+2024-07-09 16:27:19.2622 INFO Message sent to sent-queue 
+2024-07-09 16:27:19.2622 INFO Message sent to queue 
+2024-07-09 16:27:19.2622 WARN Stop flag detected 
+2024-07-09 16:27:19.2622 INFO Message sent to pre-queue 
+2024-07-09 16:27:19.2622 WARN Stop flag detected 
+2024-07-09 16:27:19.2622 WARN Stop flag detected 
+2024-07-09 16:27:24.2594 INFO Message sent to post-queue 
+2024-07-09 16:27:24.2594 INFO Message sent to sent-queue 
+2024-07-09 16:27:24.2594 INFO Message sent to queue 
+2024-07-09 16:27:24.2594 INFO Message sent to pre-queue 
+2024-07-09 16:27:24.2594 WARN Stop flag detected 
+2024-07-09 16:27:24.2594 WARN Stop flag detected 
+2024-07-09 16:27:24.2594 WARN Stop flag detected 
+2024-07-09 16:27:29.2717 INFO Message sent to post-queue 
+2024-07-09 16:27:29.2717 INFO Message sent to sent-queue 
+2024-07-09 16:27:29.2717 INFO Message sent to queue 
+2024-07-09 16:27:29.2717 WARN Stop flag detected 
+2024-07-09 16:27:29.2717 INFO Message sent to pre-queue 
+2024-07-09 16:27:29.2765 WARN Stop flag detected 
+2024-07-09 16:27:29.2765 WARN Stop flag detected 
+2024-07-09 16:27:34.2588 INFO Message sent to post-queue 
+2024-07-09 16:27:34.2588 INFO Message sent to sent-queue 
+2024-07-09 16:27:34.2588 INFO Message sent to queue 
+2024-07-09 16:27:34.2588 WARN Stop flag detected 
+2024-07-09 16:27:34.2588 INFO Message sent to pre-queue 
+2024-07-09 16:27:34.2588 WARN Stop flag detected 
+2024-07-09 16:27:34.2588 WARN Stop flag detected 
+2024-07-09 16:27:39.2614 INFO Message sent to post-queue 
+2024-07-09 16:27:39.2614 INFO Message sent to sent-queue 
+2024-07-09 16:27:39.2614 INFO Message sent to queue 
+2024-07-09 16:27:39.2614 WARN Stop flag detected 
+2024-07-09 16:27:39.2614 INFO Message sent to pre-queue 
+2024-07-09 16:27:39.2614 WARN Stop flag detected 
+2024-07-09 16:27:39.2614 WARN Stop flag detected 
+2024-07-09 16:27:44.2715 INFO Message sent to post-queue 
+2024-07-09 16:27:44.2715 INFO Message sent to queue 
+2024-07-09 16:27:44.2715 INFO Message sent to sent-queue 
+2024-07-09 16:27:44.2715 WARN Stop flag detected 
+2024-07-09 16:27:44.2715 INFO Message sent to pre-queue 
+2024-07-09 16:27:44.2746 WARN Stop flag detected 
+2024-07-09 16:27:44.2746 WARN Stop flag detected 
+2024-07-09 16:27:49.2682 INFO Message sent to post-queue 
+2024-07-09 16:27:49.2682 INFO Message sent to sent-queue 
+2024-07-09 16:27:49.2682 INFO Message sent to queue 
+2024-07-09 16:27:49.2682 WARN Stop flag detected 
+2024-07-09 16:27:49.2682 INFO Message sent to pre-queue 
+2024-07-09 16:27:49.2682 WARN Stop flag detected 
+2024-07-09 16:27:49.2682 WARN Stop flag detected 
+2024-07-09 16:27:54.2620 INFO Message sent to post-queue 
+2024-07-09 16:27:54.2620 INFO Message sent to sent-queue 
+2024-07-09 16:27:54.2620 INFO Message sent to queue 
+2024-07-09 16:27:54.2620 WARN Stop flag detected 
+2024-07-09 16:27:54.2620 INFO Message sent to pre-queue 
+2024-07-09 16:27:54.2620 WARN Stop flag detected 
+2024-07-09 16:27:54.2620 WARN Stop flag detected 
+2024-07-09 16:27:59.2642 INFO Message sent to post-queue 
+2024-07-09 16:27:59.2642 INFO Message sent to sent-queue 
+2024-07-09 16:27:59.2642 INFO Message sent to queue 
+2024-07-09 16:27:59.2642 WARN Stop flag detected 
+2024-07-09 16:27:59.2642 INFO Message sent to pre-queue 
+2024-07-09 16:27:59.2642 WARN Stop flag detected 
+2024-07-09 16:27:59.2642 WARN Stop flag detected 
+2024-07-09 16:28:04.2603 INFO Message sent to post-queue 
+2024-07-09 16:28:04.2603 INFO Message sent to sent-queue 
+2024-07-09 16:28:04.2603 INFO Message sent to queue 
+2024-07-09 16:28:04.2603 WARN Stop flag detected 
+2024-07-09 16:28:04.2603 INFO Message sent to pre-queue 
+2024-07-09 16:28:04.2603 WARN Stop flag detected 
+2024-07-09 16:28:04.2603 WARN Stop flag detected 
+2024-07-09 16:28:09.2642 INFO Message sent to post-queue 
+2024-07-09 16:28:09.2642 INFO Message sent to sent-queue 
+2024-07-09 16:28:09.2642 INFO Message sent to queue 
+2024-07-09 16:28:09.2642 WARN Stop flag detected 
+2024-07-09 16:28:09.2642 INFO Message sent to pre-queue 
+2024-07-09 16:28:09.2642 WARN Stop flag detected 
+2024-07-09 16:28:09.2642 WARN Stop flag detected 
+2024-07-09 16:28:14.2702 INFO Message sent to post-queue 
+2024-07-09 16:28:14.2702 INFO Message sent to sent-queue 
+2024-07-09 16:28:14.2702 INFO Message sent to queue 
+2024-07-09 16:28:14.2702 INFO Message sent to pre-queue 
+2024-07-09 16:28:14.2702 WARN Stop flag detected 
+2024-07-09 16:28:14.2739 WARN Stop flag detected 
+2024-07-09 16:28:14.2739 WARN Stop flag detected 
+2024-07-09 16:28:19.2656 INFO Message sent to post-queue 
+2024-07-09 16:28:19.2656 INFO Message sent to sent-queue 
+2024-07-09 16:28:19.2656 INFO Message sent to queue 
+2024-07-09 16:28:19.2656 WARN Stop flag detected 
+2024-07-09 16:28:19.2656 INFO Message sent to pre-queue 
+2024-07-09 16:28:19.2656 WARN Stop flag detected 
+2024-07-09 16:28:19.2656 WARN Stop flag detected 
+2024-07-09 16:28:24.2670 INFO Message sent to post-queue 
+2024-07-09 16:28:24.2670 INFO Message sent to sent-queue 
+2024-07-09 16:28:24.2670 INFO Message sent to queue 
+2024-07-09 16:28:24.2670 WARN Stop flag detected 
+2024-07-09 16:28:24.2670 INFO Message sent to pre-queue 
+2024-07-09 16:28:24.2670 WARN Stop flag detected 
+2024-07-09 16:28:24.2670 WARN Stop flag detected 
+2024-07-09 16:28:28.3597 INFO Message sent to post-queue 
+2024-07-09 16:28:28.3597 INFO Message sent to queue 
+2024-07-09 16:28:28.3598 INFO Message sent to pre-queue 
+2024-07-09 16:28:28.3597 INFO Message sent to sent-queue 
+2024-07-09 16:28:28.3598 WARN Stop flag detected 
+2024-07-09 16:28:28.3726 WARN Stop flag detected 
+2024-07-09 16:28:28.3726 WARN Stop flag detected 
+2024-07-09 16:28:28.3726 WARN Stop flag detected 
+2024-07-09 16:28:33.3242 INFO Message sent to post-queue 
+2024-07-09 16:28:33.3242 INFO Message sent to queue 
+2024-07-09 16:28:33.3242 INFO Message sent to sent-queue 
+2024-07-09 16:28:33.3242 WARN Stop flag detected 
+2024-07-09 16:28:33.3242 INFO Message sent to pre-queue 
+2024-07-09 16:28:33.3242 WARN Stop flag detected 
+2024-07-09 16:28:33.3242 WARN Stop flag detected 
+2024-07-09 16:28:33.3242 WARN Stop flag detected 
+2024-07-09 16:28:38.3265 INFO Message sent to post-queue 
+2024-07-09 16:28:38.3265 INFO Message sent to sent-queue 
+2024-07-09 16:28:38.3265 INFO Message sent to queue 
+2024-07-09 16:28:38.3265 WARN Stop flag detected 
+2024-07-09 16:28:38.3265 INFO Message sent to pre-queue 
+2024-07-09 16:28:38.3265 WARN Stop flag detected 
+2024-07-09 16:28:38.3265 WARN Stop flag detected 
+2024-07-09 16:28:38.3265 WARN Stop flag detected 
+2024-07-09 16:28:43.3218 INFO Message sent to post-queue 
+2024-07-09 16:28:43.3218 INFO Message sent to queue 
+2024-07-09 16:28:43.3218 INFO Message sent to sent-queue 
+2024-07-09 16:28:43.3218 WARN Stop flag detected 
+2024-07-09 16:28:43.3218 INFO Message sent to pre-queue 
+2024-07-09 16:28:43.3218 WARN Stop flag detected 
+2024-07-09 16:28:43.3218 WARN Stop flag detected 
+2024-07-09 16:28:43.3218 WARN Stop flag detected 
+2024-07-09 16:28:48.3217 INFO Message sent to post-queue 
+2024-07-09 16:28:48.3217 INFO Message sent to sent-queue 
+2024-07-09 16:28:48.3217 INFO Message sent to queue 
+2024-07-09 16:28:48.3217 WARN Stop flag detected 
+2024-07-09 16:28:48.3217 INFO Message sent to pre-queue 
+2024-07-09 16:28:48.3217 WARN Stop flag detected 
+2024-07-09 16:28:48.3217 WARN Stop flag detected 
+2024-07-09 16:28:48.3217 WARN Stop flag detected 
+2024-07-09 16:28:53.3206 INFO Message sent to post-queue 
+2024-07-09 16:28:53.3206 INFO Message sent to queue 
+2024-07-09 16:28:53.3206 INFO Message sent to pre-queue 
+2024-07-09 16:28:53.3206 INFO Message sent to sent-queue 
+2024-07-09 16:28:53.3206 WARN Stop flag detected 
+2024-07-09 16:28:53.3206 WARN Stop flag detected 
+2024-07-09 16:28:53.3206 WARN Stop flag detected 
+2024-07-09 16:28:53.3206 WARN Stop flag detected 
+2024-07-09 16:28:58.3199 INFO Message sent to post-queue 
+2024-07-09 16:28:58.3203 INFO Message sent to sent-queue 
+2024-07-09 16:28:58.3203 INFO Message sent to queue 
+2024-07-09 16:28:58.3203 INFO Message sent to pre-queue 
+2024-07-09 16:28:58.3203 WARN Stop flag detected 
+2024-07-09 16:28:58.3358 WARN Stop flag detected 
+2024-07-09 16:28:58.3358 WARN Stop flag detected 
+2024-07-09 16:28:58.3358 WARN Stop flag detected 
+2024-07-09 16:29:03.3339 INFO Message sent to post-queue 
+2024-07-09 16:29:03.3339 INFO Message sent to queue 
+2024-07-09 16:29:03.3339 INFO Message sent to sent-queue 
+2024-07-09 16:29:03.3339 WARN Stop flag detected 
+2024-07-09 16:29:03.3339 INFO Message sent to pre-queue 
+2024-07-09 16:29:03.3339 WARN Stop flag detected 
+2024-07-09 16:29:03.3339 WARN Stop flag detected 
+2024-07-09 16:29:03.3354 WARN Stop flag detected 
+2024-07-09 16:29:08.3226 INFO Message sent to post-queue 
+2024-07-09 16:29:08.3226 INFO Message sent to queue 
+2024-07-09 16:29:08.3226 INFO Message sent to sent-queue 
+2024-07-09 16:29:08.3226 INFO Message sent to pre-queue 
+2024-07-09 16:29:08.3226 WARN Stop flag detected 
+2024-07-09 16:29:08.3226 WARN Stop flag detected 
+2024-07-09 16:29:08.3226 WARN Stop flag detected 
+2024-07-09 16:29:08.3226 WARN Stop flag detected 
+2024-07-09 16:29:13.3324 INFO Message sent to post-queue 
+2024-07-09 16:29:13.3324 INFO Message sent to sent-queue 
+2024-07-09 16:29:13.3324 INFO Message sent to queue 
+2024-07-09 16:29:13.3324 INFO Message sent to pre-queue 
+2024-07-09 16:29:13.3324 WARN Stop flag detected 
+2024-07-09 16:29:13.3432 WARN Stop flag detected 
+2024-07-09 16:29:13.3432 WARN Stop flag detected 
+2024-07-09 16:29:13.3432 WARN Stop flag detected 
+2024-07-09 16:29:18.3251 INFO Message sent to post-queue 
+2024-07-09 16:29:18.3251 INFO Message sent to queue 
+2024-07-09 16:29:18.3251 INFO Message sent to pre-queue 
+2024-07-09 16:29:18.3251 INFO Message sent to sent-queue 
+2024-07-09 16:29:18.3251 WARN Stop flag detected 
+2024-07-09 16:29:18.3251 WARN Stop flag detected 
+2024-07-09 16:29:18.3251 WARN Stop flag detected 
+2024-07-09 16:29:18.3251 WARN Stop flag detected 
+2024-07-09 16:29:23.3289 INFO Message sent to post-queue 
+2024-07-09 16:29:23.3289 INFO Message sent to sent-queue 
+2024-07-09 16:29:23.3289 INFO Message sent to queue 
+2024-07-09 16:29:23.3289 WARN Stop flag detected 
+2024-07-09 16:29:23.3289 INFO Message sent to pre-queue 
+2024-07-09 16:29:23.3289 WARN Stop flag detected 
+2024-07-09 16:29:23.3289 WARN Stop flag detected 
+2024-07-09 16:29:23.3362 WARN Stop flag detected 
+2024-07-09 16:29:28.3269 INFO Message sent to sent-queue 
+2024-07-09 16:29:28.3269 INFO Message sent to queue 
+2024-07-09 16:29:28.3269 INFO Message sent to post-queue 
+2024-07-09 16:29:28.3269 INFO Message sent to pre-queue 
+2024-07-09 16:29:28.3269 WARN Stop flag detected 
+2024-07-09 16:29:28.3269 WARN Stop flag detected 
+2024-07-09 16:29:28.3269 WARN Stop flag detected 
+2024-07-09 16:29:28.3269 WARN Stop flag detected 
+2024-07-09 16:29:33.3326 INFO Message sent to post-queue 
+2024-07-09 16:29:33.3326 INFO Message sent to sent-queue 
+2024-07-09 16:29:33.3326 INFO Message sent to queue 
+2024-07-09 16:29:33.3326 WARN Stop flag detected 
+2024-07-09 16:29:33.3326 INFO Message sent to pre-queue 
+2024-07-09 16:29:33.3381 WARN Stop flag detected 
+2024-07-09 16:29:33.3381 WARN Stop flag detected 
+2024-07-09 16:29:33.3381 WARN Stop flag detected 
+2024-07-09 16:29:38.3222 INFO Message sent to post-queue 
+2024-07-09 16:29:38.3222 INFO Message sent to queue 
+2024-07-09 16:29:38.3222 INFO Message sent to sent-queue 
+2024-07-09 16:29:38.3222 WARN Stop flag detected 
+2024-07-09 16:29:38.3222 INFO Message sent to pre-queue 
+2024-07-09 16:29:38.3222 WARN Stop flag detected 
+2024-07-09 16:29:38.3222 WARN Stop flag detected 
+2024-07-09 16:29:38.3222 WARN Stop flag detected 
+2024-07-09 16:29:43.3290 INFO Message sent to post-queue 
+2024-07-09 16:29:43.3290 INFO Message sent to sent-queue 
+2024-07-09 16:29:43.3290 INFO Message sent to queue 
+2024-07-09 16:29:43.3290 INFO Message sent to pre-queue 
+2024-07-09 16:29:43.3290 WARN Stop flag detected 
+2024-07-09 16:29:43.3368 WARN Stop flag detected 
+2024-07-09 16:29:43.3368 WARN Stop flag detected 
+2024-07-09 16:29:43.3368 WARN Stop flag detected 
+2024-07-09 16:29:48.3243 INFO Message sent to post-queue 
+2024-07-09 16:29:48.3243 INFO Message sent to queue 
+2024-07-09 16:29:48.3243 INFO Message sent to pre-queue 
+2024-07-09 16:29:48.3243 INFO Message sent to sent-queue 
+2024-07-09 16:29:48.3243 WARN Stop flag detected 
+2024-07-09 16:29:48.3243 WARN Stop flag detected 
+2024-07-09 16:29:48.3243 WARN Stop flag detected 
+2024-07-09 16:29:48.3243 WARN Stop flag detected 
+2024-07-09 16:29:53.3194 INFO Message sent to post-queue 
+2024-07-09 16:29:53.3194 INFO Message sent to sent-queue 
+2024-07-09 16:29:53.3200 INFO Message sent to queue 
+2024-07-09 16:29:53.3200 WARN Stop flag detected 
+2024-07-09 16:29:53.3200 INFO Message sent to pre-queue 
+2024-07-09 16:29:53.3200 WARN Stop flag detected 
+2024-07-09 16:29:53.3200 WARN Stop flag detected 
+2024-07-09 16:29:53.3200 WARN Stop flag detected 
+2024-07-09 16:29:58.3292 INFO Message sent to post-queue 
+2024-07-09 16:29:58.3292 INFO Message sent to sent-queue 
+2024-07-09 16:29:58.3292 INFO Message sent to queue 
+2024-07-09 16:29:58.3292 WARN Stop flag detected 
+2024-07-09 16:29:58.3292 INFO Message sent to pre-queue 
+2024-07-09 16:29:58.3292 WARN Stop flag detected 
+2024-07-09 16:29:58.3292 WARN Stop flag detected 
+2024-07-09 16:29:58.3292 WARN Stop flag detected 
+2024-07-09 16:30:03.3201 INFO Message sent to post-queue 
+2024-07-09 16:30:03.3201 INFO Message sent to sent-queue 
+2024-07-09 16:30:03.3208 INFO Message sent to queue 
+2024-07-09 16:30:03.3208 INFO Message sent to pre-queue 
+2024-07-09 16:30:03.3208 WARN Stop flag detected 
+2024-07-09 16:30:03.3208 WARN Stop flag detected 
+2024-07-09 16:30:03.3208 WARN Stop flag detected 
+2024-07-09 16:30:03.3208 WARN Stop flag detected 
+2024-07-09 16:30:08.3229 INFO Message sent to post-queue 
+2024-07-09 16:30:08.3229 INFO Message sent to sent-queue 
+2024-07-09 16:30:08.3229 INFO Message sent to queue 
+2024-07-09 16:30:08.3229 INFO Message sent to pre-queue 
+2024-07-09 16:30:08.3229 WARN Stop flag detected 
+2024-07-09 16:30:08.3229 WARN Stop flag detected 
+2024-07-09 16:30:08.3229 WARN Stop flag detected 
+2024-07-09 16:30:08.3229 WARN Stop flag detected 
+2024-07-09 16:30:13.3327 INFO Message sent to post-queue 
+2024-07-09 16:30:13.3327 INFO Message sent to queue 
+2024-07-09 16:30:13.3327 INFO Message sent to sent-queue 
+2024-07-09 16:30:13.3327 WARN Stop flag detected 
+2024-07-09 16:30:13.3327 INFO Message sent to pre-queue 
+2024-07-09 16:30:13.3385 WARN Stop flag detected 
+2024-07-09 16:30:13.3385 WARN Stop flag detected 
+2024-07-09 16:30:13.3385 WARN Stop flag detected 
+2024-07-09 16:30:18.3203 INFO Message sent to post-queue 
+2024-07-09 16:30:18.3203 INFO Message sent to sent-queue 
+2024-07-09 16:30:18.3203 INFO Message sent to queue 
+2024-07-09 16:30:18.3203 WARN Stop flag detected 
+2024-07-09 16:30:18.3203 INFO Message sent to pre-queue 
+2024-07-09 16:30:18.3203 WARN Stop flag detected 
+2024-07-09 16:30:18.3203 WARN Stop flag detected 
+2024-07-09 16:30:18.3203 WARN Stop flag detected 
+2024-07-09 16:30:23.3255 INFO Message sent to post-queue 
+2024-07-09 16:30:23.3255 INFO Message sent to sent-queue 
+2024-07-09 16:30:23.3255 INFO Message sent to queue 
+2024-07-09 16:30:23.3255 WARN Stop flag detected 
+2024-07-09 16:30:23.3255 INFO Message sent to pre-queue 
+2024-07-09 16:30:23.3255 WARN Stop flag detected 
+2024-07-09 16:30:23.3255 WARN Stop flag detected 
+2024-07-09 16:30:23.3255 WARN Stop flag detected 
+2024-07-09 16:30:28.3331 INFO Message sent to post-queue 
+2024-07-09 16:30:28.3331 INFO Message sent to sent-queue 
+2024-07-09 16:30:28.3331 INFO Message sent to queue 
+2024-07-09 16:30:28.3331 WARN Stop flag detected 
+2024-07-09 16:30:28.3331 INFO Message sent to pre-queue 
+2024-07-09 16:30:28.3386 WARN Stop flag detected 
+2024-07-09 16:30:28.3386 WARN Stop flag detected 
+2024-07-09 16:30:28.3386 WARN Stop flag detected 
+2024-07-09 16:30:33.3225 INFO Message sent to post-queue 
+2024-07-09 16:30:33.3225 INFO Message sent to sent-queue 
+2024-07-09 16:30:33.3225 INFO Message sent to queue 
+2024-07-09 16:30:33.3225 WARN Stop flag detected 
+2024-07-09 16:30:33.3225 INFO Message sent to pre-queue 
+2024-07-09 16:30:33.3225 WARN Stop flag detected 
+2024-07-09 16:30:33.3225 WARN Stop flag detected 
+2024-07-09 16:30:33.3225 WARN Stop flag detected 
+2024-07-09 16:30:38.3201 INFO Message sent to post-queue 
+2024-07-09 16:30:38.3201 INFO Message sent to queue 
+2024-07-09 16:30:38.3205 INFO Message sent to sent-queue 
+2024-07-09 16:30:38.3205 INFO Message sent to pre-queue 
+2024-07-09 16:30:38.3205 WARN Stop flag detected 
+2024-07-09 16:30:38.3205 WARN Stop flag detected 
+2024-07-09 16:30:38.3205 WARN Stop flag detected 
+2024-07-09 16:30:38.3205 WARN Stop flag detected 
+2024-07-09 16:30:43.3199 INFO Message sent to post-queue 
+2024-07-09 16:30:43.3203 INFO Message sent to sent-queue 
+2024-07-09 16:30:43.3203 INFO Message sent to queue 
+2024-07-09 16:30:43.3203 INFO Message sent to pre-queue 
+2024-07-09 16:30:43.3203 WARN Stop flag detected 
+2024-07-09 16:30:43.3203 WARN Stop flag detected 
+2024-07-09 16:30:43.3203 WARN Stop flag detected 
+2024-07-09 16:30:43.3203 WARN Stop flag detected 
+2024-07-09 16:30:48.3271 INFO Message sent to post-queue 
+2024-07-09 16:30:48.3271 INFO Message sent to sent-queue 
+2024-07-09 16:30:48.3271 INFO Message sent to queue 
+2024-07-09 16:30:48.3271 INFO Message sent to pre-queue 
+2024-07-09 16:30:48.3271 WARN Stop flag detected 
+2024-07-09 16:30:48.3365 WARN Stop flag detected 
+2024-07-09 16:30:48.3365 WARN Stop flag detected 
+2024-07-09 16:30:48.3365 WARN Stop flag detected 
+2024-07-09 16:30:53.3233 INFO Message sent to post-queue 
+2024-07-09 16:30:53.3233 INFO Message sent to queue 
+2024-07-09 16:30:53.3233 WARN Stop flag detected 
+2024-07-09 16:30:53.3233 INFO Message sent to sent-queue 
+2024-07-09 16:30:53.3233 INFO Message sent to pre-queue 
+2024-07-09 16:30:53.3233 WARN Stop flag detected 
+2024-07-09 16:30:53.3233 WARN Stop flag detected 
+2024-07-09 16:30:53.3233 WARN Stop flag detected 
+2024-07-09 16:30:59.2189 INFO Message sent to pre-queue 
+2024-07-09 16:30:59.2189 INFO Message sent to sent-queue 
+2024-07-09 16:30:59.2189 INFO Message sent to post-queue 
+2024-07-09 16:30:59.2189 INFO Message sent to queue 
+2024-07-09 16:31:04.1901 INFO Message sent to post-queue 
+2024-07-09 16:31:04.1901 INFO Message sent to sent-queue 
+2024-07-09 16:31:04.1901 INFO Message sent to queue 
+2024-07-09 16:31:04.1901 INFO Message sent to pre-queue 
+2024-07-09 16:31:09.1845 INFO Message sent to post-queue 
+2024-07-09 16:31:09.1845 INFO Message sent to sent-queue 
+2024-07-09 16:31:09.1845 INFO Message sent to queue 
+2024-07-09 16:31:09.1845 INFO Message sent to pre-queue 
+2024-07-09 16:31:14.1799 INFO Message sent to post-queue 
+2024-07-09 16:31:14.1799 INFO Message sent to sent-queue 
+2024-07-09 16:31:14.1799 INFO Message sent to queue 
+2024-07-09 16:31:14.1799 INFO Message sent to pre-queue 
+2024-07-09 16:31:19.1816 INFO Message sent to post-queue 
+2024-07-09 16:31:19.1816 INFO Message sent to queue 
+2024-07-09 16:31:19.1816 INFO Message sent to sent-queue 
+2024-07-09 16:31:19.1816 INFO Message sent to pre-queue 
+2024-07-09 16:31:24.1920 INFO Message sent to post-queue 
+2024-07-09 16:31:24.1920 INFO Message sent to sent-queue 
+2024-07-09 16:31:24.1920 INFO Message sent to queue 
+2024-07-09 16:31:24.1920 INFO Message sent to pre-queue 
+2024-07-09 16:31:29.1910 INFO Message sent to queue 
+2024-07-09 16:31:29.1910 INFO Message sent to sent-queue 
+2024-07-09 16:31:29.1910 INFO Message sent to post-queue 
+2024-07-09 16:31:29.1910 INFO Message sent to pre-queue 
+2024-07-09 16:31:34.1864 INFO Message sent to post-queue 
+2024-07-09 16:31:34.1864 INFO Message sent to sent-queue 
+2024-07-09 16:31:34.1864 INFO Message sent to queue 
+2024-07-09 16:31:34.1864 INFO Message sent to pre-queue 
+2024-07-09 16:31:39.1938 INFO Message sent to post-queue 
+2024-07-09 16:31:39.1938 INFO Message sent to sent-queue 
+2024-07-09 16:31:39.1938 INFO Message sent to queue 
+2024-07-09 16:31:39.1952 INFO Message sent to pre-queue 
+2024-07-09 16:31:44.1930 INFO Message sent to post-queue 
+2024-07-09 16:31:44.1930 INFO Message sent to queue 
+2024-07-09 16:31:44.1930 INFO Message sent to sent-queue 
+2024-07-09 16:31:44.1930 INFO Message sent to pre-queue 
+2024-07-09 16:31:49.1890 INFO Message sent to post-queue 
+2024-07-09 16:31:49.1890 INFO Message sent to queue 
+2024-07-09 16:31:49.1890 INFO Message sent to sent-queue 
+2024-07-09 16:31:49.1890 INFO Message sent to pre-queue 
+2024-07-09 16:31:54.1934 INFO Message sent to post-queue 
+2024-07-09 16:31:54.1934 INFO Message sent to sent-queue 
+2024-07-09 16:31:54.1934 INFO Message sent to queue 
+2024-07-09 16:31:54.1934 INFO Message sent to pre-queue 
+2024-07-09 16:31:59.1922 INFO Message sent to post-queue 
+2024-07-09 16:31:59.1922 INFO Message sent to sent-queue 
+2024-07-09 16:31:59.1922 INFO Message sent to queue 
+2024-07-09 16:31:59.1922 INFO Message sent to pre-queue 

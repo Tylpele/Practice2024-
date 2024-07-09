@@ -20,6 +20,7 @@ namespace HeartbeatApp.Models
             // Timer to check for received messages every 5 seconds
             listenTimer = new Timer(CheckForMessages, null, TimeSpan.Zero, TimeSpan.FromSeconds(5));
 
+            // Wait indefinitely until cancellation is requested
             return Task.CompletedTask;
         }
 
@@ -28,11 +29,11 @@ namespace HeartbeatApp.Models
             try
             {
                 Queue.SendMessage(queueName);
-               _logger.Info("Message sent to "+ queueName);
+                _logger.Info("Message sent to " + queueName);
             }
             catch (Exception ex)
             {
-                _logger.Error($"Error sending message to queue: {ex.Message}");
+                _logger.Error($"Error sending message to pre-queue");
                 CreateFlagFile();
             }
         }
@@ -43,7 +44,7 @@ namespace HeartbeatApp.Models
             {
                 Queue.StartListening(queueName, (message) =>
                 {
-                    //_logger.Info("Message received from queue: " + message);
+                    //_logger.Warn("Stop flag detected");
                     DeleteFlagFileIfExists(flagPath);
                 });
             }
