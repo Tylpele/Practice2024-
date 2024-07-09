@@ -242,3 +242,104 @@
 2024-07-09 15:30:49.9223|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
 2024-07-09 15:30:54.9281|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
 2024-07-09 15:30:59.9327|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:42:55.3388|INFO|PreProcessor.Program|Application started
+2024-07-09 15:42:55.4161|INFO|PreProcessor1.RabbitMqService|RabbitMQ connection established
+2024-07-09 15:42:55.4161|INFO|PreProcessor1.RabbitMqService|Started listening to pre-queue
+2024-07-09 15:42:58.6014|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:42:58.6182|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:42:58.6182|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:42:58.6348|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:42:58.6348|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:42:58.6348|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:42:58.6348|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:42:58.6494|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:42:58.6494|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:42:58.6689|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:42:58.6839|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:42:58.7023|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:42:58.7373|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:47:01.1503|INFO|PreProcessor.Program|Application started
+2024-07-09 15:47:01.2044|INFO|PreProcessor1.RabbitMqService|RabbitMQ connection established
+2024-07-09 15:47:01.2044|INFO|PreProcessor1.RabbitMqService|Started listening to pre-queue
+2024-07-09 15:47:01.2112|INFO|PreProcessor1.RabbitMqService|Message for user was sent to queue
+2024-07-09 15:47:01.2112|INFO|PreProcessor1.RabbitMqService|Message for user was sent to queue
+2024-07-09 15:47:01.2112|INFO|PreProcessor1.RabbitMqService|Message for user was sent to queue
+2024-07-09 15:47:01.5781|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:47:06.5566|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:47:09.6112|INFO|PreProcessor1.RabbitMqService|Message for user was sent to queue
+2024-07-09 15:47:16.5482|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:47:21.5473|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:47:26.5468|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:47:31.5466|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:47:36.5569|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:47:41.5514|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:47:46.5479|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:47:51.5518|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:47:56.5430|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:48:01.5432|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:48:06.5462|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:48:11.5524|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:48:16.5570|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:48:21.5570|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:48:26.5552|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:48:31.5564|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:48:36.5426|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:48:41.5507|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:48:46.5563|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:48:51.5440|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:48:56.5541|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:49:01.5426|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:49:06.5547|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:49:11.5576|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:49:16.5504|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:49:21.5503|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:49:26.5522|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:49:31.5501|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:49:36.5488|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:49:41.5515|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:49:46.5555|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:49:51.5518|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:49:56.5536|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:50:01.5419|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:50:06.5527|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:50:11.5478|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:50:16.5474|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:50:21.5435|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:50:26.5433|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:50:31.5514|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:50:36.5513|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:50:41.5439|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:50:46.5551|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:50:51.5559|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:50:56.5507|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:51:01.5569|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:51:06.5472|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:51:11.5523|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:51:16.5487|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:51:21.5521|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:51:26.5579|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:51:31.5435|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:51:36.5473|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:51:41.5543|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:51:46.5548|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:51:51.5558|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:51:56.5515|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:52:01.5523|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:52:06.5497|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:52:11.5534|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:52:24.6004|INFO|PreProcessor.Program|Application started
+2024-07-09 15:52:24.6922|INFO|PreProcessor1.RabbitMqService|RabbitMQ connection established
+2024-07-09 15:52:24.6955|INFO|PreProcessor1.RabbitMqService|Started listening to pre-queue
+2024-07-09 15:52:25.0804|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:52:25.0804|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:52:30.0368|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:52:35.0383|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:52:40.0387|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:52:45.0464|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:52:50.0442|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:52:55.0438|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:53:00.0493|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:53:05.0385|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:53:10.0477|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:53:15.0366|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
+2024-07-09 15:53:20.0479|INFO|PreProcessor1.RabbitMqService|System Message was sent to queue
