@@ -90,7 +90,7 @@ namespace PreProcessor1
                 autoAck: false,
                 consumer: consumer
             );
-            _logger.Info($"Started listening to queue: {queueName}");
+            _logger.Info($"Started listening to {queueName}");
         }
     }
 }

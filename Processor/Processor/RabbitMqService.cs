@@ -31,9 +31,15 @@ public class RabbitMqService
         }
     }
 
-    public void StartListening(string queueName, Action<string> handleMessage)
+    public static void StartListening(string queueName, Action<string> onMessageReceived)
     {
-        _channel.QueueDeclare(queue: queueName, durable: false, exclusive: false, autoDelete: false, arguments: null);
+        _channel.QueueDeclare(
+            queue: queueName,
+            durable: false,
+            exclusive: false,
+            autoDelete: false,
+            arguments: null
+        );
 
         var consumer = new EventingBasicConsumer(_channel);
         consumer.Received += (model, ea) =>
@@ -41,39 +47,51 @@ public class RabbitMqService
             var body = ea.Body.ToArray();
             var message = Encoding.UTF8.GetString(body);
 
-            // Логирование заголовков сообщения
-            if (ea.BasicProperties.Headers != null)
+            if (ea.BasicProperties.Headers != null &&
+                ea.BasicProperties.Headers.TryGetValue("Type", out var typeHeader) &&
+                typeHeader is byte[] headerBytes &&
+                Encoding.UTF8.GetString(headerBytes) == "userMessage")
             {
-                foreach (var header in ea.BasicProperties.Headers)
-                {
-                    var value = header.Value is byte[] bytes ? Encoding.UTF8.GetString(bytes) : header.Value.ToString();
-                    _logger.Info($"Header: {header.Key} = {value}");
-                }
-            }
+                _channel.BasicAck(ea.DeliveryTag, false);
+                onMessageReceived(message);
+                _logger.Info("Message for user was sent to queue");
 
-            handleMessage(message);
+            }
+            else
+            {
+                _channel.BasicNack(ea.DeliveryTag, false, true);
+                _logger.Info("System Message was sent to queue");
+            }
         };
 
-        _channel.BasicConsume(queue: queueName, autoAck: true, consumer: consumer);
+        _channel.BasicConsume(
+            queue: queueName,
+            autoAck: false,
+            consumer: consumer
+        );
+        _logger.Info($"Started listening to {queueName}");
     }
 
-    public void SendMessage(string message, string queueName)
+    public static void SendMessage(string inputText, string queueName)
     {
+        _channel.QueueDeclare(
+            queue: queueName,
+            durable: false,
+            exclusive: false,
+            autoDelete: false,
+            arguments: null
+        );
+
         var properties = _channel.CreateBasicProperties();
         properties.Headers = new Dictionary<string, object>
             {
                 { "Type", Encoding.UTF8.GetBytes("userMessage") }
             };
 
-        var body = Encoding.UTF8.GetBytes(message);
-        _channel.BasicPublish(exchange: "", routingKey: queueName, basicProperties: properties, body: body);
-
-        // Логирование отправленного сообщения и его заголовков
-        _logger.Info($"Sent message to queue {queueName}: {message}");
-        foreach (var header in properties.Headers)
-        {
-            var value = header.Value is byte[] bytes ? Encoding.UTF8.GetString(bytes) : header.Value.ToString();
-            _logger.Info($"Sent header: {header.Key} = {value}");
-        }
+        var message = Encoding.UTF8.GetBytes(inputText);
+        _channel.BasicPublish(exchange: "",
+                              routingKey: queueName,
+                              basicProperties: properties,
+                              body: message);
     }
 }

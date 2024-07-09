@@ -11,12 +11,14 @@ namespace PostProcessor
         private static readonly ConnectionFactory _factory;
         private static readonly IConnection _connection;
         private static readonly IModel _channel;
+        private static readonly Logger _logger = LogManager.GetCurrentClassLogger();
 
         static RabbitMqService()
         {
             _factory = new ConnectionFactory { HostName = "localhost" };
             _connection = _factory.CreateConnection();
             _channel = _connection.CreateModel();
+            _logger.Info("RabbitMQ connection established");
         }
 
         public static void SendMessage(object obj, string queueName)
@@ -38,14 +40,8 @@ namespace PostProcessor
             var properties = _channel.CreateBasicProperties();
             properties.Headers = new Dictionary<string, object>
             {
-                { "Type", Encoding.UTF8.GetBytes("userMessage") } // Преобразование строки в byte[]
+                { "Type", Encoding.UTF8.GetBytes("userMessage") }
             };
-
-            Console.WriteLine("Message Headers:");
-            foreach (var header in properties.Headers)
-            {
-                Console.WriteLine($"{header.Key}: {Encoding.UTF8.GetString((byte[])header.Value)}");
-            }
 
             var message = Encoding.UTF8.GetBytes(inputText);
             _channel.BasicPublish(exchange: "",
@@ -77,10 +73,13 @@ namespace PostProcessor
                 {
                     _channel.BasicAck(ea.DeliveryTag, false);
                     onMessageReceived(message);
+                    _logger.Info("Message for user was sent to queue");
+
                 }
                 else
                 {
                     _channel.BasicNack(ea.DeliveryTag, false, true);
+                    _logger.Info("System Message was sent to queue");
                 }
             };
 
@@ -89,6 +88,7 @@ namespace PostProcessor
                 autoAck: false,
                 consumer: consumer
             );
+            _logger.Info($"Started listening to {queueName}");
         }
     }
 }

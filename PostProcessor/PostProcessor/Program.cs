@@ -4,9 +4,9 @@ using PostProcessor;
 class Program
 {
     private static readonly Logger _logger = LogManager.GetCurrentClassLogger();
-
     static void Main(string[] args)
     {
+        LogManager.LoadConfiguration("C:\\Практика\\PostProcessor\\PostProcessor\\NLog.config");
         string CurrentQueue = "post-queue";
         try
         {
@@ -26,8 +26,7 @@ class Program
         var parts = message.Split(':');
         if (parts.Length != 2)
         {
-            _logger.Error("Invalid message format: " + message);
-            Console.WriteLine("Invalid format message");
+            _logger.Error("Invalid message format");
             return;
         }
 
@@ -39,12 +38,11 @@ class Program
             try
             {
                 RabbitMqService.SendMessage(message, NextQueue);
-                _logger.Info($"Message sent to {NextQueue}: {message}");
-                Console.WriteLine("Message sent to sent-queue");
+                _logger.Info($"Message sent to {NextQueue}");
             }
             catch (Exception ex)
             {
-                _logger.Error($"Error in PostHandleMessage: {ex.Message}");
+                _logger.Error($"Error in PostHandleMessage");
             }
         }
         else
@@ -57,12 +55,11 @@ class Program
                 try
                 {
                     RabbitMqService.SendMessage(responseMessage, NextQueue);
-                    _logger.Info($"Message sent to {NextQueue}: {responseMessage}");
-                    Console.WriteLine("Message sent to sent-queue");
+                    _logger.Info($"User message sent to {NextQueue}");
                 }
                 catch (Exception ex)
                 {
-                    _logger.Error($"Error in PostHandleMessage: {ex.Message}");
+                    _logger.Error($"Error in PostHandleMessage");
                 }
             }
         }

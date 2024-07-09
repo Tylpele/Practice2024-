@@ -46,12 +46,6 @@ namespace СhatBot.RabbitMQ
                 { "Type", Encoding.UTF8.GetBytes("userMessage") } // Преобразование строки в byte[]
             };
 
-            Console.WriteLine("Message Headers:");
-            foreach (var header in properties.Headers)
-            {
-                Console.WriteLine($"{header.Key}: {Encoding.UTF8.GetString((byte[])header.Value)}");
-            }
-
             var message = Encoding.UTF8.GetBytes(inputText);
             _channel.BasicPublish(exchange: "",
                                   routingKey: queueName,

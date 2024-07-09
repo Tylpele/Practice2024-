@@ -44,11 +44,13 @@ public class Program
     {
         var rabbitMqService = new RabbitMqService();
         var program = new Program(rabbitMqService);
+        NLog.Logger _logger = LogManager.GetCurrentClassLogger();
+        LogManager.LoadConfiguration("C:\\Практика\\Processor\\Processor\\NLog.config");
 
         string CurrentQueue = "queue";
-        rabbitMqService.StartListening(CurrentQueue, program.HandleMessage);
+        RabbitMqService.StartListening(CurrentQueue, program.HandleMessage);
 
-        Console.WriteLine("Listening to messages. Press [enter] to exit.");
+        _logger.Info("Listening to messages. Press [enter] to exit.");
        Console.ReadKey();
     }
 
@@ -69,7 +71,7 @@ public class Program
 
         if (parts.Length != 2)
         {
-            _logger.Error("Invalid message format: " + message);
+            _logger.Error("Invalid message format");
             return;
         }
 
@@ -79,16 +81,15 @@ public class Program
         if (_responses.TryGetValue(messageContent, out var answer))
         {
             var responseMessage = $"{ConnectionId}:{answer}";
-            _rabbitMqService.SendMessage(responseMessage, NextQueue);
-            _logger.Info($"Message '{messageContent}' processed and response '{answer}' was sent to {NextQueue}");
-            Console.WriteLine("Message was sent to post-queue");
+            RabbitMqService.SendMessage(responseMessage, NextQueue);
+            _logger.Info("User message was sent to post-queue");
         }
         else
         {
             var responseMessage = $"{ConnectionId}:I don't know the answer";
-            _rabbitMqService.SendMessage(responseMessage, NextQueue);
-            _logger.Warn($"No response found for message '{messageContent}'");
-            Console.WriteLine("Message was sent to post-queue with default response");
+            RabbitMqService.SendMessage(responseMessage, NextQueue);
+            _logger.Info($"No response found for message and was sent standart answer");
+
         }
     }
 }

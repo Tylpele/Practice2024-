@@ -23,7 +23,7 @@ namespace СhatBot.Models
             var parts = message.Split(':');
             if (parts.Length != 2)
             {
-                _logger.Error("Invalid message format: " + message);
+                _logger.Error("Invalid message format");
                 return;
             }
 
@@ -31,7 +31,7 @@ namespace СhatBot.Models
             var userMessage = parts[1];
 
             await _chatHub.Clients.Client(ConnectionId).SendAsync("ReceiveMessage", userMessage);
-            _logger.Info($"Message to connection {ConnectionId}: {userMessage} was sent user");
+            _logger.Info($"Message to connection {ConnectionId} was sent to user");
         }
 
         protected override Task ExecuteAsync(CancellationToken stoppingToken)
