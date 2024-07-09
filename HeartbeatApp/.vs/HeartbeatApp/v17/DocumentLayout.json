@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\HeartbeatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48BE4D9A-495E-4799-AB51-653633C763DD}|HeartbeatApp\\HeartbeatApp.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\heartbeatapp\\heartbeatapp\\models\\checkqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48BE4D9A-495E-4799-AB51-653633C763DD}|HeartbeatApp\\HeartbeatApp.csproj|solutionrelative:heartbeatapp\\models\\checkqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48BE4D9A-495E-4799-AB51-653633C763DD}|HeartbeatApp\\HeartbeatApp.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\heartbeatapp\\heartbeatapp\\models\\checkprequeue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48BE4D9A-495E-4799-AB51-653633C763DD}|HeartbeatApp\\HeartbeatApp.csproj|solutionrelative:heartbeatapp\\models\\checkprequeue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48BE4D9A-495E-4799-AB51-653633C763DD}|HeartbeatApp\\HeartbeatApp.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\heartbeatapp\\heartbeatapp\\rabbitmq\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48BE4D9A-495E-4799-AB51-653633C763DD}|HeartbeatApp\\HeartbeatApp.csproj|solutionrelative:heartbeatapp\\rabbitmq\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48BE4D9A-495E-4799-AB51-653633C763DD}|HeartbeatApp\\HeartbeatApp.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\heartbeatapp\\heartbeatapp\\models\\checkpostqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48BE4D9A-495E-4799-AB51-653633C763DD}|HeartbeatApp\\HeartbeatApp.csproj|solutionrelative:heartbeatapp\\models\\checkpostqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48BE4D9A-495E-4799-AB51-653633C763DD}|HeartbeatApp\\HeartbeatApp.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\heartbeatapp\\heartbeatapp\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{48BE4D9A-495E-4799-AB51-653633C763DD}|HeartbeatApp\\HeartbeatApp.csproj|solutionrelative:heartbeatapp\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48BE4D9A-495E-4799-AB51-653633C763DD}|HeartbeatApp\\HeartbeatApp.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\heartbeatapp\\heartbeatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48BE4D9A-495E-4799-AB51-653633C763DD}|HeartbeatApp\\HeartbeatApp.csproj|solutionrelative:heartbeatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48BE4D9A-495E-4799-AB51-653633C763DD}|HeartbeatApp\\HeartbeatApp.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\heartbeatapp\\heartbeatapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48BE4D9A-495E-4799-AB51-653633C763DD}|HeartbeatApp\\HeartbeatApp.csproj|solutionrelative:heartbeatapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48BE4D9A-495E-4799-AB51-653633C763DD}|HeartbeatApp\\HeartbeatApp.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\heartbeatapp\\heartbeatapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48BE4D9A-495E-4799-AB51-653633C763DD}|HeartbeatApp\\HeartbeatApp.csproj|solutionrelative:heartbeatapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48BE4D9A-495E-4799-AB51-653633C763DD}|HeartbeatApp\\HeartbeatApp.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\heartbeatapp\\heartbeatapp\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{48BE4D9A-495E-4799-AB51-653633C763DD}|HeartbeatApp\\HeartbeatApp.csproj|solutionrelative:heartbeatapp\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NLog.config",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\HeartbeatApp\\HeartbeatApp\\NLog.config",
+              "RelativeDocumentMoniker": "HeartbeatApp\\NLog.config",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\HeartbeatApp\\HeartbeatApp\\NLog.config",
+              "RelativeToolTip": "HeartbeatApp\\NLog.config",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-08T04:51:49.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckPostQueue.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\HeartbeatApp\\HeartbeatApp\\Models\\CheckPostQueue.cs",
+              "RelativeDocumentMoniker": "HeartbeatApp\\Models\\CheckPostQueue.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\HeartbeatApp\\HeartbeatApp\\Models\\CheckPostQueue.cs",
+              "RelativeToolTip": "HeartbeatApp\\Models\\CheckPostQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T04:48:10.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\HeartbeatApp\\HeartbeatApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HeartbeatApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\HeartbeatApp\\HeartbeatApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HeartbeatApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T04:43:05.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckQueue.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\HeartbeatApp\\HeartbeatApp\\Models\\CheckQueue.cs",
+              "RelativeDocumentMoniker": "HeartbeatApp\\Models\\CheckQueue.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\HeartbeatApp\\HeartbeatApp\\Models\\CheckQueue.cs",
+              "RelativeToolTip": "HeartbeatApp\\Models\\CheckQueue.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwEYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T04:40:39.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\HeartbeatApp\\HeartbeatApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "HeartbeatApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\HeartbeatApp\\HeartbeatApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "HeartbeatApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:47:59.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\HeartbeatApp\\HeartbeatApp\\Program.cs",
+              "RelativeDocumentMoniker": "HeartbeatApp\\Program.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\HeartbeatApp\\HeartbeatApp\\Program.cs",
+              "RelativeToolTip": "HeartbeatApp\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:34:37.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckPreQueue.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\HeartbeatApp\\HeartbeatApp\\Models\\CheckPreQueue.cs",
+              "RelativeDocumentMoniker": "HeartbeatApp\\Models\\CheckPreQueue.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\HeartbeatApp\\HeartbeatApp\\Models\\CheckPreQueue.cs",
+              "RelativeToolTip": "HeartbeatApp\\Models\\CheckPreQueue.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:14:00.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Queue.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\HeartbeatApp\\HeartbeatApp\\RabbitMq\\Queue.cs",
+              "RelativeDocumentMoniker": "HeartbeatApp\\RabbitMq\\Queue.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\HeartbeatApp\\HeartbeatApp\\RabbitMq\\Queue.cs",
+              "RelativeToolTip": "HeartbeatApp\\RabbitMq\\Queue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:07:28.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NLog.config",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\HeartbeatApp\\HeartbeatApp\\NLog.config",
+              "RelativeDocumentMoniker": "HeartbeatApp\\NLog.config",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\HeartbeatApp\\HeartbeatApp\\NLog.config",
+              "RelativeToolTip": "HeartbeatApp\\NLog.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-04T10:04:14.29Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
