@@ -2,14 +2,95 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="container">
-    <h1>Message Form</h1>
-    <div class="form-group">
-        <label for="inputText">Enter text:</label>
-        <input type="text" class="form-control" id="inputText" name="inputText">
-    </div>
-    <button type="submit" class="btn btn-primary" id="sendButton">Submit</button>
-    <ul id="messagesList"></ul>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/5.0.9/signalr.js"></script>
+        .container {
+            margin-top: 10px; /* уменьшили отступ сверху */
+            flex: 1;
+        }
+
+        .chat-container {
+            display: flex;
+            flex-direction: column;
+            height: 70vh; /* уменьшили высоту контейнера чата */
+        }
+
+        #messagesList {
+            list-style-type: none;
+            padding: 0;
+            flex: 1;
+            overflow-y: auto;
+            margin-bottom: 15px;
+        }
+
+            #messagesList li {
+                background: #e9ecef;
+                padding: 10px;
+                margin-bottom: 5px;
+                border-radius: 5px;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+            }
+
+        .user-message {
+            text-align: right;
+            background-color: #007bff;
+            color: black;
+        }
+
+        .bot-message {
+            text-align: left;
+            background-color: #6c757d;
+            color: black;
+        }
+
+        .form-container {
+            display: flex;
+        }
+
+            .form-container .form-control {
+                flex: 1;
+            }
+
+            .form-container .btn {
+                margin-left: 10px;
+            }
+
+        .timestamp {
+            font-size: 0.75rem;
+            color: #6c757d;
+            margin-left: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <div class="card-body chat-container">
+                <ul id="messagesList" class="mt-4"></ul>
+                <div class="form-container">
+                    <input type="text" class="form-control" id="inputText" name="inputText" placeholder="Type your message here...">
+                    <button type="button" class="btn btn-primary" id="sendButton">Submit</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/5.0.9/signalr.js"></script>
+</body>
+</html>
