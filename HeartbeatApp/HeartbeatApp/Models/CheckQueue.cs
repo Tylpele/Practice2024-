@@ -14,7 +14,7 @@ namespace HeartbeatApp.Models
         private readonly string queueName = "queue";
         private Timer sendTimer;
         private Timer listenTimer;
-        private readonly string flagPath = "../../chatbot/webapp/stop.flag";
+        private readonly string flagPath = "../../ChatBot/СhatBot/stop.flag";
         private readonly NLog.Logger _logger = LogManager.GetCurrentClassLogger();
 
         protected override Task ExecuteAsync(CancellationToken stoppingToken)
@@ -38,7 +38,7 @@ namespace HeartbeatApp.Models
             }
             catch (Exception ex)
             {
-                _logger.Error($"Error sending message to post-queue");
+                _logger.Error($"Error sending message to queue");
                 CreateFlagFile();
             }
         }

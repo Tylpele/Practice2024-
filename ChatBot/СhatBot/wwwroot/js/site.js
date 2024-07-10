@@ -3,6 +3,14 @@
         .withUrl("/chatHub")
         .build();
 
+    connection.on("SwitchErrorScreens", function (toError) {
+        if (toError) {
+            window.location.href = "/Home/Error";
+        }
+        else if (window.location.href !== 'https://localhost:7045/') {
+            window.location.href = "/";
+        }
+    });
     connection.on("ReceiveMessage", function (message) {
         var li = document.createElement("li");
         document.getElementById("messagesList").appendChild(li);

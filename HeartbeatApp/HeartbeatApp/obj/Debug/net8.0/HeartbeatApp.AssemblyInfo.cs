@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HeartbeatApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae9d5df6c86fdca5517d46a017fca3c16977901f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14c83820d8f75394cca16088f759dd85ad8008f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("HeartbeatApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HeartbeatApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

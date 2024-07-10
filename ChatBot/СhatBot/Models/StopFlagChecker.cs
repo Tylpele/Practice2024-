@@ -1,11 +1,16 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.SignalR;
+using System;
 using System.IO;
 using System.Threading;
 using System.Threading.Tasks;
 
-public class StopFlagChecker: BackgroundService
+public class StopFlagChecker : BackgroundService
 {
-
+    private IHubContext<ChatHub> _hubContext;
+    public StopFlagChecker(IHubContext<ChatHub> hubContext)
+    {
+        _hubContext = hubContext;
+    }
     private Timer timer;
     protected override Task ExecuteAsync(CancellationToken stoppingToken)
     {
@@ -19,11 +24,15 @@ public class StopFlagChecker: BackgroundService
     }
     private void CheckFlag()
     {
-        if (File.Exists("C:\\Практика\\ChatBot\\ChatBot\\stop.flag"))
+        ManageErrorsScreens(File.Exists("stop.flag")
+                        );
+    }
+    private void ManageErrorsScreens(bool switchToError)
+    {
+        if (switchToError)
         {
             Console.WriteLine("Stop flag detected. Stopping application...");
-            Environment.Exit(0);
         }
-
+        _hubContext.Clients.All.SendAsync("SwitchErrorScreens", switchToError);
     }
 }

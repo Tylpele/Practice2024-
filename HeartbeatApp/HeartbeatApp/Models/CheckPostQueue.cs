@@ -9,7 +9,7 @@ namespace HeartbeatApp.Models
         private readonly string queueName = "post-queue";
         private Timer sendTimer;
         private Timer listenTimer;
-        private readonly string flagPath = "../../chatbot/webapp/stop.flag";
+        private readonly string flagPath = "../../ChatBot/СhatBot/stop.flag";
         private readonly NLog.Logger _logger = LogManager.GetCurrentClassLogger();
 
         protected override Task ExecuteAsync(CancellationToken stoppingToken)

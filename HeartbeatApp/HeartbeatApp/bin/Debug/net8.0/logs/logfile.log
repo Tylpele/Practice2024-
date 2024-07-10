@@ -12638,3 +12638,2572 @@
 2024-07-09 16:31:59.1922 INFO Message sent to sent-queue 
 2024-07-09 16:31:59.1922 INFO Message sent to queue 
 2024-07-09 16:31:59.1922 INFO Message sent to pre-queue 
+2024-07-09 16:37:13.1713 INFO Message sent to post-queue 
+2024-07-09 16:37:13.1713 INFO Message sent to sent-queue 
+2024-07-09 16:37:13.1713 INFO Message sent to pre-queue 
+2024-07-09 16:37:13.1713 INFO Message sent to queue 
+2024-07-09 16:37:13.1713 WARN Stop flag not found 
+2024-07-09 16:37:18.1470 INFO Message sent to queue 
+2024-07-09 16:37:18.1470 INFO Message sent to sent-queue 
+2024-07-09 16:37:18.1470 INFO Message sent to pre-queue 
+2024-07-09 16:37:18.1470 INFO Message sent to post-queue 
+2024-07-09 16:37:18.1494 WARN Stop flag not found 
+2024-07-09 16:37:23.1392 INFO Message sent to sent-queue 
+2024-07-09 16:37:23.1392 INFO Message sent to queue 
+2024-07-09 16:37:23.1392 INFO Message sent to post-queue 
+2024-07-09 16:37:23.1392 INFO Message sent to pre-queue 
+2024-07-09 16:37:23.1392 WARN Stop flag not found 
+2024-07-09 16:37:28.1439 INFO Message sent to sent-queue 
+2024-07-09 16:37:28.1439 INFO Message sent to post-queue 
+2024-07-09 16:37:28.1439 INFO Message sent to queue 
+2024-07-09 16:37:28.1439 INFO Message sent to pre-queue 
+2024-07-09 16:37:28.1439 WARN Stop flag not found 
+2024-07-09 16:37:33.1375 INFO Message sent to sent-queue 
+2024-07-09 16:37:33.1375 INFO Message sent to queue 
+2024-07-09 16:37:33.1375 INFO Message sent to post-queue 
+2024-07-09 16:37:33.1375 INFO Message sent to pre-queue 
+2024-07-09 16:37:33.1375 WARN Stop flag not found 
+2024-07-09 16:37:38.1476 INFO Message sent to sent-queue 
+2024-07-09 16:37:38.1476 INFO Message sent to queue 
+2024-07-09 16:37:38.1481 INFO Message sent to post-queue 
+2024-07-09 16:37:38.1481 INFO Message sent to pre-queue 
+2024-07-09 16:37:38.1481 WARN Stop flag not found 
+2024-07-09 16:37:43.1435 INFO Message sent to sent-queue 
+2024-07-09 16:37:43.1435 INFO Message sent to queue 
+2024-07-09 16:37:43.1435 INFO Message sent to post-queue 
+2024-07-09 16:37:43.1435 INFO Message sent to pre-queue 
+2024-07-09 16:37:43.1435 WARN Stop flag not found 
+2024-07-09 16:37:48.1500 ERROR Error sending message to post-queue 
+2024-07-09 16:37:48.1500 ERROR Error sending message to post-queue 
+2024-07-09 16:37:48.1500 ERROR Error sending message to post-queue 
+2024-07-09 16:37:48.1500 ERROR Error sending message to pre-queue 
+2024-07-09 16:37:48.1500 INFO Flag file created. 
+2024-07-09 16:37:53.1434 ERROR Error sending message to post-queue 
+2024-07-09 16:37:53.1434 ERROR Error sending message to pre-queue 
+2024-07-09 16:37:53.1434 ERROR Error sending message to post-queue 
+2024-07-09 16:37:53.1434 ERROR Error sending message to post-queue 
+2024-07-09 16:37:58.1353 ERROR Error sending message to post-queue 
+2024-07-09 16:37:58.1353 ERROR Error sending message to post-queue 
+2024-07-09 16:37:58.1353 ERROR Error sending message to post-queue 
+2024-07-09 16:37:58.1353 ERROR Error sending message to pre-queue 
+2024-07-09 16:38:03.1450 ERROR Error sending message to post-queue 
+2024-07-09 16:38:03.1450 ERROR Error sending message to pre-queue 
+2024-07-09 16:38:03.1450 ERROR Error sending message to post-queue 
+2024-07-09 16:38:03.1450 ERROR Error sending message to post-queue 
+2024-07-09 16:38:08.1476 ERROR Error sending message to post-queue 
+2024-07-09 16:38:08.1476 ERROR Error sending message to post-queue 
+2024-07-09 16:38:08.1476 ERROR Error sending message to post-queue 
+2024-07-09 16:38:08.1476 ERROR Error sending message to pre-queue 
+2024-07-09 16:38:13.1442 ERROR Error sending message to post-queue 
+2024-07-09 16:38:13.1442 ERROR Error sending message to post-queue 
+2024-07-09 16:38:13.1442 ERROR Error sending message to post-queue 
+2024-07-09 16:38:13.1442 ERROR Error sending message to pre-queue 
+2024-07-09 16:38:18.1376 ERROR Error sending message to post-queue 
+2024-07-09 16:38:18.1376 ERROR Error sending message to post-queue 
+2024-07-09 16:38:18.1376 ERROR Error sending message to pre-queue 
+2024-07-09 16:38:18.1376 ERROR Error sending message to post-queue 
+2024-07-09 16:38:23.1440 ERROR Error sending message to post-queue 
+2024-07-09 16:38:23.1440 ERROR Error sending message to post-queue 
+2024-07-09 16:38:23.1440 ERROR Error sending message to post-queue 
+2024-07-09 16:38:23.1440 ERROR Error sending message to pre-queue 
+2024-07-09 16:38:28.1481 INFO Message sent to sent-queue 
+2024-07-09 16:38:28.1487 INFO Message sent to post-queue 
+2024-07-09 16:38:28.1487 INFO Message sent to queue 
+2024-07-09 16:38:28.1487 INFO Message sent to pre-queue 
+2024-07-09 16:38:28.1487 INFO Flag file deleted. 
+2024-07-09 16:38:28.1487 WARN Stop flag not found 
+2024-07-09 16:38:33.1408 INFO Message sent to sent-queue 
+2024-07-09 16:38:33.1408 INFO Message sent to queue 
+2024-07-09 16:38:33.1408 INFO Message sent to post-queue 
+2024-07-09 16:38:33.1408 INFO Message sent to pre-queue 
+2024-07-09 16:38:33.1408 WARN Stop flag not found 
+2024-07-09 16:38:38.1482 INFO Message sent to sent-queue 
+2024-07-09 16:38:38.1482 INFO Message sent to post-queue 
+2024-07-09 16:38:38.1487 INFO Message sent to queue 
+2024-07-09 16:38:38.1487 INFO Message sent to pre-queue 
+2024-07-09 16:38:38.1487 WARN Stop flag not found 
+2024-07-09 16:38:43.1421 INFO Message sent to sent-queue 
+2024-07-09 16:38:43.1421 INFO Message sent to post-queue 
+2024-07-09 16:38:43.1421 INFO Message sent to queue 
+2024-07-09 16:38:43.1421 INFO Message sent to pre-queue 
+2024-07-09 16:38:43.1421 WARN Stop flag not found 
+2024-07-09 16:38:48.1434 INFO Message sent to sent-queue 
+2024-07-09 16:38:48.1434 INFO Message sent to post-queue 
+2024-07-09 16:38:48.1434 INFO Message sent to queue 
+2024-07-09 16:38:48.1434 INFO Message sent to pre-queue 
+2024-07-09 16:38:48.1434 WARN Stop flag not found 
+2024-07-09 16:38:53.1394 INFO Message sent to sent-queue 
+2024-07-09 16:38:53.1394 INFO Message sent to queue 
+2024-07-09 16:38:53.1394 INFO Message sent to post-queue 
+2024-07-09 16:38:53.1394 INFO Message sent to pre-queue 
+2024-07-09 16:38:53.1394 WARN Stop flag not found 
+2024-07-09 16:38:58.1387 INFO Message sent to sent-queue 
+2024-07-09 16:38:58.1387 INFO Message sent to post-queue 
+2024-07-09 16:38:58.1387 INFO Message sent to queue 
+2024-07-09 16:38:58.1387 INFO Message sent to pre-queue 
+2024-07-09 16:38:58.1387 WARN Stop flag not found 
+2024-07-09 16:39:03.1415 INFO Message sent to sent-queue 
+2024-07-09 16:39:03.1415 INFO Message sent to queue 
+2024-07-09 16:39:03.1415 INFO Message sent to post-queue 
+2024-07-09 16:39:03.1415 INFO Message sent to pre-queue 
+2024-07-09 16:39:03.1415 WARN Stop flag not found 
+2024-07-09 16:39:08.1491 INFO Message sent to sent-queue 
+2024-07-09 16:39:08.1491 INFO Message sent to queue 
+2024-07-09 16:39:08.1491 INFO Message sent to post-queue 
+2024-07-09 16:39:08.1491 INFO Message sent to pre-queue 
+2024-07-09 16:39:08.1491 WARN Stop flag not found 
+2024-07-09 16:39:13.1399 INFO Message sent to sent-queue 
+2024-07-09 16:39:13.1399 INFO Message sent to post-queue 
+2024-07-09 16:39:13.1399 INFO Message sent to queue 
+2024-07-09 16:39:13.1399 INFO Message sent to pre-queue 
+2024-07-09 16:39:13.1399 WARN Stop flag not found 
+2024-07-09 16:39:18.1391 INFO Message sent to sent-queue 
+2024-07-09 16:39:18.1391 INFO Message sent to queue 
+2024-07-09 16:39:18.1391 INFO Message sent to post-queue 
+2024-07-09 16:39:18.1391 INFO Message sent to pre-queue 
+2024-07-09 16:39:18.1391 WARN Stop flag not found 
+2024-07-09 16:39:23.1366 INFO Message sent to sent-queue 
+2024-07-09 16:39:23.1366 INFO Message sent to queue 
+2024-07-09 16:39:23.1366 INFO Message sent to post-queue 
+2024-07-09 16:39:23.1366 INFO Message sent to pre-queue 
+2024-07-09 16:39:23.1366 WARN Stop flag not found 
+2024-07-09 16:39:28.1456 INFO Message sent to sent-queue 
+2024-07-09 16:39:28.1456 INFO Message sent to queue 
+2024-07-09 16:39:28.1456 INFO Message sent to post-queue 
+2024-07-09 16:39:28.1456 INFO Message sent to pre-queue 
+2024-07-09 16:39:28.1456 WARN Stop flag not found 
+2024-07-09 16:39:33.1382 INFO Message sent to sent-queue 
+2024-07-09 16:39:33.1382 INFO Message sent to post-queue 
+2024-07-09 16:39:33.1382 INFO Message sent to queue 
+2024-07-09 16:39:33.1382 INFO Message sent to pre-queue 
+2024-07-09 16:39:33.1382 WARN Stop flag not found 
+2024-07-09 16:39:38.1406 INFO Message sent to sent-queue 
+2024-07-09 16:39:38.1406 INFO Message sent to queue 
+2024-07-09 16:39:38.1406 INFO Message sent to post-queue 
+2024-07-09 16:39:38.1406 INFO Message sent to pre-queue 
+2024-07-09 16:39:38.1406 WARN Stop flag not found 
+2024-07-09 16:39:43.1449 ERROR Error sending message to post-queue 
+2024-07-09 16:39:43.1449 ERROR Error sending message to post-queue 
+2024-07-09 16:39:43.1449 ERROR Error sending message to post-queue 
+2024-07-09 16:39:43.1449 ERROR Error sending message to pre-queue 
+2024-07-09 16:39:43.1449 INFO Flag file created. 
+2024-07-09 16:39:48.1493 ERROR Error sending message to post-queue 
+2024-07-09 16:39:48.1493 ERROR Error sending message to post-queue 
+2024-07-09 16:39:48.1493 ERROR Error sending message to post-queue 
+2024-07-09 16:39:48.1493 ERROR Error sending message to pre-queue 
+2024-07-09 16:39:53.1391 ERROR Error sending message to post-queue 
+2024-07-09 16:39:53.1391 ERROR Error sending message to post-queue 
+2024-07-09 16:39:53.1391 ERROR Error sending message to post-queue 
+2024-07-09 16:39:53.1391 ERROR Error sending message to pre-queue 
+2024-07-09 16:39:58.1439 ERROR Error sending message to post-queue 
+2024-07-09 16:39:58.1439 ERROR Error sending message to post-queue 
+2024-07-09 16:39:58.1439 ERROR Error sending message to post-queue 
+2024-07-09 16:39:58.1439 ERROR Error sending message to pre-queue 
+2024-07-09 16:40:03.1360 ERROR Error sending message to post-queue 
+2024-07-09 16:40:03.1360 ERROR Error sending message to post-queue 
+2024-07-09 16:40:03.1360 ERROR Error sending message to post-queue 
+2024-07-09 16:40:03.1360 ERROR Error sending message to pre-queue 
+2024-07-09 16:40:08.1474 ERROR Error sending message to post-queue 
+2024-07-09 16:40:08.1474 ERROR Error sending message to pre-queue 
+2024-07-09 16:40:08.1474 ERROR Error sending message to post-queue 
+2024-07-09 16:40:08.1474 ERROR Error sending message to post-queue 
+2024-07-09 16:40:13.1386 ERROR Error sending message to post-queue 
+2024-07-09 16:40:13.1386 ERROR Error sending message to post-queue 
+2024-07-09 16:40:13.1386 ERROR Error sending message to post-queue 
+2024-07-09 16:40:13.1386 ERROR Error sending message to pre-queue 
+2024-07-09 16:40:18.1454 ERROR Error sending message to post-queue 
+2024-07-09 16:40:18.1454 ERROR Error sending message to post-queue 
+2024-07-09 16:40:18.1454 ERROR Error sending message to post-queue 
+2024-07-09 16:40:18.1454 ERROR Error sending message to pre-queue 
+2024-07-09 16:40:23.1494 ERROR Error sending message to post-queue 
+2024-07-09 16:40:23.1494 ERROR Error sending message to pre-queue 
+2024-07-09 16:40:23.1494 ERROR Error sending message to post-queue 
+2024-07-09 16:40:23.1494 ERROR Error sending message to post-queue 
+2024-07-09 16:40:28.1377 ERROR Error sending message to post-queue 
+2024-07-09 16:40:28.1377 ERROR Error sending message to post-queue 
+2024-07-09 16:40:28.1377 ERROR Error sending message to post-queue 
+2024-07-09 16:40:28.1377 ERROR Error sending message to pre-queue 
+2024-07-09 16:40:33.1432 ERROR Error sending message to post-queue 
+2024-07-09 16:40:33.1432 ERROR Error sending message to post-queue 
+2024-07-09 16:40:33.1432 ERROR Error sending message to post-queue 
+2024-07-09 16:40:33.1432 ERROR Error sending message to pre-queue 
+2024-07-09 16:40:38.1440 ERROR Error sending message to post-queue 
+2024-07-09 16:40:38.1440 ERROR Error sending message to post-queue 
+2024-07-09 16:40:38.1440 ERROR Error sending message to post-queue 
+2024-07-09 16:40:38.1440 ERROR Error sending message to pre-queue 
+2024-07-09 16:40:43.1372 ERROR Error sending message to post-queue 
+2024-07-09 16:40:43.1372 ERROR Error sending message to post-queue 
+2024-07-09 16:40:43.1372 ERROR Error sending message to post-queue 
+2024-07-09 16:40:43.1372 ERROR Error sending message to pre-queue 
+2024-07-09 16:40:48.1456 ERROR Error sending message to post-queue 
+2024-07-09 16:40:48.1456 ERROR Error sending message to post-queue 
+2024-07-09 16:40:48.1456 ERROR Error sending message to post-queue 
+2024-07-09 16:40:48.1456 ERROR Error sending message to pre-queue 
+2024-07-09 16:40:53.1422 ERROR Error sending message to post-queue 
+2024-07-09 16:40:53.1422 ERROR Error sending message to post-queue 
+2024-07-09 16:40:53.1422 ERROR Error sending message to post-queue 
+2024-07-09 16:40:53.1422 ERROR Error sending message to pre-queue 
+2024-07-09 16:40:58.1356 ERROR Error sending message to pre-queue 
+2024-07-09 16:40:58.1356 ERROR Error sending message to post-queue 
+2024-07-09 16:40:58.1356 ERROR Error sending message to post-queue 
+2024-07-09 16:40:58.1356 ERROR Error sending message to post-queue 
+2024-07-09 16:41:03.1441 ERROR Error sending message to post-queue 
+2024-07-09 16:41:03.1441 ERROR Error sending message to post-queue 
+2024-07-09 16:41:03.1441 ERROR Error sending message to post-queue 
+2024-07-09 16:41:03.1441 ERROR Error sending message to pre-queue 
+2024-07-09 16:41:08.1381 ERROR Error sending message to post-queue 
+2024-07-09 16:41:08.1381 ERROR Error sending message to pre-queue 
+2024-07-09 16:41:08.1381 ERROR Error sending message to post-queue 
+2024-07-09 16:41:08.1381 ERROR Error sending message to post-queue 
+2024-07-09 16:41:13.1376 ERROR Error sending message to post-queue 
+2024-07-09 16:41:13.1376 ERROR Error sending message to pre-queue 
+2024-07-09 16:41:13.1376 ERROR Error sending message to post-queue 
+2024-07-09 16:41:13.1376 ERROR Error sending message to post-queue 
+2024-07-09 16:41:18.1366 ERROR Error sending message to post-queue 
+2024-07-09 16:41:18.1366 ERROR Error sending message to post-queue 
+2024-07-09 16:41:18.1366 ERROR Error sending message to post-queue 
+2024-07-09 16:41:18.1366 ERROR Error sending message to pre-queue 
+2024-07-09 16:41:23.1360 ERROR Error sending message to post-queue 
+2024-07-09 16:41:23.1360 ERROR Error sending message to post-queue 
+2024-07-09 16:41:23.1360 ERROR Error sending message to post-queue 
+2024-07-09 16:41:23.1360 ERROR Error sending message to pre-queue 
+2024-07-09 16:41:28.1430 ERROR Error sending message to pre-queue 
+2024-07-09 16:41:28.1430 ERROR Error sending message to post-queue 
+2024-07-09 16:41:28.1430 ERROR Error sending message to post-queue 
+2024-07-09 16:41:28.1430 ERROR Error sending message to post-queue 
+2024-07-09 16:41:33.1484 ERROR Error sending message to post-queue 
+2024-07-09 16:41:33.1484 ERROR Error sending message to post-queue 
+2024-07-09 16:41:33.1484 ERROR Error sending message to post-queue 
+2024-07-09 16:41:33.1484 ERROR Error sending message to pre-queue 
+2024-07-09 16:41:38.1464 ERROR Error sending message to post-queue 
+2024-07-09 16:41:38.1464 ERROR Error sending message to post-queue 
+2024-07-09 16:41:38.1464 ERROR Error sending message to post-queue 
+2024-07-09 16:41:38.1464 ERROR Error sending message to pre-queue 
+2024-07-09 16:41:43.1443 ERROR Error sending message to post-queue 
+2024-07-09 16:41:43.1443 ERROR Error sending message to post-queue 
+2024-07-09 16:41:43.1443 ERROR Error sending message to post-queue 
+2024-07-09 16:41:43.1443 ERROR Error sending message to pre-queue 
+2024-07-09 16:41:48.1446 ERROR Error sending message to post-queue 
+2024-07-09 16:41:48.1446 ERROR Error sending message to post-queue 
+2024-07-09 16:41:48.1446 ERROR Error sending message to post-queue 
+2024-07-09 16:41:48.1446 ERROR Error sending message to pre-queue 
+2024-07-09 16:41:53.1374 ERROR Error sending message to post-queue 
+2024-07-09 16:41:53.1374 ERROR Error sending message to post-queue 
+2024-07-09 16:41:53.1374 ERROR Error sending message to post-queue 
+2024-07-09 16:41:53.1374 ERROR Error sending message to pre-queue 
+2024-07-09 16:41:58.1459 ERROR Error sending message to post-queue 
+2024-07-09 16:41:58.1459 ERROR Error sending message to post-queue 
+2024-07-09 16:41:58.1459 ERROR Error sending message to post-queue 
+2024-07-09 16:41:58.1459 ERROR Error sending message to pre-queue 
+2024-07-09 16:42:03.1471 ERROR Error sending message to post-queue 
+2024-07-09 16:42:03.1471 ERROR Error sending message to post-queue 
+2024-07-09 16:42:03.1471 ERROR Error sending message to post-queue 
+2024-07-09 16:42:03.1471 ERROR Error sending message to pre-queue 
+2024-07-09 16:42:08.1422 ERROR Error sending message to post-queue 
+2024-07-09 16:42:08.1422 ERROR Error sending message to pre-queue 
+2024-07-09 16:42:08.1422 ERROR Error sending message to post-queue 
+2024-07-09 16:42:08.1422 ERROR Error sending message to post-queue 
+2024-07-09 16:42:13.1484 ERROR Error sending message to post-queue 
+2024-07-09 16:42:13.1484 ERROR Error sending message to post-queue 
+2024-07-09 16:42:13.1484 ERROR Error sending message to post-queue 
+2024-07-09 16:42:13.1484 ERROR Error sending message to pre-queue 
+2024-07-09 16:42:18.1433 ERROR Error sending message to post-queue 
+2024-07-09 16:42:18.1433 ERROR Error sending message to post-queue 
+2024-07-09 16:42:18.1433 ERROR Error sending message to post-queue 
+2024-07-09 16:42:18.1433 ERROR Error sending message to pre-queue 
+2024-07-09 16:42:23.1349 ERROR Error sending message to post-queue 
+2024-07-09 16:42:23.1349 ERROR Error sending message to pre-queue 
+2024-07-09 16:42:23.1508 ERROR Error sending message to post-queue 
+2024-07-09 16:42:23.1508 ERROR Error sending message to post-queue 
+2024-07-09 16:42:28.1415 ERROR Error sending message to post-queue 
+2024-07-09 16:42:28.1415 ERROR Error sending message to post-queue 
+2024-07-09 16:42:28.1415 ERROR Error sending message to post-queue 
+2024-07-09 16:42:28.1415 ERROR Error sending message to pre-queue 
+2024-07-09 16:42:33.1450 ERROR Error sending message to post-queue 
+2024-07-09 16:42:33.1450 ERROR Error sending message to post-queue 
+2024-07-09 16:42:33.1450 ERROR Error sending message to post-queue 
+2024-07-09 16:42:33.1450 ERROR Error sending message to pre-queue 
+2024-07-09 16:42:38.1462 ERROR Error sending message to post-queue 
+2024-07-09 16:42:38.1462 ERROR Error sending message to pre-queue 
+2024-07-09 16:42:38.1462 ERROR Error sending message to post-queue 
+2024-07-09 16:42:38.1462 ERROR Error sending message to post-queue 
+2024-07-09 16:42:43.1485 ERROR Error sending message to post-queue 
+2024-07-09 16:42:43.1485 ERROR Error sending message to post-queue 
+2024-07-09 16:42:43.1485 ERROR Error sending message to post-queue 
+2024-07-09 16:42:43.1485 ERROR Error sending message to pre-queue 
+2024-07-09 16:42:48.1419 ERROR Error sending message to post-queue 
+2024-07-09 16:42:48.1419 ERROR Error sending message to post-queue 
+2024-07-09 16:42:48.1419 ERROR Error sending message to post-queue 
+2024-07-09 16:42:48.1419 ERROR Error sending message to pre-queue 
+2024-07-09 16:42:53.1463 ERROR Error sending message to post-queue 
+2024-07-09 16:42:53.1463 ERROR Error sending message to post-queue 
+2024-07-09 16:42:53.1463 ERROR Error sending message to post-queue 
+2024-07-09 16:42:53.1463 ERROR Error sending message to pre-queue 
+2024-07-09 16:42:58.1365 ERROR Error sending message to post-queue 
+2024-07-09 16:42:58.1365 ERROR Error sending message to post-queue 
+2024-07-09 16:42:58.1365 ERROR Error sending message to post-queue 
+2024-07-09 16:42:58.1365 ERROR Error sending message to pre-queue 
+2024-07-09 16:43:03.1436 ERROR Error sending message to post-queue 
+2024-07-09 16:43:03.1436 ERROR Error sending message to post-queue 
+2024-07-09 16:43:03.1436 ERROR Error sending message to post-queue 
+2024-07-09 16:43:03.1436 ERROR Error sending message to pre-queue 
+2024-07-09 16:49:30.6847 INFO Message sent to post-queue 
+2024-07-09 16:49:30.6847 INFO Message sent to pre-queue 
+2024-07-09 16:49:30.6847 INFO Message sent to sent-queue 
+2024-07-09 16:49:30.6847 INFO Message sent to queue 
+2024-07-09 16:49:30.6847 INFO Flag file deleted. 
+2024-07-09 16:49:30.7017 WARN Stop flag not found 
+2024-07-09 16:49:30.7017 WARN Stop flag not found 
+2024-07-09 16:49:30.7017 WARN Stop flag not found 
+2024-07-09 16:49:30.7017 WARN Stop flag not found 
+2024-07-09 16:49:30.7017 WARN Stop flag not found 
+2024-07-09 16:49:30.7017 WARN Stop flag not found 
+2024-07-09 16:49:30.7017 WARN Stop flag not found 
+2024-07-09 16:49:30.7017 WARN Stop flag not found 
+2024-07-09 16:49:30.7017 WARN Stop flag not found 
+2024-07-09 16:49:30.7017 WARN Stop flag not found 
+2024-07-09 16:49:30.7017 WARN Stop flag not found 
+2024-07-09 16:49:30.7017 WARN Stop flag not found 
+2024-07-09 16:49:35.6335 INFO Message sent to post-queue 
+2024-07-09 16:49:35.6335 INFO Message sent to queue 
+2024-07-09 16:49:35.6335 INFO Message sent to sent-queue 
+2024-07-09 16:49:35.6335 WARN Stop flag not found 
+2024-07-09 16:49:35.6335 INFO Message sent to pre-queue 
+2024-07-09 16:49:40.6433 INFO Message sent to queue 
+2024-07-09 16:49:40.6433 INFO Message sent to pre-queue 
+2024-07-09 16:49:40.6433 INFO Message sent to post-queue 
+2024-07-09 16:49:40.6433 INFO Message sent to sent-queue 
+2024-07-09 16:49:40.6433 WARN Stop flag not found 
+2024-07-09 16:49:45.6345 INFO Message sent to queue 
+2024-07-09 16:49:45.6345 INFO Message sent to sent-queue 
+2024-07-09 16:49:45.6345 INFO Message sent to post-queue 
+2024-07-09 16:49:45.6345 INFO Message sent to pre-queue 
+2024-07-09 16:49:45.6345 WARN Stop flag not found 
+2024-07-09 16:49:50.6292 INFO Message sent to pre-queue 
+2024-07-09 16:49:50.6445 INFO Message sent to queue 
+2024-07-09 16:49:50.6445 INFO Message sent to post-queue 
+2024-07-09 16:49:50.6445 INFO Message sent to sent-queue 
+2024-07-09 16:49:50.6445 WARN Stop flag not found 
+2024-07-09 16:49:55.6398 INFO Message sent to queue 
+2024-07-09 16:49:55.6398 INFO Message sent to pre-queue 
+2024-07-09 16:49:55.6398 INFO Message sent to post-queue 
+2024-07-09 16:49:55.6398 INFO Message sent to sent-queue 
+2024-07-09 16:49:55.6398 WARN Stop flag not found 
+2024-07-09 16:50:00.6406 INFO Message sent to pre-queue 
+2024-07-09 16:50:00.6406 INFO Message sent to queue 
+2024-07-09 16:50:00.6406 INFO Message sent to post-queue 
+2024-07-09 16:50:00.6406 INFO Message sent to sent-queue 
+2024-07-09 16:50:00.6406 WARN Stop flag not found 
+2024-07-09 16:50:05.6375 ERROR Error sending message to pre-queue 
+2024-07-09 16:50:05.6375 ERROR Error sending message to post-queue 
+2024-07-09 16:50:05.6375 ERROR Error sending message to post-queue 
+2024-07-09 16:50:05.6375 ERROR Error sending message to post-queue 
+2024-07-09 16:50:05.6375 INFO Flag file created. 
+2024-07-09 16:50:10.6344 ERROR Error sending message to pre-queue 
+2024-07-09 16:50:10.6344 ERROR Error sending message to post-queue 
+2024-07-09 16:50:10.6344 ERROR Error sending message to post-queue 
+2024-07-09 16:50:10.6344 ERROR Error sending message to post-queue 
+2024-07-09 16:50:15.6405 ERROR Error sending message to pre-queue 
+2024-07-09 16:50:15.6405 ERROR Error sending message to post-queue 
+2024-07-09 16:50:15.6405 ERROR Error sending message to post-queue 
+2024-07-09 16:50:15.6405 ERROR Error sending message to post-queue 
+2024-07-09 16:50:20.6417 ERROR Error sending message to post-queue 
+2024-07-09 16:50:20.6417 ERROR Error sending message to pre-queue 
+2024-07-09 16:50:20.6417 ERROR Error sending message to post-queue 
+2024-07-09 16:50:20.6417 ERROR Error sending message to post-queue 
+2024-07-09 16:50:25.6366 ERROR Error sending message to pre-queue 
+2024-07-09 16:50:25.6366 ERROR Error sending message to post-queue 
+2024-07-09 16:50:25.6366 ERROR Error sending message to post-queue 
+2024-07-09 16:50:25.6366 ERROR Error sending message to post-queue 
+2024-07-09 16:50:30.6421 ERROR Error sending message to post-queue 
+2024-07-09 16:50:30.6421 ERROR Error sending message to post-queue 
+2024-07-09 16:50:30.6421 ERROR Error sending message to pre-queue 
+2024-07-09 16:50:30.6421 ERROR Error sending message to post-queue 
+2024-07-09 16:50:35.6314 ERROR Error sending message to post-queue 
+2024-07-09 16:50:35.6314 ERROR Error sending message to post-queue 
+2024-07-09 16:50:35.6314 ERROR Error sending message to pre-queue 
+2024-07-09 16:50:35.6314 ERROR Error sending message to post-queue 
+2024-07-09 16:50:40.6382 ERROR Error sending message to post-queue 
+2024-07-09 16:50:40.6382 ERROR Error sending message to post-queue 
+2024-07-09 16:50:40.6382 ERROR Error sending message to pre-queue 
+2024-07-09 16:50:40.6382 ERROR Error sending message to post-queue 
+2024-07-09 16:50:45.6434 ERROR Error sending message to post-queue 
+2024-07-09 16:50:45.6434 ERROR Error sending message to pre-queue 
+2024-07-09 16:50:45.6434 ERROR Error sending message to post-queue 
+2024-07-09 16:50:45.6434 ERROR Error sending message to post-queue 
+2024-07-09 16:50:50.6330 ERROR Error sending message to post-queue 
+2024-07-09 16:50:50.6330 ERROR Error sending message to post-queue 
+2024-07-09 16:50:50.6330 ERROR Error sending message to pre-queue 
+2024-07-09 16:50:50.6330 ERROR Error sending message to post-queue 
+2024-07-09 16:50:55.6342 ERROR Error sending message to pre-queue 
+2024-07-09 16:50:55.6342 ERROR Error sending message to post-queue 
+2024-07-09 16:50:55.6342 ERROR Error sending message to post-queue 
+2024-07-09 16:50:55.6342 ERROR Error sending message to post-queue 
+2024-07-09 16:51:00.6314 ERROR Error sending message to pre-queue 
+2024-07-09 16:51:00.6314 ERROR Error sending message to post-queue 
+2024-07-09 16:51:00.6314 ERROR Error sending message to post-queue 
+2024-07-09 16:51:00.6314 ERROR Error sending message to post-queue 
+2024-07-09 16:51:05.6414 ERROR Error sending message to post-queue 
+2024-07-09 16:51:05.6414 ERROR Error sending message to pre-queue 
+2024-07-09 16:51:05.6414 ERROR Error sending message to post-queue 
+2024-07-09 16:51:05.6414 ERROR Error sending message to post-queue 
+2024-07-09 16:51:10.6322 ERROR Error sending message to post-queue 
+2024-07-09 16:51:10.6322 ERROR Error sending message to pre-queue 
+2024-07-09 16:51:10.6322 ERROR Error sending message to post-queue 
+2024-07-09 16:51:10.6322 ERROR Error sending message to post-queue 
+2024-07-09 16:51:15.6374 ERROR Error sending message to pre-queue 
+2024-07-09 16:51:15.6374 ERROR Error sending message to post-queue 
+2024-07-09 16:51:15.6374 ERROR Error sending message to post-queue 
+2024-07-09 16:51:15.6374 ERROR Error sending message to post-queue 
+2024-07-09 16:51:20.6360 ERROR Error sending message to pre-queue 
+2024-07-09 16:51:20.6360 ERROR Error sending message to post-queue 
+2024-07-09 16:51:20.6360 ERROR Error sending message to post-queue 
+2024-07-09 16:51:20.6360 ERROR Error sending message to post-queue 
+2024-07-09 16:51:25.6403 ERROR Error sending message to pre-queue 
+2024-07-09 16:51:25.6403 ERROR Error sending message to post-queue 
+2024-07-09 16:51:25.6403 ERROR Error sending message to post-queue 
+2024-07-09 16:51:25.6403 ERROR Error sending message to post-queue 
+2024-07-09 16:51:30.6379 ERROR Error sending message to pre-queue 
+2024-07-09 16:51:30.6379 ERROR Error sending message to post-queue 
+2024-07-09 16:51:30.6379 ERROR Error sending message to post-queue 
+2024-07-09 16:51:30.6379 ERROR Error sending message to post-queue 
+2024-07-09 16:51:35.6390 ERROR Error sending message to pre-queue 
+2024-07-09 16:51:35.6390 ERROR Error sending message to post-queue 
+2024-07-09 16:51:35.6390 ERROR Error sending message to post-queue 
+2024-07-09 16:51:35.6390 ERROR Error sending message to post-queue 
+2024-07-09 16:51:40.6345 ERROR Error sending message to pre-queue 
+2024-07-09 16:51:40.6345 ERROR Error sending message to post-queue 
+2024-07-09 16:51:40.6345 ERROR Error sending message to post-queue 
+2024-07-09 16:51:40.6345 ERROR Error sending message to post-queue 
+2024-07-09 16:51:45.6334 ERROR Error sending message to pre-queue 
+2024-07-09 16:51:45.6334 ERROR Error sending message to post-queue 
+2024-07-09 16:51:45.6334 ERROR Error sending message to post-queue 
+2024-07-09 16:51:45.6334 ERROR Error sending message to post-queue 
+2024-07-09 16:51:50.6340 INFO Message sent to queue 
+2024-07-09 16:51:50.6340 INFO Message sent to pre-queue 
+2024-07-09 16:51:50.6340 INFO Message sent to sent-queue 
+2024-07-09 16:51:50.6340 INFO Message sent to post-queue 
+2024-07-09 16:51:50.6340 INFO Flag file deleted. 
+2024-07-09 16:51:50.6340 WARN Stop flag not found 
+2024-07-09 16:51:55.6294 INFO Message sent to pre-queue 
+2024-07-09 16:51:55.6451 INFO Message sent to queue 
+2024-07-09 16:51:55.6451 INFO Message sent to sent-queue 
+2024-07-09 16:51:55.6451 INFO Message sent to post-queue 
+2024-07-09 16:51:55.6451 WARN Stop flag not found 
+2024-07-09 16:52:00.6311 INFO Message sent to pre-queue 
+2024-07-09 16:52:00.6311 INFO Message sent to queue 
+2024-07-09 16:52:00.6311 INFO Message sent to sent-queue 
+2024-07-09 16:52:00.6311 INFO Message sent to post-queue 
+2024-07-09 16:52:00.6311 WARN Stop flag not found 
+2024-07-09 16:52:05.6437 INFO Message sent to pre-queue 
+2024-07-09 16:52:05.6437 INFO Message sent to queue 
+2024-07-09 16:52:05.6437 INFO Message sent to sent-queue 
+2024-07-09 16:52:05.6437 INFO Message sent to post-queue 
+2024-07-09 16:52:05.6437 WARN Stop flag not found 
+2024-07-09 16:52:10.6366 INFO Message sent to queue 
+2024-07-09 16:52:10.6366 INFO Message sent to pre-queue 
+2024-07-09 16:52:10.6366 INFO Message sent to post-queue 
+2024-07-09 16:52:10.6366 INFO Message sent to sent-queue 
+2024-07-09 16:52:10.6366 WARN Stop flag not found 
+2024-07-09 16:52:15.6397 INFO Message sent to pre-queue 
+2024-07-09 16:52:15.6397 INFO Message sent to queue 
+2024-07-09 16:52:15.6397 INFO Message sent to post-queue 
+2024-07-09 16:52:15.6397 INFO Message sent to sent-queue 
+2024-07-09 16:52:15.6397 WARN Stop flag not found 
+2024-07-09 16:52:22.2281 INFO Message sent to post-queue 
+2024-07-09 16:52:22.2254 INFO Message sent to pre-queue 
+2024-07-09 16:52:22.2263 INFO Message sent to sent-queue 
+2024-07-09 16:52:22.2254 INFO Message sent to queue 
+2024-07-09 16:52:22.2281 WARN Stop flag not found 
+2024-07-09 16:52:27.1891 INFO Message sent to queue 
+2024-07-09 16:52:27.1891 INFO Message sent to sent-queue 
+2024-07-09 16:52:27.1891 INFO Message sent to pre-queue 
+2024-07-09 16:52:27.1891 INFO Message sent to post-queue 
+2024-07-09 16:52:27.1891 WARN Stop flag not found 
+2024-07-09 16:52:32.1887 INFO Message sent to queue 
+2024-07-09 16:52:32.1887 INFO Message sent to pre-queue 
+2024-07-09 16:52:32.2042 INFO Message sent to post-queue 
+2024-07-09 16:52:32.2042 INFO Message sent to sent-queue 
+2024-07-09 16:52:32.2042 WARN Stop flag not found 
+2024-07-09 16:52:37.2029 ERROR Error sending message to sent-queue 
+2024-07-09 16:52:37.2029 ERROR Error sending message to queue 
+2024-07-09 16:52:37.2029 INFO Flag file created. 
+2024-07-09 16:52:37.2029 ERROR Error sending message to pre-queue 
+2024-07-09 16:52:37.2029 ERROR Error sending message to post-queue 
+2024-07-09 16:52:42.2002 ERROR Error sending message to sent-queue 
+2024-07-09 16:52:42.2002 ERROR Error sending message to queue 
+2024-07-09 16:52:42.2002 ERROR Error sending message to post-queue 
+2024-07-09 16:52:42.2002 ERROR Error sending message to pre-queue 
+2024-07-09 16:52:47.1961 ERROR Error sending message to sent-queue 
+2024-07-09 16:52:47.1961 ERROR Error sending message to post-queue 
+2024-07-09 16:52:47.1961 ERROR Error sending message to pre-queue 
+2024-07-09 16:52:47.1961 ERROR Error sending message to queue 
+2024-07-09 16:52:52.1899 ERROR Error sending message to sent-queue 
+2024-07-09 16:52:52.1899 ERROR Error sending message to post-queue 
+2024-07-09 16:52:52.1899 ERROR Error sending message to queue 
+2024-07-09 16:52:52.1899 ERROR Error sending message to pre-queue 
+2024-07-09 16:52:57.1923 ERROR Error sending message to sent-queue 
+2024-07-09 16:52:57.1923 ERROR Error sending message to pre-queue 
+2024-07-09 16:52:57.1923 ERROR Error sending message to post-queue 
+2024-07-09 16:52:57.1923 ERROR Error sending message to queue 
+2024-07-09 16:53:02.1924 ERROR Error sending message to sent-queue 
+2024-07-09 16:53:02.1924 ERROR Error sending message to pre-queue 
+2024-07-09 16:53:02.1924 ERROR Error sending message to queue 
+2024-07-09 16:53:02.1924 ERROR Error sending message to post-queue 
+2024-07-09 16:53:07.1990 ERROR Error sending message to sent-queue 
+2024-07-09 16:53:07.1990 ERROR Error sending message to queue 
+2024-07-09 16:53:07.1990 ERROR Error sending message to post-queue 
+2024-07-09 16:53:07.1990 ERROR Error sending message to pre-queue 
+2024-07-09 16:53:12.2002 ERROR Error sending message to sent-queue 
+2024-07-09 16:53:12.2002 ERROR Error sending message to queue 
+2024-07-09 16:53:12.2002 ERROR Error sending message to post-queue 
+2024-07-09 16:53:12.2002 ERROR Error sending message to pre-queue 
+2024-07-09 16:53:17.1981 ERROR Error sending message to sent-queue 
+2024-07-09 16:53:17.1981 ERROR Error sending message to post-queue 
+2024-07-09 16:53:17.1981 ERROR Error sending message to queue 
+2024-07-09 16:53:17.1981 ERROR Error sending message to pre-queue 
+2024-07-09 16:53:22.1931 ERROR Error sending message to sent-queue 
+2024-07-09 16:53:22.1931 ERROR Error sending message to queue 
+2024-07-09 16:53:22.1931 ERROR Error sending message to post-queue 
+2024-07-09 16:53:22.1931 ERROR Error sending message to pre-queue 
+2024-07-09 16:53:27.2009 ERROR Error sending message to sent-queue 
+2024-07-09 16:53:27.2009 ERROR Error sending message to post-queue 
+2024-07-09 16:53:27.2009 ERROR Error sending message to queue 
+2024-07-09 16:53:27.2009 ERROR Error sending message to pre-queue 
+2024-07-09 16:53:32.1910 ERROR Error sending message to sent-queue 
+2024-07-09 16:53:32.1910 ERROR Error sending message to post-queue 
+2024-07-09 16:53:32.1910 ERROR Error sending message to queue 
+2024-07-09 16:53:32.1910 ERROR Error sending message to pre-queue 
+2024-07-09 16:53:37.1921 ERROR Error sending message to sent-queue 
+2024-07-09 16:53:37.1921 ERROR Error sending message to queue 
+2024-07-09 16:53:37.1921 ERROR Error sending message to post-queue 
+2024-07-09 16:53:37.1921 ERROR Error sending message to pre-queue 
+2024-07-09 16:53:42.1944 ERROR Error sending message to sent-queue 
+2024-07-09 16:53:42.1944 ERROR Error sending message to queue 
+2024-07-09 16:53:42.1944 ERROR Error sending message to pre-queue 
+2024-07-09 16:53:42.1944 ERROR Error sending message to post-queue 
+2024-07-09 16:53:47.1992 ERROR Error sending message to sent-queue 
+2024-07-09 16:53:47.1992 ERROR Error sending message to pre-queue 
+2024-07-09 16:53:47.1992 ERROR Error sending message to queue 
+2024-07-09 16:53:47.1992 ERROR Error sending message to post-queue 
+2024-07-09 16:53:52.1993 ERROR Error sending message to sent-queue 
+2024-07-09 16:53:52.1993 ERROR Error sending message to queue 
+2024-07-09 16:53:52.1993 ERROR Error sending message to post-queue 
+2024-07-09 16:53:52.1993 ERROR Error sending message to pre-queue 
+2024-07-09 16:53:57.1983 ERROR Error sending message to sent-queue 
+2024-07-09 16:53:57.1983 ERROR Error sending message to queue 
+2024-07-09 16:53:57.1983 ERROR Error sending message to post-queue 
+2024-07-09 16:53:57.1983 ERROR Error sending message to pre-queue 
+2024-07-09 16:54:02.2023 ERROR Error sending message to sent-queue 
+2024-07-09 16:54:02.2023 ERROR Error sending message to queue 
+2024-07-09 16:54:02.2023 ERROR Error sending message to post-queue 
+2024-07-09 16:54:02.2023 ERROR Error sending message to pre-queue 
+2024-07-09 16:54:07.2036 ERROR Error sending message to sent-queue 
+2024-07-09 16:54:07.2036 ERROR Error sending message to queue 
+2024-07-09 16:54:07.2036 ERROR Error sending message to post-queue 
+2024-07-09 16:54:07.2036 ERROR Error sending message to pre-queue 
+2024-07-09 16:54:12.1904 ERROR Error sending message to sent-queue 
+2024-07-09 16:54:12.1904 ERROR Error sending message to post-queue 
+2024-07-09 16:54:12.1904 ERROR Error sending message to queue 
+2024-07-09 16:54:12.1904 ERROR Error sending message to pre-queue 
+2024-07-09 16:54:17.2022 ERROR Error sending message to sent-queue 
+2024-07-09 16:54:17.2022 ERROR Error sending message to post-queue 
+2024-07-09 16:54:17.2022 ERROR Error sending message to queue 
+2024-07-09 16:54:17.2022 ERROR Error sending message to pre-queue 
+2024-07-09 16:54:22.1959 ERROR Error sending message to sent-queue 
+2024-07-09 16:54:22.1959 ERROR Error sending message to queue 
+2024-07-09 16:54:22.1959 ERROR Error sending message to post-queue 
+2024-07-09 16:54:22.1959 ERROR Error sending message to pre-queue 
+2024-07-09 16:54:27.1949 ERROR Error sending message to sent-queue 
+2024-07-09 16:54:27.1949 ERROR Error sending message to queue 
+2024-07-09 16:54:27.1949 ERROR Error sending message to post-queue 
+2024-07-09 16:54:27.1949 ERROR Error sending message to pre-queue 
+2024-07-09 16:54:32.1887 ERROR Error sending message to sent-queue 
+2024-07-09 16:54:32.1887 ERROR Error sending message to pre-queue 
+2024-07-09 16:54:32.1887 ERROR Error sending message to post-queue 
+2024-07-09 16:54:32.1887 ERROR Error sending message to queue 
+2024-07-09 16:54:37.1922 ERROR Error sending message to sent-queue 
+2024-07-09 16:54:37.1922 ERROR Error sending message to pre-queue 
+2024-07-09 16:54:37.1922 ERROR Error sending message to queue 
+2024-07-09 16:54:37.1922 ERROR Error sending message to post-queue 
+2024-07-09 16:54:42.1914 INFO Message sent to sent-queue 
+2024-07-09 16:54:42.1914 INFO Message sent to queue 
+2024-07-09 16:54:42.1914 INFO Message sent to post-queue 
+2024-07-09 16:54:42.1914 INFO Flag file deleted. 
+2024-07-09 16:54:42.1914 INFO Message sent to pre-queue 
+2024-07-09 16:54:42.1914 WARN Stop flag not found 
+2024-07-09 16:54:47.2027 INFO Message sent to sent-queue 
+2024-07-09 16:54:47.2027 INFO Message sent to post-queue 
+2024-07-09 16:54:47.2027 INFO Message sent to queue 
+2024-07-09 16:54:47.2027 INFO Message sent to pre-queue 
+2024-07-09 16:54:47.2027 WARN Stop flag not found 
+2024-07-09 16:54:52.1914 INFO Message sent to sent-queue 
+2024-07-09 16:54:52.1914 INFO Message sent to post-queue 
+2024-07-09 16:54:52.1914 INFO Message sent to queue 
+2024-07-09 16:54:52.1914 INFO Message sent to pre-queue 
+2024-07-09 16:54:52.1914 WARN Stop flag not found 
+2024-07-09 16:54:57.1908 INFO Message sent to sent-queue 
+2024-07-09 16:54:57.1908 INFO Message sent to post-queue 
+2024-07-09 16:54:57.1908 INFO Message sent to queue 
+2024-07-09 16:54:57.1908 INFO Message sent to pre-queue 
+2024-07-09 16:54:57.1908 WARN Stop flag not found 
+2024-07-09 16:55:02.2031 INFO Message sent to sent-queue 
+2024-07-09 16:55:02.2031 INFO Message sent to queue 
+2024-07-09 16:55:02.2031 INFO Message sent to post-queue 
+2024-07-09 16:55:02.2031 INFO Message sent to pre-queue 
+2024-07-09 16:55:02.2031 WARN Stop flag not found 
+2024-07-09 16:55:07.1972 INFO Message sent to sent-queue 
+2024-07-09 16:55:07.1972 INFO Message sent to queue 
+2024-07-09 16:55:07.1972 INFO Message sent to post-queue 
+2024-07-09 16:55:07.1972 INFO Message sent to pre-queue 
+2024-07-09 16:55:07.1972 WARN Stop flag not found 
+2024-07-09 16:55:12.1916 INFO Message sent to sent-queue 
+2024-07-09 16:55:12.1916 INFO Message sent to queue 
+2024-07-09 16:55:12.1916 INFO Message sent to post-queue 
+2024-07-09 16:55:12.1916 INFO Message sent to pre-queue 
+2024-07-09 16:55:12.1916 WARN Stop flag not found 
+2024-07-09 16:55:17.1992 INFO Message sent to sent-queue 
+2024-07-09 16:55:17.1992 INFO Message sent to post-queue 
+2024-07-09 16:55:17.1992 INFO Message sent to queue 
+2024-07-09 16:55:17.1992 INFO Message sent to pre-queue 
+2024-07-09 16:55:17.1992 WARN Stop flag not found 
+2024-07-09 16:55:22.1896 INFO Message sent to sent-queue 
+2024-07-09 16:55:22.1896 INFO Message sent to post-queue 
+2024-07-09 16:55:22.1896 INFO Message sent to queue 
+2024-07-09 16:55:22.1896 INFO Message sent to pre-queue 
+2024-07-09 16:55:22.1896 WARN Stop flag not found 
+2024-07-09 16:55:27.1884 INFO Message sent to sent-queue 
+2024-07-09 16:55:27.1884 INFO Message sent to post-queue 
+2024-07-09 16:55:27.1884 INFO Message sent to queue 
+2024-07-09 16:55:27.1884 INFO Message sent to pre-queue 
+2024-07-09 16:55:27.1884 WARN Stop flag not found 
+2024-07-09 16:55:32.1908 INFO Message sent to sent-queue 
+2024-07-09 16:55:32.1908 INFO Message sent to post-queue 
+2024-07-09 16:55:32.1908 INFO Message sent to queue 
+2024-07-09 16:55:32.1908 INFO Message sent to pre-queue 
+2024-07-09 16:55:32.1908 WARN Stop flag not found 
+2024-07-09 16:55:37.2000 INFO Message sent to sent-queue 
+2024-07-09 16:55:37.2000 INFO Message sent to post-queue 
+2024-07-09 16:55:37.2000 INFO Message sent to queue 
+2024-07-09 16:55:37.2000 INFO Message sent to pre-queue 
+2024-07-09 16:55:37.2000 WARN Stop flag not found 
+2024-07-09 16:55:42.1992 ERROR Error sending message to sent-queue 
+2024-07-09 16:55:42.1992 ERROR Error sending message to queue 
+2024-07-09 16:55:42.1992 ERROR Error sending message to post-queue 
+2024-07-09 16:55:42.1992 ERROR Error sending message to pre-queue 
+2024-07-09 16:55:42.1992 INFO Flag file created. 
+2024-07-09 16:55:47.1909 ERROR Error sending message to sent-queue 
+2024-07-09 16:55:47.1909 ERROR Error sending message to post-queue 
+2024-07-09 16:55:47.1909 ERROR Error sending message to queue 
+2024-07-09 16:55:47.1909 ERROR Error sending message to pre-queue 
+2024-07-09 16:55:52.1879 ERROR Error sending message to queue 
+2024-07-09 16:55:52.1879 ERROR Error sending message to pre-queue 
+2024-07-09 16:55:52.2030 ERROR Error sending message to post-queue 
+2024-07-09 16:55:52.2030 ERROR Error sending message to sent-queue 
+2024-07-09 16:55:57.1906 ERROR Error sending message to sent-queue 
+2024-07-09 16:55:57.1906 ERROR Error sending message to post-queue 
+2024-07-09 16:55:57.1906 ERROR Error sending message to queue 
+2024-07-09 16:55:57.1906 ERROR Error sending message to pre-queue 
+2024-07-09 16:56:02.1895 ERROR Error sending message to sent-queue 
+2024-07-09 16:56:02.1895 ERROR Error sending message to post-queue 
+2024-07-09 16:56:02.1895 ERROR Error sending message to pre-queue 
+2024-07-09 16:56:02.1895 ERROR Error sending message to queue 
+2024-07-09 16:56:07.1909 ERROR Error sending message to sent-queue 
+2024-07-09 16:56:07.1909 ERROR Error sending message to post-queue 
+2024-07-09 16:56:07.1909 ERROR Error sending message to queue 
+2024-07-09 16:56:07.1909 ERROR Error sending message to pre-queue 
+2024-07-09 16:56:12.1972 ERROR Error sending message to sent-queue 
+2024-07-09 16:56:12.1972 ERROR Error sending message to post-queue 
+2024-07-09 16:56:12.1972 ERROR Error sending message to queue 
+2024-07-09 16:56:12.1972 ERROR Error sending message to pre-queue 
+2024-07-09 16:56:17.1990 ERROR Error sending message to sent-queue 
+2024-07-09 16:56:17.1990 ERROR Error sending message to post-queue 
+2024-07-09 16:56:17.1990 ERROR Error sending message to queue 
+2024-07-09 16:56:17.1990 ERROR Error sending message to pre-queue 
+2024-07-09 16:56:22.1973 ERROR Error sending message to sent-queue 
+2024-07-09 16:56:22.1973 ERROR Error sending message to post-queue 
+2024-07-09 16:56:22.1973 ERROR Error sending message to queue 
+2024-07-09 16:56:22.1973 ERROR Error sending message to pre-queue 
+2024-07-09 16:56:27.1958 ERROR Error sending message to sent-queue 
+2024-07-09 16:56:27.1958 ERROR Error sending message to pre-queue 
+2024-07-09 16:56:27.1958 ERROR Error sending message to post-queue 
+2024-07-09 16:56:27.1958 ERROR Error sending message to queue 
+2024-07-09 16:56:32.2004 INFO Message sent to sent-queue 
+2024-07-09 16:56:32.2004 INFO Message sent to queue 
+2024-07-09 16:56:32.2004 INFO Message sent to post-queue 
+2024-07-09 16:56:32.2004 INFO Message sent to pre-queue 
+2024-07-09 16:56:32.2004 INFO Flag file deleted. 
+2024-07-09 16:56:32.2004 WARN Stop flag not found 
+2024-07-09 16:56:37.2025 INFO Message sent to sent-queue 
+2024-07-09 16:56:37.2025 INFO Message sent to queue 
+2024-07-09 16:56:37.2025 INFO Message sent to post-queue 
+2024-07-09 16:56:37.2025 INFO Message sent to pre-queue 
+2024-07-09 16:56:37.2025 WARN Stop flag not found 
+2024-07-09 16:56:42.1893 INFO Message sent to sent-queue 
+2024-07-09 16:56:42.1893 INFO Message sent to queue 
+2024-07-09 16:56:42.1893 INFO Message sent to post-queue 
+2024-07-09 16:56:42.1893 INFO Message sent to pre-queue 
+2024-07-09 16:56:42.1893 WARN Stop flag not found 
+2024-07-09 16:56:47.1964 INFO Message sent to sent-queue 
+2024-07-09 16:56:47.1964 INFO Message sent to post-queue 
+2024-07-09 16:56:47.1964 INFO Message sent to queue 
+2024-07-09 16:56:47.1964 INFO Message sent to pre-queue 
+2024-07-09 16:56:47.1964 WARN Stop flag not found 
+2024-07-09 16:56:52.2005 INFO Message sent to sent-queue 
+2024-07-09 16:56:52.2005 INFO Message sent to post-queue 
+2024-07-09 16:56:52.2005 INFO Message sent to queue 
+2024-07-09 16:56:52.2005 INFO Message sent to pre-queue 
+2024-07-09 16:56:52.2005 WARN Stop flag not found 
+2024-07-09 16:56:57.1959 INFO Message sent to sent-queue 
+2024-07-09 16:56:57.1959 INFO Message sent to post-queue 
+2024-07-09 16:56:57.1959 INFO Message sent to queue 
+2024-07-09 16:56:57.1959 INFO Message sent to pre-queue 
+2024-07-09 16:56:57.1959 WARN Stop flag not found 
+2024-07-09 16:57:02.1915 INFO Message sent to sent-queue 
+2024-07-09 16:57:02.1915 INFO Message sent to post-queue 
+2024-07-09 16:57:02.1915 INFO Message sent to queue 
+2024-07-09 16:57:02.1915 INFO Message sent to pre-queue 
+2024-07-09 16:57:02.1915 WARN Stop flag not found 
+2024-07-09 16:57:07.1898 INFO Message sent to sent-queue 
+2024-07-09 16:57:07.1898 INFO Message sent to queue 
+2024-07-09 16:57:07.1898 INFO Message sent to post-queue 
+2024-07-09 16:57:07.1898 INFO Message sent to pre-queue 
+2024-07-09 16:57:07.1898 WARN Stop flag not found 
+2024-07-09 16:57:12.2016 INFO Message sent to sent-queue 
+2024-07-09 16:57:12.2016 INFO Message sent to post-queue 
+2024-07-09 16:57:12.2016 INFO Message sent to pre-queue 
+2024-07-09 16:57:12.2016 INFO Message sent to queue 
+2024-07-09 16:57:12.2016 WARN Stop flag not found 
+2024-07-09 16:57:17.1984 INFO Message sent to sent-queue 
+2024-07-09 16:57:17.1984 INFO Message sent to queue 
+2024-07-09 16:57:17.1984 INFO Message sent to post-queue 
+2024-07-09 16:57:17.1984 INFO Message sent to pre-queue 
+2024-07-09 16:57:17.1984 WARN Stop flag not found 
+2024-07-09 16:57:22.2034 INFO Message sent to sent-queue 
+2024-07-09 16:57:22.2034 INFO Message sent to post-queue 
+2024-07-09 16:57:22.2034 INFO Message sent to pre-queue 
+2024-07-09 16:57:22.2034 INFO Message sent to queue 
+2024-07-09 16:57:22.2034 WARN Stop flag not found 
+2024-07-09 16:57:27.2005 INFO Message sent to sent-queue 
+2024-07-09 16:57:27.2005 INFO Message sent to queue 
+2024-07-09 16:57:27.2005 INFO Message sent to post-queue 
+2024-07-09 16:57:27.2005 INFO Message sent to pre-queue 
+2024-07-09 16:57:27.2005 WARN Stop flag not found 
+2024-07-09 16:57:32.1946 INFO Message sent to sent-queue 
+2024-07-09 16:57:32.1951 INFO Message sent to post-queue 
+2024-07-09 16:57:32.1951 INFO Message sent to queue 
+2024-07-09 16:57:32.1951 INFO Message sent to pre-queue 
+2024-07-09 16:57:32.1951 WARN Stop flag not found 
+2024-07-09 16:57:37.1898 INFO Message sent to sent-queue 
+2024-07-09 16:57:37.1898 INFO Message sent to queue 
+2024-07-09 16:57:37.1898 INFO Message sent to post-queue 
+2024-07-09 16:57:37.1898 INFO Message sent to pre-queue 
+2024-07-09 16:57:37.1898 WARN Stop flag not found 
+2024-07-09 16:57:42.1924 INFO Message sent to sent-queue 
+2024-07-09 16:57:42.1924 INFO Message sent to queue 
+2024-07-09 16:57:42.1924 INFO Message sent to post-queue 
+2024-07-09 16:57:42.1924 INFO Message sent to pre-queue 
+2024-07-09 16:57:42.1924 WARN Stop flag not found 
+2024-07-09 16:57:47.1894 INFO Message sent to sent-queue 
+2024-07-09 16:57:47.1894 INFO Message sent to queue 
+2024-07-09 16:57:47.1894 INFO Message sent to post-queue 
+2024-07-09 16:57:47.1894 INFO Message sent to pre-queue 
+2024-07-09 16:57:47.1894 WARN Stop flag not found 
+2024-07-09 16:57:52.1897 INFO Message sent to sent-queue 
+2024-07-09 16:57:52.1897 INFO Message sent to queue 
+2024-07-09 16:57:52.1897 INFO Message sent to post-queue 
+2024-07-09 16:57:52.1897 INFO Message sent to pre-queue 
+2024-07-09 16:57:52.1897 WARN Stop flag not found 
+2024-07-09 16:57:57.2019 INFO Message sent to sent-queue 
+2024-07-09 16:57:57.2019 INFO Message sent to queue 
+2024-07-09 16:57:57.2019 INFO Message sent to post-queue 
+2024-07-09 16:57:57.2019 INFO Message sent to pre-queue 
+2024-07-09 16:57:57.2019 WARN Stop flag not found 
+2024-07-09 16:58:02.1962 INFO Message sent to sent-queue 
+2024-07-09 16:58:02.1962 INFO Message sent to post-queue 
+2024-07-09 16:58:02.1962 INFO Message sent to queue 
+2024-07-09 16:58:02.1962 INFO Message sent to pre-queue 
+2024-07-09 16:58:02.1962 WARN Stop flag not found 
+2024-07-09 16:58:07.1978 INFO Message sent to sent-queue 
+2024-07-09 16:58:07.1978 INFO Message sent to post-queue 
+2024-07-09 16:58:07.1978 INFO Message sent to queue 
+2024-07-09 16:58:07.1978 INFO Message sent to pre-queue 
+2024-07-09 16:58:07.1978 WARN Stop flag not found 
+2024-07-09 16:58:12.2017 INFO Message sent to sent-queue 
+2024-07-09 16:58:12.2017 INFO Message sent to post-queue 
+2024-07-09 16:58:12.2017 INFO Message sent to pre-queue 
+2024-07-09 16:58:12.2017 INFO Message sent to queue 
+2024-07-09 16:58:12.2017 WARN Stop flag not found 
+2024-07-09 16:58:17.1911 INFO Message sent to sent-queue 
+2024-07-09 16:58:17.1911 INFO Message sent to queue 
+2024-07-09 16:58:17.1911 INFO Message sent to post-queue 
+2024-07-09 16:58:17.1911 INFO Message sent to pre-queue 
+2024-07-09 16:58:17.1911 WARN Stop flag not found 
+2024-07-09 16:59:17.3061 INFO Message sent to queue 
+2024-07-09 16:59:17.3061 INFO Message sent to pre-queue 
+2024-07-09 16:59:17.3061 INFO Message sent to post-queue 
+2024-07-09 16:59:17.3061 INFO Message sent to sent-queue 
+2024-07-09 16:59:17.3061 INFO Flag file deleted. 
+2024-07-09 16:59:17.3061 WARN Stop flag not found 
+2024-07-09 16:59:22.2721 INFO Message sent to pre-queue 
+2024-07-09 16:59:22.2721 INFO Message sent to post-queue 
+2024-07-09 16:59:22.2721 INFO Message sent to queue 
+2024-07-09 16:59:22.2736 INFO Message sent to sent-queue 
+2024-07-09 16:59:22.2736 WARN Stop flag not found 
+2024-07-09 16:59:27.2828 INFO Message sent to sent-queue 
+2024-07-09 16:59:27.2828 INFO Message sent to post-queue 
+2024-07-09 16:59:27.2828 INFO Message sent to queue 
+2024-07-09 16:59:27.2828 INFO Message sent to pre-queue 
+2024-07-09 16:59:27.2828 WARN Stop flag not found 
+2024-07-09 16:59:32.2799 INFO Message sent to sent-queue 
+2024-07-09 16:59:32.2799 INFO Message sent to queue 
+2024-07-09 16:59:32.2799 INFO Message sent to post-queue 
+2024-07-09 16:59:32.2799 INFO Message sent to pre-queue 
+2024-07-09 16:59:32.2799 WARN Stop flag not found 
+2024-07-09 16:59:37.2744 INFO Message sent to sent-queue 
+2024-07-09 16:59:37.2744 INFO Message sent to queue 
+2024-07-09 16:59:37.2744 INFO Message sent to pre-queue 
+2024-07-09 16:59:37.2744 INFO Message sent to post-queue 
+2024-07-09 16:59:37.2744 WARN Stop flag not found 
+2024-07-09 16:59:42.2871 INFO Message sent to sent-queue 
+2024-07-09 16:59:42.2871 INFO Message sent to queue 
+2024-07-09 16:59:42.2871 INFO Message sent to pre-queue 
+2024-07-09 16:59:42.2871 INFO Message sent to post-queue 
+2024-07-09 16:59:42.2871 WARN Stop flag not found 
+2024-07-09 16:59:47.2791 INFO Message sent to sent-queue 
+2024-07-09 16:59:47.2791 INFO Message sent to queue 
+2024-07-09 16:59:47.2791 INFO Message sent to post-queue 
+2024-07-09 16:59:47.2791 INFO Message sent to pre-queue 
+2024-07-09 16:59:47.2791 WARN Stop flag not found 
+2024-07-09 16:59:52.2717 INFO Message sent to post-queue 
+2024-07-09 16:59:52.2717 INFO Message sent to queue 
+2024-07-09 16:59:52.2717 INFO Message sent to pre-queue 
+2024-07-09 16:59:52.2717 WARN Stop flag not found 
+2024-07-09 16:59:52.2872 INFO Message sent to sent-queue 
+2024-07-09 16:59:57.2735 INFO Message sent to sent-queue 
+2024-07-09 16:59:57.2741 INFO Message sent to post-queue 
+2024-07-09 16:59:57.2741 WARN Stop flag not found 
+2024-07-09 16:59:57.2741 INFO Message sent to pre-queue 
+2024-07-09 16:59:57.2741 INFO Message sent to queue 
+2024-07-09 17:00:02.2743 INFO Message sent to sent-queue 
+2024-07-09 17:00:02.2743 INFO Message sent to queue 
+2024-07-09 17:00:02.2743 INFO Message sent to post-queue 
+2024-07-09 17:00:02.2743 INFO Message sent to pre-queue 
+2024-07-09 17:00:02.2743 WARN Stop flag not found 
+2024-07-09 17:00:07.2779 INFO Message sent to sent-queue 
+2024-07-09 17:00:07.2779 INFO Message sent to queue 
+2024-07-09 17:00:07.2779 INFO Message sent to post-queue 
+2024-07-09 17:00:07.2779 WARN Stop flag not found 
+2024-07-09 17:00:07.2779 INFO Message sent to pre-queue 
+2024-07-09 17:00:12.2756 INFO Message sent to sent-queue 
+2024-07-09 17:00:12.2756 INFO Message sent to queue 
+2024-07-09 17:00:12.2756 INFO Message sent to post-queue 
+2024-07-09 17:00:12.2756 INFO Message sent to pre-queue 
+2024-07-09 17:00:12.2756 WARN Stop flag not found 
+2024-07-09 17:00:17.2835 INFO Message sent to sent-queue 
+2024-07-09 17:00:17.2835 INFO Message sent to queue 
+2024-07-09 17:00:17.2835 INFO Message sent to post-queue 
+2024-07-09 17:00:17.2835 INFO Message sent to pre-queue 
+2024-07-09 17:00:17.2835 WARN Stop flag not found 
+2024-07-09 17:00:22.2739 INFO Message sent to sent-queue 
+2024-07-09 17:00:22.2739 INFO Message sent to post-queue 
+2024-07-09 17:00:22.2739 INFO Message sent to queue 
+2024-07-09 17:00:22.2739 INFO Message sent to pre-queue 
+2024-07-09 17:00:22.2739 WARN Stop flag not found 
+2024-07-09 17:00:27.2712 INFO Message sent to queue 
+2024-07-09 17:00:27.2712 INFO Message sent to post-queue 
+2024-07-09 17:00:27.2712 INFO Message sent to pre-queue 
+2024-07-09 17:00:27.2712 WARN Stop flag not found 
+2024-07-09 17:00:27.2863 INFO Message sent to sent-queue 
+2024-07-09 17:00:32.2741 INFO Message sent to sent-queue 
+2024-07-09 17:00:32.2741 INFO Message sent to queue 
+2024-07-09 17:00:32.2741 INFO Message sent to post-queue 
+2024-07-09 17:00:32.2741 INFO Message sent to pre-queue 
+2024-07-09 17:00:32.2741 WARN Stop flag not found 
+2024-07-09 17:00:37.2804 INFO Message sent to sent-queue 
+2024-07-09 17:00:37.2804 INFO Message sent to post-queue 
+2024-07-09 17:00:37.2804 INFO Message sent to pre-queue 
+2024-07-09 17:00:37.2804 INFO Message sent to queue 
+2024-07-09 17:00:37.2804 WARN Stop flag not found 
+2024-07-09 17:00:42.2855 INFO Message sent to sent-queue 
+2024-07-09 17:00:42.2855 INFO Message sent to post-queue 
+2024-07-09 17:00:42.2855 INFO Message sent to queue 
+2024-07-09 17:00:42.2855 INFO Message sent to pre-queue 
+2024-07-09 17:00:42.2855 WARN Stop flag not found 
+2024-07-09 17:00:47.2772 INFO Message sent to sent-queue 
+2024-07-09 17:00:47.2772 INFO Message sent to queue 
+2024-07-09 17:00:47.2772 INFO Message sent to post-queue 
+2024-07-09 17:00:47.2772 INFO Message sent to pre-queue 
+2024-07-09 17:00:47.2772 WARN Stop flag not found 
+2024-07-09 17:00:52.2861 INFO Message sent to sent-queue 
+2024-07-09 17:00:52.2861 INFO Message sent to queue 
+2024-07-09 17:00:52.2861 INFO Message sent to post-queue 
+2024-07-09 17:00:52.2861 INFO Message sent to pre-queue 
+2024-07-09 17:00:52.2861 WARN Stop flag not found 
+2024-07-09 17:00:57.2736 INFO Message sent to sent-queue 
+2024-07-09 17:00:57.2736 INFO Message sent to queue 
+2024-07-09 17:00:57.2736 INFO Message sent to post-queue 
+2024-07-09 17:00:57.2736 INFO Message sent to pre-queue 
+2024-07-09 17:00:57.2736 WARN Stop flag not found 
+2024-07-09 17:01:02.2790 INFO Message sent to sent-queue 
+2024-07-09 17:01:02.2790 INFO Message sent to post-queue 
+2024-07-09 17:01:02.2790 INFO Message sent to queue 
+2024-07-09 17:01:02.2790 INFO Message sent to pre-queue 
+2024-07-09 17:01:02.2790 WARN Stop flag not found 
+2024-07-09 17:01:07.2784 INFO Message sent to sent-queue 
+2024-07-09 17:01:07.2784 INFO Message sent to post-queue 
+2024-07-09 17:01:07.2784 INFO Message sent to queue 
+2024-07-09 17:01:07.2784 INFO Message sent to pre-queue 
+2024-07-09 17:01:07.2784 WARN Stop flag not found 
+2024-07-09 17:01:12.2809 INFO Message sent to sent-queue 
+2024-07-09 17:01:12.2809 INFO Message sent to queue 
+2024-07-09 17:01:12.2809 INFO Message sent to post-queue 
+2024-07-09 17:01:12.2809 INFO Message sent to pre-queue 
+2024-07-09 17:01:12.2809 WARN Stop flag not found 
+2024-07-09 17:01:17.2741 INFO Message sent to sent-queue 
+2024-07-09 17:01:17.2741 INFO Message sent to queue 
+2024-07-09 17:01:17.2741 INFO Message sent to post-queue 
+2024-07-09 17:01:17.2741 INFO Message sent to pre-queue 
+2024-07-09 17:01:17.2741 WARN Stop flag not found 
+2024-07-09 17:01:22.2808 INFO Message sent to sent-queue 
+2024-07-09 17:01:22.2808 INFO Message sent to queue 
+2024-07-09 17:01:22.2808 INFO Message sent to pre-queue 
+2024-07-09 17:01:22.2808 INFO Message sent to post-queue 
+2024-07-09 17:01:22.2808 WARN Stop flag not found 
+2024-07-09 17:01:27.2807 INFO Message sent to sent-queue 
+2024-07-09 17:01:27.2807 INFO Message sent to queue 
+2024-07-09 17:01:27.2807 INFO Message sent to post-queue 
+2024-07-09 17:01:27.2807 INFO Message sent to pre-queue 
+2024-07-09 17:01:27.2807 WARN Stop flag not found 
+2024-07-09 17:01:32.2841 INFO Message sent to sent-queue 
+2024-07-09 17:01:32.2841 INFO Message sent to queue 
+2024-07-09 17:01:32.2841 INFO Message sent to post-queue 
+2024-07-09 17:01:32.2841 INFO Message sent to pre-queue 
+2024-07-09 17:01:32.2841 WARN Stop flag not found 
+2024-07-09 17:01:37.2858 INFO Message sent to queue 
+2024-07-09 17:01:37.2858 INFO Message sent to post-queue 
+2024-07-09 17:01:37.2858 INFO Message sent to sent-queue 
+2024-07-09 17:01:37.2858 INFO Message sent to pre-queue 
+2024-07-09 17:01:37.2858 WARN Stop flag not found 
+2024-07-09 17:01:42.2836 INFO Message sent to sent-queue 
+2024-07-09 17:01:42.2836 INFO Message sent to queue 
+2024-07-09 17:01:42.2836 INFO Message sent to post-queue 
+2024-07-09 17:01:42.2836 INFO Message sent to pre-queue 
+2024-07-09 17:01:42.2836 WARN Stop flag not found 
+2024-07-09 17:01:47.2804 INFO Message sent to sent-queue 
+2024-07-09 17:01:47.2804 INFO Message sent to queue 
+2024-07-09 17:01:47.2804 INFO Message sent to post-queue 
+2024-07-09 17:01:47.2804 INFO Message sent to pre-queue 
+2024-07-09 17:01:47.2804 WARN Stop flag not found 
+2024-07-09 17:01:52.2746 INFO Message sent to sent-queue 
+2024-07-09 17:01:52.2746 INFO Message sent to queue 
+2024-07-09 17:01:52.2746 INFO Message sent to post-queue 
+2024-07-09 17:01:52.2746 INFO Message sent to pre-queue 
+2024-07-09 17:01:52.2746 WARN Stop flag not found 
+2024-07-09 17:01:57.2731 INFO Message sent to sent-queue 
+2024-07-09 17:01:57.2734 INFO Message sent to post-queue 
+2024-07-09 17:01:57.2734 INFO Message sent to queue 
+2024-07-09 17:01:57.2734 INFO Message sent to pre-queue 
+2024-07-09 17:01:57.2734 WARN Stop flag not found 
+2024-07-09 17:02:02.2758 INFO Message sent to sent-queue 
+2024-07-09 17:02:02.2758 INFO Message sent to queue 
+2024-07-09 17:02:02.2758 INFO Message sent to post-queue 
+2024-07-09 17:02:02.2758 INFO Message sent to pre-queue 
+2024-07-09 17:02:02.2758 WARN Stop flag not found 
+2024-07-09 17:02:07.2814 INFO Message sent to sent-queue 
+2024-07-09 17:02:07.2814 INFO Message sent to queue 
+2024-07-09 17:02:07.2814 INFO Message sent to post-queue 
+2024-07-09 17:02:07.2814 INFO Message sent to pre-queue 
+2024-07-09 17:02:07.2814 WARN Stop flag not found 
+2024-07-09 17:02:12.2769 INFO Message sent to sent-queue 
+2024-07-09 17:02:12.2769 INFO Message sent to queue 
+2024-07-09 17:02:12.2769 INFO Message sent to post-queue 
+2024-07-09 17:02:12.2769 INFO Message sent to pre-queue 
+2024-07-09 17:02:12.2769 WARN Stop flag not found 
+2024-07-09 17:02:17.2723 INFO Message sent to sent-queue 
+2024-07-09 17:02:17.2723 INFO Message sent to queue 
+2024-07-09 17:02:17.2723 INFO Message sent to post-queue 
+2024-07-09 17:02:17.2723 INFO Message sent to pre-queue 
+2024-07-09 17:02:17.2736 WARN Stop flag not found 
+2024-07-09 17:02:22.2818 INFO Message sent to sent-queue 
+2024-07-09 17:02:22.2818 INFO Message sent to post-queue 
+2024-07-09 17:02:22.2818 INFO Message sent to queue 
+2024-07-09 17:02:22.2818 INFO Message sent to pre-queue 
+2024-07-09 17:02:22.2818 WARN Stop flag not found 
+2024-07-09 17:02:27.2716 INFO Message sent to queue 
+2024-07-09 17:02:27.2716 INFO Message sent to post-queue 
+2024-07-09 17:02:27.2716 INFO Message sent to pre-queue 
+2024-07-09 17:02:27.2716 WARN Stop flag not found 
+2024-07-09 17:02:27.2871 INFO Message sent to sent-queue 
+2024-07-09 17:02:32.2714 INFO Message sent to queue 
+2024-07-09 17:02:32.2714 INFO Message sent to post-queue 
+2024-07-09 17:02:32.2714 INFO Message sent to pre-queue 
+2024-07-09 17:02:32.2714 WARN Stop flag not found 
+2024-07-09 17:02:32.2864 INFO Message sent to sent-queue 
+2024-07-09 17:02:37.2758 INFO Message sent to sent-queue 
+2024-07-09 17:02:37.2758 INFO Message sent to queue 
+2024-07-09 17:02:37.2758 INFO Message sent to post-queue 
+2024-07-09 17:02:37.2758 INFO Message sent to pre-queue 
+2024-07-09 17:02:37.2758 WARN Stop flag not found 
+2024-07-09 17:02:42.2754 INFO Message sent to sent-queue 
+2024-07-09 17:02:42.2754 INFO Message sent to queue 
+2024-07-09 17:02:42.2754 INFO Message sent to post-queue 
+2024-07-09 17:02:42.2754 INFO Message sent to pre-queue 
+2024-07-09 17:02:42.2754 WARN Stop flag not found 
+2024-07-09 17:02:47.2728 INFO Message sent to sent-queue 
+2024-07-09 17:02:47.2728 INFO Message sent to queue 
+2024-07-09 17:02:47.2728 INFO Message sent to post-queue 
+2024-07-09 17:02:47.2737 INFO Message sent to pre-queue 
+2024-07-09 17:02:47.2737 WARN Stop flag not found 
+2024-07-09 17:02:52.2779 INFO Message sent to sent-queue 
+2024-07-09 17:02:52.2779 INFO Message sent to queue 
+2024-07-09 17:02:52.2779 INFO Message sent to post-queue 
+2024-07-09 17:02:52.2779 INFO Message sent to pre-queue 
+2024-07-09 17:02:52.2779 WARN Stop flag not found 
+2024-07-09 17:02:57.2741 INFO Message sent to sent-queue 
+2024-07-09 17:02:57.2741 INFO Message sent to queue 
+2024-07-09 17:02:57.2741 INFO Message sent to post-queue 
+2024-07-09 17:02:57.2741 INFO Message sent to pre-queue 
+2024-07-09 17:02:57.2741 WARN Stop flag not found 
+2024-07-09 17:03:02.2806 INFO Message sent to sent-queue 
+2024-07-09 17:03:02.2806 INFO Message sent to queue 
+2024-07-09 17:03:02.2806 INFO Message sent to post-queue 
+2024-07-09 17:03:02.2806 INFO Message sent to pre-queue 
+2024-07-09 17:03:02.2806 WARN Stop flag not found 
+2024-07-09 17:03:07.2808 INFO Message sent to sent-queue 
+2024-07-09 17:03:07.2808 INFO Message sent to post-queue 
+2024-07-09 17:03:07.2808 INFO Message sent to queue 
+2024-07-09 17:03:07.2808 INFO Message sent to pre-queue 
+2024-07-09 17:03:07.2808 WARN Stop flag not found 
+2024-07-09 17:03:12.2833 INFO Message sent to sent-queue 
+2024-07-09 17:03:12.2833 INFO Message sent to queue 
+2024-07-09 17:03:12.2833 INFO Message sent to pre-queue 
+2024-07-09 17:03:12.2833 INFO Message sent to post-queue 
+2024-07-09 17:03:12.2833 WARN Stop flag not found 
+2024-07-09 17:03:17.2857 INFO Message sent to sent-queue 
+2024-07-09 17:03:17.2857 INFO Message sent to queue 
+2024-07-09 17:03:17.2857 INFO Message sent to post-queue 
+2024-07-09 17:03:17.2857 INFO Message sent to pre-queue 
+2024-07-09 17:03:17.2857 WARN Stop flag not found 
+2024-07-09 17:03:22.2860 INFO Message sent to sent-queue 
+2024-07-09 17:03:22.2860 INFO Message sent to queue 
+2024-07-09 17:03:22.2860 INFO Message sent to post-queue 
+2024-07-09 17:03:22.2860 INFO Message sent to pre-queue 
+2024-07-09 17:03:22.2860 WARN Stop flag not found 
+2024-07-09 17:03:27.2792 INFO Message sent to sent-queue 
+2024-07-09 17:03:27.2792 INFO Message sent to queue 
+2024-07-09 17:03:27.2792 INFO Message sent to pre-queue 
+2024-07-09 17:03:27.2792 INFO Message sent to post-queue 
+2024-07-09 17:03:27.2792 WARN Stop flag not found 
+2024-07-09 17:03:32.2741 INFO Message sent to sent-queue 
+2024-07-09 17:03:32.2741 INFO Message sent to queue 
+2024-07-09 17:03:32.2741 INFO Message sent to post-queue 
+2024-07-09 17:03:32.2741 INFO Message sent to pre-queue 
+2024-07-09 17:03:32.2741 WARN Stop flag not found 
+2024-07-09 17:03:37.2805 INFO Message sent to sent-queue 
+2024-07-09 17:03:37.2805 INFO Message sent to queue 
+2024-07-09 17:03:37.2805 INFO Message sent to post-queue 
+2024-07-09 17:03:37.2805 INFO Message sent to pre-queue 
+2024-07-09 17:03:37.2805 WARN Stop flag not found 
+2024-07-09 17:03:42.2817 INFO Message sent to sent-queue 
+2024-07-09 17:03:42.2817 INFO Message sent to post-queue 
+2024-07-09 17:03:42.2817 INFO Message sent to queue 
+2024-07-09 17:03:42.2817 INFO Message sent to pre-queue 
+2024-07-09 17:03:42.2817 WARN Stop flag not found 
+2024-07-09 17:03:47.2798 INFO Message sent to sent-queue 
+2024-07-09 17:03:47.2798 INFO Message sent to queue 
+2024-07-09 17:03:47.2798 INFO Message sent to post-queue 
+2024-07-09 17:03:47.2798 INFO Message sent to pre-queue 
+2024-07-09 17:03:47.2798 WARN Stop flag not found 
+2024-07-09 17:03:52.2826 INFO Message sent to sent-queue 
+2024-07-09 17:03:52.2826 INFO Message sent to queue 
+2024-07-09 17:03:52.2826 INFO Message sent to post-queue 
+2024-07-09 17:03:52.2826 INFO Message sent to pre-queue 
+2024-07-09 17:03:52.2826 WARN Stop flag not found 
+2024-07-09 17:03:57.2724 INFO Message sent to sent-queue 
+2024-07-09 17:03:57.2724 INFO Message sent to post-queue 
+2024-07-09 17:03:57.2724 INFO Message sent to queue 
+2024-07-09 17:03:57.2724 WARN Stop flag not found 
+2024-07-09 17:03:57.2737 INFO Message sent to pre-queue 
+2024-07-09 17:04:02.2832 INFO Message sent to sent-queue 
+2024-07-09 17:04:02.2832 INFO Message sent to queue 
+2024-07-09 17:04:02.2832 INFO Message sent to post-queue 
+2024-07-09 17:04:02.2832 INFO Message sent to pre-queue 
+2024-07-09 17:04:02.2832 WARN Stop flag not found 
+2024-07-09 17:04:07.2714 INFO Message sent to queue 
+2024-07-09 17:04:07.2714 INFO Message sent to post-queue 
+2024-07-09 17:04:07.2714 INFO Message sent to pre-queue 
+2024-07-09 17:04:07.2714 WARN Stop flag not found 
+2024-07-09 17:04:07.2869 INFO Message sent to sent-queue 
+2024-07-09 17:04:12.2813 INFO Message sent to sent-queue 
+2024-07-09 17:04:12.2813 INFO Message sent to post-queue 
+2024-07-09 17:04:12.2813 INFO Message sent to queue 
+2024-07-09 17:04:12.2813 INFO Message sent to pre-queue 
+2024-07-09 17:04:12.2813 WARN Stop flag not found 
+2024-07-09 17:04:17.2794 INFO Message sent to sent-queue 
+2024-07-09 17:04:17.2794 INFO Message sent to queue 
+2024-07-09 17:04:17.2794 INFO Message sent to post-queue 
+2024-07-09 17:04:17.2794 INFO Message sent to pre-queue 
+2024-07-09 17:04:17.2794 WARN Stop flag not found 
+2024-07-09 17:04:22.2787 INFO Message sent to sent-queue 
+2024-07-09 17:04:22.2787 INFO Message sent to queue 
+2024-07-09 17:04:22.2787 INFO Message sent to post-queue 
+2024-07-09 17:04:22.2787 INFO Message sent to pre-queue 
+2024-07-09 17:04:22.2787 WARN Stop flag not found 
+2024-07-09 17:04:27.2790 INFO Message sent to sent-queue 
+2024-07-09 17:04:27.2790 INFO Message sent to queue 
+2024-07-09 17:04:27.2790 INFO Message sent to post-queue 
+2024-07-09 17:04:27.2790 INFO Message sent to pre-queue 
+2024-07-09 17:04:27.2790 WARN Stop flag not found 
+2024-07-09 17:04:32.2852 INFO Message sent to sent-queue 
+2024-07-09 17:04:32.2852 INFO Message sent to queue 
+2024-07-09 17:04:32.2852 INFO Message sent to post-queue 
+2024-07-09 17:04:32.2852 INFO Message sent to pre-queue 
+2024-07-09 17:04:32.2852 WARN Stop flag not found 
+2024-07-09 17:04:37.2750 INFO Message sent to sent-queue 
+2024-07-09 17:04:37.2750 INFO Message sent to post-queue 
+2024-07-09 17:04:37.2750 INFO Message sent to queue 
+2024-07-09 17:04:37.2750 INFO Message sent to pre-queue 
+2024-07-09 17:04:37.2750 WARN Stop flag not found 
+2024-07-09 17:04:42.2744 INFO Message sent to sent-queue 
+2024-07-09 17:04:42.2744 INFO Message sent to post-queue 
+2024-07-09 17:04:42.2744 INFO Message sent to pre-queue 
+2024-07-09 17:04:42.2744 INFO Message sent to queue 
+2024-07-09 17:04:42.2744 WARN Stop flag not found 
+2024-07-09 17:04:47.2802 INFO Message sent to sent-queue 
+2024-07-09 17:04:47.2802 INFO Message sent to queue 
+2024-07-09 17:04:47.2802 INFO Message sent to post-queue 
+2024-07-09 17:04:47.2802 INFO Message sent to pre-queue 
+2024-07-09 17:04:47.2802 WARN Stop flag not found 
+2024-07-09 17:04:52.2786 INFO Message sent to sent-queue 
+2024-07-09 17:04:52.2786 INFO Message sent to post-queue 
+2024-07-09 17:04:52.2786 INFO Message sent to queue 
+2024-07-09 17:04:52.2786 INFO Message sent to pre-queue 
+2024-07-09 17:04:52.2786 WARN Stop flag not found 
+2024-07-09 17:04:57.2748 INFO Message sent to sent-queue 
+2024-07-09 17:04:57.2748 INFO Message sent to queue 
+2024-07-09 17:04:57.2748 INFO Message sent to post-queue 
+2024-07-09 17:04:57.2748 INFO Message sent to pre-queue 
+2024-07-09 17:04:57.2748 WARN Stop flag not found 
+2024-07-09 17:05:02.2742 INFO Message sent to sent-queue 
+2024-07-09 17:05:02.2742 INFO Message sent to queue 
+2024-07-09 17:05:02.2742 INFO Message sent to post-queue 
+2024-07-09 17:05:02.2742 INFO Message sent to pre-queue 
+2024-07-09 17:05:02.2742 WARN Stop flag not found 
+2024-07-09 17:05:07.2861 INFO Message sent to sent-queue 
+2024-07-09 17:05:07.2861 INFO Message sent to queue 
+2024-07-09 17:05:07.2861 INFO Message sent to post-queue 
+2024-07-09 17:05:07.2861 INFO Message sent to pre-queue 
+2024-07-09 17:05:07.2861 WARN Stop flag not found 
+2024-07-09 17:05:12.2821 INFO Message sent to queue 
+2024-07-09 17:05:12.2821 INFO Message sent to sent-queue 
+2024-07-09 17:05:12.2821 INFO Message sent to post-queue 
+2024-07-09 17:05:12.2821 INFO Message sent to pre-queue 
+2024-07-09 17:05:12.2821 WARN Stop flag not found 
+2024-07-09 17:05:17.2771 INFO Message sent to sent-queue 
+2024-07-09 17:05:17.2771 INFO Message sent to queue 
+2024-07-09 17:05:17.2771 INFO Message sent to post-queue 
+2024-07-09 17:05:17.2771 INFO Message sent to pre-queue 
+2024-07-09 17:05:17.2771 WARN Stop flag not found 
+2024-07-09 17:05:22.2847 INFO Message sent to sent-queue 
+2024-07-09 17:05:22.2847 INFO Message sent to post-queue 
+2024-07-09 17:05:22.2847 INFO Message sent to queue 
+2024-07-09 17:05:22.2847 INFO Message sent to pre-queue 
+2024-07-09 17:05:22.2847 WARN Stop flag not found 
+2024-07-09 17:05:27.2711 INFO Message sent to queue 
+2024-07-09 17:05:27.2711 INFO Message sent to post-queue 
+2024-07-09 17:05:27.2711 INFO Message sent to pre-queue 
+2024-07-09 17:05:27.2711 WARN Stop flag not found 
+2024-07-09 17:05:27.2867 INFO Message sent to sent-queue 
+2024-07-09 17:05:32.2741 INFO Message sent to sent-queue 
+2024-07-09 17:05:32.2741 INFO Message sent to post-queue 
+2024-07-09 17:05:32.2741 INFO Message sent to queue 
+2024-07-09 17:05:32.2741 WARN Stop flag not found 
+2024-07-09 17:05:32.2741 INFO Message sent to pre-queue 
+2024-07-09 17:05:37.2791 INFO Message sent to sent-queue 
+2024-07-09 17:05:37.2791 INFO Message sent to queue 
+2024-07-09 17:05:37.2791 INFO Message sent to post-queue 
+2024-07-09 17:05:37.2791 INFO Message sent to pre-queue 
+2024-07-09 17:05:37.2791 WARN Stop flag not found 
+2024-07-09 17:05:42.2719 INFO Message sent to sent-queue 
+2024-07-09 17:05:42.2719 INFO Message sent to queue 
+2024-07-09 17:05:42.2719 INFO Message sent to post-queue 
+2024-07-09 17:05:42.2719 INFO Message sent to pre-queue 
+2024-07-09 17:05:42.2734 WARN Stop flag not found 
+2024-07-09 17:05:47.2733 INFO Message sent to sent-queue 
+2024-07-09 17:05:47.2733 INFO Message sent to queue 
+2024-07-09 17:05:47.2733 INFO Message sent to post-queue 
+2024-07-09 17:05:47.2733 INFO Message sent to pre-queue 
+2024-07-09 17:05:47.2733 WARN Stop flag not found 
+2024-07-09 17:05:52.2787 INFO Message sent to sent-queue 
+2024-07-09 17:05:52.2787 INFO Message sent to queue 
+2024-07-09 17:05:52.2787 INFO Message sent to post-queue 
+2024-07-09 17:05:52.2787 INFO Message sent to pre-queue 
+2024-07-09 17:05:52.2787 WARN Stop flag not found 
+2024-07-09 17:05:57.2736 INFO Message sent to sent-queue 
+2024-07-09 17:05:57.2736 INFO Message sent to queue 
+2024-07-09 17:05:57.2736 INFO Message sent to post-queue 
+2024-07-09 17:05:57.2736 INFO Message sent to pre-queue 
+2024-07-09 17:05:57.2736 WARN Stop flag not found 
+2024-07-09 17:06:02.2709 INFO Message sent to queue 
+2024-07-09 17:06:02.2709 INFO Message sent to post-queue 
+2024-07-09 17:06:02.2709 INFO Message sent to pre-queue 
+2024-07-09 17:06:02.2709 WARN Stop flag not found 
+2024-07-09 17:06:02.2865 INFO Message sent to sent-queue 
+2024-07-09 17:06:07.2805 INFO Message sent to sent-queue 
+2024-07-09 17:06:07.2805 INFO Message sent to post-queue 
+2024-07-09 17:06:07.2805 INFO Message sent to queue 
+2024-07-09 17:06:07.2805 INFO Message sent to pre-queue 
+2024-07-09 17:06:07.2805 WARN Stop flag not found 
+2024-07-09 17:06:12.2832 INFO Message sent to sent-queue 
+2024-07-09 17:06:12.2832 INFO Message sent to post-queue 
+2024-07-09 17:06:12.2832 INFO Message sent to queue 
+2024-07-09 17:06:12.2832 INFO Message sent to pre-queue 
+2024-07-09 17:06:12.2832 WARN Stop flag not found 
+2024-07-09 17:06:17.2816 INFO Message sent to sent-queue 
+2024-07-09 17:06:17.2816 INFO Message sent to queue 
+2024-07-09 17:06:17.2816 INFO Message sent to post-queue 
+2024-07-09 17:06:17.2816 INFO Message sent to pre-queue 
+2024-07-09 17:06:17.2816 WARN Stop flag not found 
+2024-07-09 17:06:22.2797 INFO Message sent to sent-queue 
+2024-07-09 17:06:22.2797 INFO Message sent to queue 
+2024-07-09 17:06:22.2797 INFO Message sent to post-queue 
+2024-07-09 17:06:22.2797 INFO Message sent to pre-queue 
+2024-07-09 17:06:22.2797 WARN Stop flag not found 
+2024-07-09 17:06:27.2853 INFO Message sent to sent-queue 
+2024-07-09 17:06:27.2853 INFO Message sent to queue 
+2024-07-09 17:06:27.2853 INFO Message sent to post-queue 
+2024-07-09 17:06:27.2853 INFO Message sent to pre-queue 
+2024-07-09 17:06:27.2853 WARN Stop flag not found 
+2024-07-09 17:06:32.2721 INFO Message sent to sent-queue 
+2024-07-09 17:06:32.2721 INFO Message sent to queue 
+2024-07-09 17:06:32.2730 INFO Message sent to post-queue 
+2024-07-09 17:06:32.2730 INFO Message sent to pre-queue 
+2024-07-09 17:06:32.2730 WARN Stop flag not found 
+2024-07-09 17:06:37.2820 INFO Message sent to sent-queue 
+2024-07-09 17:06:37.2820 INFO Message sent to queue 
+2024-07-09 17:06:37.2820 INFO Message sent to post-queue 
+2024-07-09 17:06:37.2820 INFO Message sent to pre-queue 
+2024-07-09 17:06:37.2820 WARN Stop flag not found 
+2024-07-09 17:06:42.2792 INFO Message sent to sent-queue 
+2024-07-09 17:06:42.2792 INFO Message sent to queue 
+2024-07-09 17:06:42.2792 INFO Message sent to post-queue 
+2024-07-09 17:06:42.2792 INFO Message sent to pre-queue 
+2024-07-09 17:06:42.2792 WARN Stop flag not found 
+2024-07-09 17:06:47.2754 INFO Message sent to sent-queue 
+2024-07-09 17:06:47.2754 INFO Message sent to post-queue 
+2024-07-09 17:06:47.2754 INFO Message sent to queue 
+2024-07-09 17:06:47.2754 INFO Message sent to pre-queue 
+2024-07-09 17:06:47.2754 WARN Stop flag not found 
+2024-07-09 17:06:52.2764 INFO Message sent to sent-queue 
+2024-07-09 17:06:52.2764 INFO Message sent to queue 
+2024-07-09 17:06:52.2764 INFO Message sent to pre-queue 
+2024-07-09 17:06:52.2764 INFO Message sent to post-queue 
+2024-07-09 17:06:52.2764 WARN Stop flag not found 
+2024-07-09 17:06:57.2771 INFO Message sent to sent-queue 
+2024-07-09 17:06:57.2771 INFO Message sent to queue 
+2024-07-09 17:06:57.2771 INFO Message sent to post-queue 
+2024-07-09 17:06:57.2771 INFO Message sent to pre-queue 
+2024-07-09 17:06:57.2771 WARN Stop flag not found 
+2024-07-09 17:07:02.2731 INFO Message sent to sent-queue 
+2024-07-09 17:07:02.2734 INFO Message sent to queue 
+2024-07-09 17:07:02.2734 INFO Message sent to post-queue 
+2024-07-09 17:07:02.2734 INFO Message sent to pre-queue 
+2024-07-09 17:07:02.2734 WARN Stop flag not found 
+2024-07-09 17:07:07.2764 INFO Message sent to sent-queue 
+2024-07-09 17:07:07.2764 INFO Message sent to queue 
+2024-07-09 17:07:07.2764 INFO Message sent to post-queue 
+2024-07-09 17:07:07.2764 INFO Message sent to pre-queue 
+2024-07-09 17:07:07.2764 WARN Stop flag not found 
+2024-07-09 17:07:12.2799 INFO Message sent to sent-queue 
+2024-07-09 17:07:12.2799 INFO Message sent to post-queue 
+2024-07-09 17:07:12.2799 INFO Message sent to queue 
+2024-07-09 17:07:12.2799 INFO Message sent to pre-queue 
+2024-07-09 17:07:12.2799 WARN Stop flag not found 
+2024-07-09 17:07:17.2756 INFO Message sent to sent-queue 
+2024-07-09 17:07:17.2756 INFO Message sent to queue 
+2024-07-09 17:07:17.2756 INFO Message sent to post-queue 
+2024-07-09 17:07:17.2756 INFO Message sent to pre-queue 
+2024-07-09 17:07:17.2756 WARN Stop flag not found 
+2024-07-09 17:07:22.2776 INFO Message sent to sent-queue 
+2024-07-09 17:07:22.2776 INFO Message sent to queue 
+2024-07-09 17:07:22.2776 INFO Message sent to post-queue 
+2024-07-09 17:07:22.2776 INFO Message sent to pre-queue 
+2024-07-09 17:07:22.2776 WARN Stop flag not found 
+2024-07-09 17:07:27.2748 INFO Message sent to sent-queue 
+2024-07-09 17:07:27.2748 INFO Message sent to post-queue 
+2024-07-09 17:07:27.2748 INFO Message sent to queue 
+2024-07-09 17:07:27.2748 INFO Message sent to pre-queue 
+2024-07-09 17:07:27.2748 WARN Stop flag not found 
+2024-07-09 17:07:32.2863 INFO Message sent to sent-queue 
+2024-07-09 17:07:32.2863 INFO Message sent to queue 
+2024-07-09 17:07:32.2863 INFO Message sent to post-queue 
+2024-07-09 17:07:32.2863 INFO Message sent to pre-queue 
+2024-07-09 17:07:32.2863 WARN Stop flag not found 
+2024-07-09 17:07:37.2797 INFO Message sent to sent-queue 
+2024-07-09 17:07:37.2797 INFO Message sent to queue 
+2024-07-09 17:07:37.2797 INFO Message sent to post-queue 
+2024-07-09 17:07:37.2797 INFO Message sent to pre-queue 
+2024-07-09 17:07:37.2797 WARN Stop flag not found 
+2024-07-09 17:07:42.2829 INFO Message sent to sent-queue 
+2024-07-09 17:07:42.2829 INFO Message sent to queue 
+2024-07-09 17:07:42.2829 INFO Message sent to post-queue 
+2024-07-09 17:07:42.2829 INFO Message sent to pre-queue 
+2024-07-09 17:07:42.2829 WARN Stop flag not found 
+2024-07-09 17:07:47.2849 INFO Message sent to sent-queue 
+2024-07-09 17:07:47.2849 INFO Message sent to queue 
+2024-07-09 17:07:47.2849 INFO Message sent to post-queue 
+2024-07-09 17:07:47.2849 INFO Message sent to pre-queue 
+2024-07-09 17:07:47.2849 WARN Stop flag not found 
+2024-07-09 17:07:52.2762 INFO Message sent to sent-queue 
+2024-07-09 17:07:52.2762 INFO Message sent to queue 
+2024-07-09 17:07:52.2762 INFO Message sent to post-queue 
+2024-07-09 17:07:52.2762 INFO Message sent to pre-queue 
+2024-07-09 17:07:52.2762 WARN Stop flag not found 
+2024-07-09 17:07:57.2761 INFO Message sent to sent-queue 
+2024-07-09 17:07:57.2761 INFO Message sent to queue 
+2024-07-09 17:07:57.2761 INFO Message sent to post-queue 
+2024-07-09 17:07:57.2761 INFO Message sent to pre-queue 
+2024-07-09 17:07:57.2761 WARN Stop flag not found 
+2024-07-09 17:08:02.2838 INFO Message sent to sent-queue 
+2024-07-09 17:08:02.2838 INFO Message sent to queue 
+2024-07-09 17:08:02.2838 INFO Message sent to post-queue 
+2024-07-09 17:08:02.2838 INFO Message sent to pre-queue 
+2024-07-09 17:08:02.2838 WARN Stop flag not found 
+2024-07-09 17:08:07.2735 INFO Message sent to sent-queue 
+2024-07-09 17:08:07.2735 INFO Message sent to queue 
+2024-07-09 17:08:07.2735 INFO Message sent to post-queue 
+2024-07-09 17:08:07.2735 INFO Message sent to pre-queue 
+2024-07-09 17:08:07.2735 WARN Stop flag not found 
+2024-07-09 17:08:12.2817 INFO Message sent to sent-queue 
+2024-07-09 17:08:12.2817 INFO Message sent to post-queue 
+2024-07-09 17:08:12.2817 INFO Message sent to queue 
+2024-07-09 17:08:12.2817 INFO Message sent to pre-queue 
+2024-07-09 17:08:12.2817 WARN Stop flag not found 
+2024-07-09 17:08:17.2844 INFO Message sent to sent-queue 
+2024-07-09 17:08:17.2844 INFO Message sent to queue 
+2024-07-09 17:08:17.2844 INFO Message sent to post-queue 
+2024-07-09 17:08:17.2844 INFO Message sent to pre-queue 
+2024-07-09 17:08:17.2844 WARN Stop flag not found 
+2024-07-09 17:08:22.2716 INFO Message sent to sent-queue 
+2024-07-09 17:08:22.2716 INFO Message sent to queue 
+2024-07-09 17:08:22.2716 INFO Message sent to post-queue 
+2024-07-09 17:08:22.2716 INFO Message sent to pre-queue 
+2024-07-09 17:08:22.2716 WARN Stop flag not found 
+2024-07-09 17:08:27.2748 INFO Message sent to sent-queue 
+2024-07-09 17:08:27.2748 INFO Message sent to queue 
+2024-07-09 17:08:27.2748 INFO Message sent to post-queue 
+2024-07-09 17:08:27.2748 INFO Message sent to pre-queue 
+2024-07-09 17:08:27.2748 WARN Stop flag not found 
+2024-07-09 17:08:32.2797 INFO Message sent to sent-queue 
+2024-07-09 17:08:32.2797 INFO Message sent to queue 
+2024-07-09 17:08:32.2797 INFO Message sent to post-queue 
+2024-07-09 17:08:32.2797 INFO Message sent to pre-queue 
+2024-07-09 17:08:32.2797 WARN Stop flag not found 
+2024-07-09 17:08:37.2748 INFO Message sent to sent-queue 
+2024-07-09 17:08:37.2748 INFO Message sent to post-queue 
+2024-07-09 17:08:37.2748 INFO Message sent to queue 
+2024-07-09 17:08:37.2748 INFO Message sent to pre-queue 
+2024-07-09 17:08:37.2748 WARN Stop flag not found 
+2024-07-09 17:08:42.2854 INFO Message sent to sent-queue 
+2024-07-09 17:08:42.2854 INFO Message sent to queue 
+2024-07-09 17:08:42.2854 INFO Message sent to post-queue 
+2024-07-09 17:08:42.2854 INFO Message sent to pre-queue 
+2024-07-09 17:08:42.2854 WARN Stop flag not found 
+2024-07-09 17:08:47.2827 INFO Message sent to sent-queue 
+2024-07-09 17:08:47.2827 INFO Message sent to queue 
+2024-07-09 17:08:47.2827 INFO Message sent to post-queue 
+2024-07-09 17:08:47.2827 INFO Message sent to pre-queue 
+2024-07-09 17:08:47.2827 WARN Stop flag not found 
+2024-07-09 17:08:52.2793 INFO Message sent to sent-queue 
+2024-07-09 17:08:52.2793 INFO Message sent to queue 
+2024-07-09 17:08:52.2793 INFO Message sent to post-queue 
+2024-07-09 17:08:52.2793 INFO Message sent to pre-queue 
+2024-07-09 17:08:52.2793 WARN Stop flag not found 
+2024-07-09 17:08:57.2769 INFO Message sent to sent-queue 
+2024-07-09 17:08:57.2769 INFO Message sent to post-queue 
+2024-07-09 17:08:57.2769 INFO Message sent to queue 
+2024-07-09 17:08:57.2769 INFO Message sent to pre-queue 
+2024-07-09 17:08:57.2769 WARN Stop flag not found 
+2024-07-09 17:09:02.2757 INFO Message sent to sent-queue 
+2024-07-09 17:09:02.2757 INFO Message sent to queue 
+2024-07-09 17:09:02.2757 INFO Message sent to post-queue 
+2024-07-09 17:09:02.2757 INFO Message sent to pre-queue 
+2024-07-09 17:09:02.2757 WARN Stop flag not found 
+2024-07-09 17:09:07.2737 INFO Message sent to sent-queue 
+2024-07-09 17:09:07.2737 INFO Message sent to queue 
+2024-07-09 17:09:07.2737 INFO Message sent to post-queue 
+2024-07-09 17:09:07.2737 INFO Message sent to pre-queue 
+2024-07-09 17:09:07.2737 WARN Stop flag not found 
+2024-07-09 17:09:12.2875 INFO Message sent to sent-queue 
+2024-07-09 17:09:12.2875 INFO Message sent to queue 
+2024-07-09 17:09:12.2875 INFO Message sent to post-queue 
+2024-07-09 17:09:12.2875 INFO Message sent to pre-queue 
+2024-07-09 17:09:12.2886 WARN Stop flag not found 
+2024-07-09 17:09:17.2723 INFO Message sent to sent-queue 
+2024-07-09 17:09:17.2723 INFO Message sent to post-queue 
+2024-07-09 17:09:17.2723 INFO Message sent to queue 
+2024-07-09 17:09:17.2731 INFO Message sent to pre-queue 
+2024-07-09 17:09:17.2731 WARN Stop flag not found 
+2024-07-09 17:09:22.2764 INFO Message sent to sent-queue 
+2024-07-09 17:09:22.2764 INFO Message sent to queue 
+2024-07-09 17:09:22.2764 INFO Message sent to post-queue 
+2024-07-09 17:09:22.2764 INFO Message sent to pre-queue 
+2024-07-09 17:09:22.2764 WARN Stop flag not found 
+2024-07-09 17:09:27.2737 INFO Message sent to sent-queue 
+2024-07-09 17:09:27.2737 INFO Message sent to queue 
+2024-07-09 17:09:27.2737 INFO Message sent to post-queue 
+2024-07-09 17:09:27.2737 INFO Message sent to pre-queue 
+2024-07-09 17:09:27.2737 WARN Stop flag not found 
+2024-07-09 17:09:32.2817 INFO Message sent to sent-queue 
+2024-07-09 17:09:32.2817 INFO Message sent to queue 
+2024-07-09 17:09:32.2817 INFO Message sent to post-queue 
+2024-07-09 17:09:32.2817 INFO Message sent to pre-queue 
+2024-07-09 17:09:32.2817 WARN Stop flag not found 
+2024-07-09 17:09:37.2740 INFO Message sent to sent-queue 
+2024-07-09 17:09:37.2740 INFO Message sent to post-queue 
+2024-07-09 17:09:37.2740 INFO Message sent to queue 
+2024-07-09 17:09:37.2740 INFO Message sent to pre-queue 
+2024-07-09 17:09:37.2740 WARN Stop flag not found 
+2024-07-09 17:09:42.2790 INFO Message sent to sent-queue 
+2024-07-09 17:09:42.2790 INFO Message sent to post-queue 
+2024-07-09 17:09:42.2790 INFO Message sent to queue 
+2024-07-09 17:09:42.2790 INFO Message sent to pre-queue 
+2024-07-09 17:09:42.2790 WARN Stop flag not found 
+2024-07-09 17:09:47.2841 INFO Message sent to sent-queue 
+2024-07-09 17:09:47.2841 INFO Message sent to queue 
+2024-07-09 17:09:47.2841 INFO Message sent to post-queue 
+2024-07-09 17:09:47.2841 INFO Message sent to pre-queue 
+2024-07-09 17:09:47.2841 WARN Stop flag not found 
+2024-07-09 17:09:52.2778 INFO Message sent to sent-queue 
+2024-07-09 17:09:52.2778 INFO Message sent to queue 
+2024-07-09 17:09:52.2778 INFO Message sent to post-queue 
+2024-07-09 17:09:52.2778 INFO Message sent to pre-queue 
+2024-07-09 17:09:52.2778 WARN Stop flag not found 
+2024-07-09 17:09:57.2767 INFO Message sent to sent-queue 
+2024-07-09 17:09:57.2767 INFO Message sent to queue 
+2024-07-09 17:09:57.2767 INFO Message sent to post-queue 
+2024-07-09 17:09:57.2767 INFO Message sent to pre-queue 
+2024-07-09 17:09:57.2767 WARN Stop flag not found 
+2024-07-09 17:10:02.2775 INFO Message sent to sent-queue 
+2024-07-09 17:10:02.2775 INFO Message sent to queue 
+2024-07-09 17:10:02.2775 INFO Message sent to post-queue 
+2024-07-09 17:10:02.2775 INFO Message sent to pre-queue 
+2024-07-09 17:10:02.2775 WARN Stop flag not found 
+2024-07-09 17:10:07.2752 INFO Message sent to sent-queue 
+2024-07-09 17:10:07.2752 INFO Message sent to post-queue 
+2024-07-09 17:10:07.2752 INFO Message sent to queue 
+2024-07-09 17:10:07.2752 INFO Message sent to pre-queue 
+2024-07-09 17:10:07.2752 WARN Stop flag not found 
+2024-07-09 17:10:12.2813 INFO Message sent to sent-queue 
+2024-07-09 17:10:12.2813 INFO Message sent to queue 
+2024-07-09 17:10:12.2813 INFO Message sent to post-queue 
+2024-07-09 17:10:12.2813 INFO Message sent to pre-queue 
+2024-07-09 17:10:12.2813 WARN Stop flag not found 
+2024-07-09 17:10:17.2833 INFO Message sent to sent-queue 
+2024-07-09 17:10:17.2833 INFO Message sent to queue 
+2024-07-09 17:10:17.2833 INFO Message sent to post-queue 
+2024-07-09 17:10:17.2833 INFO Message sent to pre-queue 
+2024-07-09 17:10:17.2833 WARN Stop flag not found 
+2024-07-09 17:10:22.2855 INFO Message sent to sent-queue 
+2024-07-09 17:10:22.2855 INFO Message sent to post-queue 
+2024-07-09 17:10:22.2855 INFO Message sent to queue 
+2024-07-09 17:10:22.2855 INFO Message sent to pre-queue 
+2024-07-09 17:10:22.2855 WARN Stop flag not found 
+2024-07-09 17:10:27.2829 INFO Message sent to sent-queue 
+2024-07-09 17:10:27.2829 INFO Message sent to queue 
+2024-07-09 17:10:27.2829 INFO Message sent to post-queue 
+2024-07-09 17:10:27.2829 INFO Message sent to pre-queue 
+2024-07-09 17:10:27.2829 WARN Stop flag not found 
+2024-07-09 17:10:32.2755 INFO Message sent to sent-queue 
+2024-07-09 17:10:32.2755 INFO Message sent to queue 
+2024-07-09 17:10:32.2755 INFO Message sent to pre-queue 
+2024-07-09 17:10:32.2755 INFO Message sent to post-queue 
+2024-07-09 17:10:32.2755 WARN Stop flag not found 
+2024-07-09 17:10:37.2779 INFO Message sent to sent-queue 
+2024-07-09 17:10:37.2779 INFO Message sent to post-queue 
+2024-07-09 17:10:37.2779 INFO Message sent to queue 
+2024-07-09 17:10:37.2779 INFO Message sent to pre-queue 
+2024-07-09 17:10:37.2779 WARN Stop flag not found 
+2024-07-09 17:10:42.2802 INFO Message sent to sent-queue 
+2024-07-09 17:10:42.2802 INFO Message sent to queue 
+2024-07-09 17:10:42.2802 INFO Message sent to post-queue 
+2024-07-09 17:10:42.2802 INFO Message sent to pre-queue 
+2024-07-09 17:10:42.2802 WARN Stop flag not found 
+2024-07-09 17:10:47.2744 INFO Message sent to sent-queue 
+2024-07-09 17:10:47.2744 INFO Message sent to post-queue 
+2024-07-09 17:10:47.2744 INFO Message sent to queue 
+2024-07-09 17:10:47.2744 INFO Message sent to pre-queue 
+2024-07-09 17:10:47.2744 WARN Stop flag not found 
+2024-07-09 17:10:52.2780 INFO Message sent to sent-queue 
+2024-07-09 17:10:52.2780 INFO Message sent to queue 
+2024-07-09 17:10:52.2780 INFO Message sent to post-queue 
+2024-07-09 17:10:52.2780 INFO Message sent to pre-queue 
+2024-07-09 17:10:52.2780 WARN Stop flag not found 
+2024-07-09 17:10:57.2787 INFO Message sent to sent-queue 
+2024-07-09 17:10:57.2787 INFO Message sent to queue 
+2024-07-09 17:10:57.2787 INFO Message sent to post-queue 
+2024-07-09 17:10:57.2787 INFO Message sent to pre-queue 
+2024-07-09 17:10:57.2787 WARN Stop flag not found 
+2024-07-09 17:11:02.2734 INFO Message sent to sent-queue 
+2024-07-09 17:11:02.2734 INFO Message sent to queue 
+2024-07-09 17:11:02.2734 INFO Message sent to post-queue 
+2024-07-09 17:11:02.2734 INFO Message sent to pre-queue 
+2024-07-09 17:11:02.2734 WARN Stop flag not found 
+2024-07-09 17:11:07.2755 INFO Message sent to sent-queue 
+2024-07-09 17:11:07.2755 INFO Message sent to post-queue 
+2024-07-09 17:11:07.2755 INFO Message sent to queue 
+2024-07-09 17:11:07.2755 INFO Message sent to pre-queue 
+2024-07-09 17:11:07.2755 WARN Stop flag not found 
+2024-07-09 17:11:12.2790 INFO Message sent to sent-queue 
+2024-07-09 17:11:12.2790 INFO Message sent to post-queue 
+2024-07-09 17:11:12.2790 INFO Message sent to queue 
+2024-07-09 17:11:12.2790 INFO Message sent to pre-queue 
+2024-07-09 17:11:12.2790 WARN Stop flag not found 
+2024-07-09 17:11:17.2831 INFO Message sent to sent-queue 
+2024-07-09 17:11:17.2831 INFO Message sent to post-queue 
+2024-07-09 17:11:17.2831 INFO Message sent to queue 
+2024-07-09 17:11:17.2831 INFO Message sent to pre-queue 
+2024-07-09 17:11:17.2831 WARN Stop flag not found 
+2024-07-09 17:26:19.0554 INFO Message sent to post-queue 
+2024-07-09 17:26:19.0554 INFO Message sent to sent-queue 
+2024-07-09 17:26:19.0554 INFO Message sent to queue 
+2024-07-09 17:26:19.0554 INFO Message sent to pre-queue 
+2024-07-09 17:26:19.0554 INFO Flag file deleted. 
+2024-07-09 17:26:24.0244 INFO Message sent to queue 
+2024-07-09 17:26:24.0244 INFO Message sent to pre-queue 
+2024-07-09 17:26:24.0244 INFO Message sent to sent-queue 
+2024-07-09 17:26:24.0244 INFO Message sent to post-queue 
+2024-07-09 17:26:29.0158 INFO Message sent to pre-queue 
+2024-07-09 17:26:29.0314 INFO Message sent to queue 
+2024-07-09 17:26:29.0314 INFO Message sent to post-queue 
+2024-07-09 17:26:29.0314 INFO Message sent to sent-queue 
+2024-07-09 17:26:34.0162 INFO Message sent to queue 
+2024-07-09 17:26:34.0162 INFO Message sent to pre-queue 
+2024-07-09 17:26:34.0162 INFO Message sent to post-queue 
+2024-07-09 17:26:34.0162 INFO Message sent to sent-queue 
+2024-07-09 17:26:39.0194 INFO Message sent to sent-queue 
+2024-07-09 17:26:39.0194 INFO Message sent to queue 
+2024-07-09 17:26:39.0194 INFO Message sent to post-queue 
+2024-07-09 17:26:39.0194 INFO Message sent to pre-queue 
+2024-07-09 17:26:44.0241 INFO Message sent to sent-queue 
+2024-07-09 17:26:44.0241 INFO Message sent to queue 
+2024-07-09 17:26:44.0241 INFO Message sent to post-queue 
+2024-07-09 17:26:44.0241 INFO Message sent to pre-queue 
+2024-07-09 17:26:49.0189 INFO Message sent to sent-queue 
+2024-07-09 17:26:49.0189 INFO Message sent to queue 
+2024-07-09 17:26:49.0189 INFO Message sent to post-queue 
+2024-07-09 17:26:49.0189 INFO Message sent to pre-queue 
+2024-07-09 17:26:54.0191 INFO Message sent to sent-queue 
+2024-07-09 17:26:54.0191 INFO Message sent to post-queue 
+2024-07-09 17:26:54.0191 INFO Message sent to pre-queue 
+2024-07-09 17:26:54.0191 INFO Message sent to queue 
+2024-07-09 17:26:59.0297 INFO Message sent to sent-queue 
+2024-07-09 17:26:59.0297 INFO Message sent to post-queue 
+2024-07-09 17:26:59.0297 INFO Message sent to pre-queue 
+2024-07-09 17:26:59.0297 INFO Message sent to queue 
+2024-07-09 17:27:04.0149 INFO Message sent to pre-queue 
+2024-07-09 17:27:04.0294 INFO Message sent to post-queue 
+2024-07-09 17:27:04.0294 INFO Message sent to queue 
+2024-07-09 17:27:04.0294 INFO Message sent to sent-queue 
+2024-07-09 17:27:09.0292 INFO Message sent to sent-queue 
+2024-07-09 17:27:09.0292 INFO Message sent to post-queue 
+2024-07-09 17:27:09.0292 INFO Message sent to queue 
+2024-07-09 17:27:09.0292 INFO Message sent to pre-queue 
+2024-07-09 17:27:14.0169 INFO Message sent to sent-queue 
+2024-07-09 17:27:14.0169 INFO Message sent to queue 
+2024-07-09 17:27:14.0169 INFO Message sent to post-queue 
+2024-07-09 17:27:14.0169 INFO Message sent to pre-queue 
+2024-07-09 17:27:19.0235 INFO Message sent to sent-queue 
+2024-07-09 17:27:19.0235 INFO Message sent to queue 
+2024-07-09 17:27:19.0235 INFO Message sent to post-queue 
+2024-07-09 17:27:19.0235 INFO Message sent to pre-queue 
+2024-07-09 17:27:24.0258 INFO Message sent to sent-queue 
+2024-07-09 17:27:24.0258 INFO Message sent to post-queue 
+2024-07-09 17:27:24.0258 INFO Message sent to queue 
+2024-07-09 17:27:24.0258 INFO Message sent to pre-queue 
+2024-07-09 17:27:29.0238 INFO Message sent to sent-queue 
+2024-07-09 17:27:29.0238 INFO Message sent to queue 
+2024-07-09 17:27:29.0238 INFO Message sent to post-queue 
+2024-07-09 17:27:29.0238 INFO Message sent to pre-queue 
+2024-07-09 17:27:34.0308 INFO Message sent to sent-queue 
+2024-07-09 17:27:34.0308 INFO Message sent to queue 
+2024-07-09 17:27:34.0308 INFO Message sent to post-queue 
+2024-07-09 17:27:34.0308 INFO Message sent to pre-queue 
+2024-07-09 17:27:39.0184 INFO Message sent to sent-queue 
+2024-07-09 17:27:39.0184 INFO Message sent to queue 
+2024-07-09 17:27:39.0184 INFO Message sent to post-queue 
+2024-07-09 17:27:39.0184 INFO Message sent to pre-queue 
+2024-07-09 17:27:44.0261 INFO Message sent to sent-queue 
+2024-07-09 17:27:44.0261 INFO Message sent to queue 
+2024-07-09 17:27:44.0261 INFO Message sent to post-queue 
+2024-07-09 17:27:44.0261 INFO Message sent to pre-queue 
+2024-07-09 17:27:49.0283 INFO Message sent to sent-queue 
+2024-07-09 17:27:49.0283 INFO Message sent to post-queue 
+2024-07-09 17:27:49.0283 INFO Message sent to queue 
+2024-07-09 17:27:49.0283 INFO Message sent to pre-queue 
+2024-07-09 17:27:54.0169 INFO Message sent to sent-queue 
+2024-07-09 17:27:54.0169 INFO Message sent to queue 
+2024-07-09 17:27:54.0169 INFO Message sent to post-queue 
+2024-07-09 17:27:54.0169 INFO Message sent to pre-queue 
+2024-07-09 17:27:59.0261 ERROR Error sending message to sent-queue 
+2024-07-09 17:27:59.0261 ERROR Error sending message to queue 
+2024-07-09 17:27:59.0261 ERROR Error sending message to post-queue 
+2024-07-09 17:27:59.0261 ERROR Error sending message to pre-queue 
+2024-07-09 17:27:59.0261 INFO Flag file created. 
+2024-07-09 17:28:04.0283 ERROR Error sending message to sent-queue 
+2024-07-09 17:28:04.0283 ERROR Error sending message to queue 
+2024-07-09 17:28:04.0283 ERROR Error sending message to post-queue 
+2024-07-09 17:28:04.0283 ERROR Error sending message to pre-queue 
+2024-07-09 17:28:09.0193 ERROR Error sending message to sent-queue 
+2024-07-09 17:28:09.0193 ERROR Error sending message to post-queue 
+2024-07-09 17:28:09.0193 ERROR Error sending message to queue 
+2024-07-09 17:28:09.0193 ERROR Error sending message to pre-queue 
+2024-07-09 17:28:14.0250 ERROR Error sending message to sent-queue 
+2024-07-09 17:28:14.0250 ERROR Error sending message to post-queue 
+2024-07-09 17:28:14.0250 ERROR Error sending message to queue 
+2024-07-09 17:28:14.0250 ERROR Error sending message to pre-queue 
+2024-07-09 17:28:19.0216 INFO Message sent to sent-queue 
+2024-07-09 17:28:19.0216 INFO Message sent to post-queue 
+2024-07-09 17:28:19.0216 INFO Message sent to queue 
+2024-07-09 17:28:19.0216 INFO Message sent to pre-queue 
+2024-07-09 17:28:19.0230 INFO Flag file deleted. 
+2024-07-09 17:28:24.0294 INFO Message sent to sent-queue 
+2024-07-09 17:28:24.0294 INFO Message sent to post-queue 
+2024-07-09 17:28:24.0294 INFO Message sent to queue 
+2024-07-09 17:28:24.0294 INFO Message sent to pre-queue 
+2024-07-09 17:28:29.0217 INFO Message sent to sent-queue 
+2024-07-09 17:28:29.0217 INFO Message sent to post-queue 
+2024-07-09 17:28:29.0217 INFO Message sent to queue 
+2024-07-09 17:28:29.0217 INFO Message sent to pre-queue 
+2024-07-09 17:28:34.0208 INFO Message sent to sent-queue 
+2024-07-09 17:28:34.0208 INFO Message sent to queue 
+2024-07-09 17:28:34.0208 INFO Message sent to post-queue 
+2024-07-09 17:28:34.0208 INFO Message sent to pre-queue 
+2024-07-09 17:28:39.0225 INFO Message sent to sent-queue 
+2024-07-09 17:28:39.0228 INFO Message sent to queue 
+2024-07-09 17:28:39.0228 INFO Message sent to post-queue 
+2024-07-09 17:28:39.0228 INFO Message sent to pre-queue 
+2024-07-09 17:28:44.0267 INFO Message sent to sent-queue 
+2024-07-09 17:28:44.0267 INFO Message sent to queue 
+2024-07-09 17:28:44.0267 INFO Message sent to pre-queue 
+2024-07-09 17:28:44.0267 INFO Message sent to post-queue 
+2024-07-09 17:28:49.0188 INFO Message sent to sent-queue 
+2024-07-09 17:28:49.0188 INFO Message sent to post-queue 
+2024-07-09 17:28:49.0188 INFO Message sent to queue 
+2024-07-09 17:28:49.0188 INFO Message sent to pre-queue 
+2024-07-09 17:28:54.0154 INFO Message sent to pre-queue 
+2024-07-09 17:28:54.0310 INFO Message sent to post-queue 
+2024-07-09 17:28:54.0310 INFO Message sent to queue 
+2024-07-09 17:28:54.0310 INFO Message sent to sent-queue 
+2024-07-09 17:28:59.0198 INFO Message sent to sent-queue 
+2024-07-09 17:28:59.0198 INFO Message sent to post-queue 
+2024-07-09 17:28:59.0198 INFO Message sent to queue 
+2024-07-09 17:28:59.0198 INFO Message sent to pre-queue 
+2024-07-09 17:29:04.0192 INFO Message sent to sent-queue 
+2024-07-09 17:29:04.0192 INFO Message sent to queue 
+2024-07-09 17:29:04.0192 INFO Message sent to post-queue 
+2024-07-09 17:29:04.0192 INFO Message sent to pre-queue 
+2024-07-09 17:29:09.0212 INFO Message sent to sent-queue 
+2024-07-09 17:29:09.0212 INFO Message sent to post-queue 
+2024-07-09 17:29:09.0212 INFO Message sent to pre-queue 
+2024-07-09 17:29:09.0212 INFO Message sent to queue 
+2024-07-09 17:29:14.0217 INFO Message sent to sent-queue 
+2024-07-09 17:29:14.0217 INFO Message sent to post-queue 
+2024-07-09 17:29:14.0217 INFO Message sent to queue 
+2024-07-09 17:29:14.0217 INFO Message sent to pre-queue 
+2024-07-09 17:29:19.0280 INFO Message sent to sent-queue 
+2024-07-09 17:29:19.0280 INFO Message sent to post-queue 
+2024-07-09 17:29:19.0280 INFO Message sent to queue 
+2024-07-09 17:29:19.0280 INFO Message sent to pre-queue 
+2024-07-09 17:29:24.0219 INFO Message sent to sent-queue 
+2024-07-09 17:29:24.0219 INFO Message sent to post-queue 
+2024-07-09 17:29:24.0219 INFO Message sent to queue 
+2024-07-09 17:29:24.0219 INFO Message sent to pre-queue 
+2024-07-09 17:29:29.0170 INFO Message sent to sent-queue 
+2024-07-09 17:29:29.0170 INFO Message sent to queue 
+2024-07-09 17:29:29.0170 INFO Message sent to post-queue 
+2024-07-09 17:29:29.0170 INFO Message sent to pre-queue 
+2024-07-09 17:29:34.0160 INFO Message sent to sent-queue 
+2024-07-09 17:29:34.0160 INFO Message sent to queue 
+2024-07-09 17:29:34.0160 INFO Message sent to post-queue 
+2024-07-09 17:29:34.0160 INFO Message sent to pre-queue 
+2024-07-09 17:29:39.0181 INFO Message sent to sent-queue 
+2024-07-09 17:29:39.0181 INFO Message sent to queue 
+2024-07-09 17:29:39.0181 INFO Message sent to post-queue 
+2024-07-09 17:29:39.0181 INFO Message sent to pre-queue 
+2024-07-09 17:29:44.0284 INFO Message sent to sent-queue 
+2024-07-09 17:29:44.0284 INFO Message sent to queue 
+2024-07-09 17:29:44.0284 INFO Message sent to post-queue 
+2024-07-09 17:29:44.0284 INFO Message sent to pre-queue 
+2024-07-09 17:29:49.0152 INFO Message sent to pre-queue 
+2024-07-09 17:29:49.0309 INFO Message sent to queue 
+2024-07-09 17:29:49.0309 INFO Message sent to post-queue 
+2024-07-09 17:29:49.0309 INFO Message sent to sent-queue 
+2024-07-09 17:29:54.0237 INFO Message sent to sent-queue 
+2024-07-09 17:29:54.0237 INFO Message sent to queue 
+2024-07-09 17:29:54.0237 INFO Message sent to post-queue 
+2024-07-09 17:29:54.0237 INFO Message sent to pre-queue 
+2024-07-09 17:29:59.0291 INFO Message sent to sent-queue 
+2024-07-09 17:29:59.0291 INFO Message sent to queue 
+2024-07-09 17:29:59.0291 INFO Message sent to post-queue 
+2024-07-09 17:29:59.0291 INFO Message sent to pre-queue 
+2024-07-09 17:30:04.0222 INFO Message sent to sent-queue 
+2024-07-09 17:30:04.0222 INFO Message sent to post-queue 
+2024-07-09 17:30:04.0222 INFO Message sent to queue 
+2024-07-09 17:30:04.0222 INFO Message sent to pre-queue 
+2024-07-09 17:30:09.0300 INFO Message sent to sent-queue 
+2024-07-09 17:30:09.0300 INFO Message sent to post-queue 
+2024-07-09 17:30:09.0300 INFO Message sent to queue 
+2024-07-09 17:30:09.0300 INFO Message sent to pre-queue 
+2024-07-09 17:30:14.0223 INFO Message sent to sent-queue 
+2024-07-09 17:30:14.0223 INFO Message sent to queue 
+2024-07-09 17:30:14.0223 INFO Message sent to post-queue 
+2024-07-09 17:30:14.0223 INFO Message sent to pre-queue 
+2024-07-09 17:30:19.0177 INFO Message sent to sent-queue 
+2024-07-09 17:30:19.0177 INFO Message sent to queue 
+2024-07-09 17:30:19.0177 INFO Message sent to pre-queue 
+2024-07-09 17:30:19.0177 INFO Message sent to post-queue 
+2024-07-09 17:30:24.0290 INFO Message sent to sent-queue 
+2024-07-09 17:30:24.0290 INFO Message sent to post-queue 
+2024-07-09 17:30:24.0290 INFO Message sent to queue 
+2024-07-09 17:30:24.0290 INFO Message sent to pre-queue 
+2024-07-09 17:30:29.0235 INFO Message sent to sent-queue 
+2024-07-09 17:30:29.0235 INFO Message sent to post-queue 
+2024-07-09 17:30:29.0235 INFO Message sent to queue 
+2024-07-09 17:30:29.0235 INFO Message sent to pre-queue 
+2024-07-09 17:30:34.0198 INFO Message sent to sent-queue 
+2024-07-09 17:30:34.0198 INFO Message sent to post-queue 
+2024-07-09 17:30:34.0198 INFO Message sent to queue 
+2024-07-09 17:30:34.0198 INFO Message sent to pre-queue 
+2024-07-09 17:30:39.0206 INFO Message sent to sent-queue 
+2024-07-09 17:30:39.0206 INFO Message sent to queue 
+2024-07-09 17:30:39.0206 INFO Message sent to post-queue 
+2024-07-09 17:30:39.0206 INFO Message sent to pre-queue 
+2024-07-09 17:30:44.0268 INFO Message sent to sent-queue 
+2024-07-09 17:30:44.0268 INFO Message sent to post-queue 
+2024-07-09 17:30:44.0268 INFO Message sent to queue 
+2024-07-09 17:30:44.0268 INFO Message sent to pre-queue 
+2024-07-09 17:30:49.0164 INFO Message sent to sent-queue 
+2024-07-09 17:30:49.0164 INFO Message sent to queue 
+2024-07-09 17:30:49.0164 INFO Message sent to post-queue 
+2024-07-09 17:30:49.0164 INFO Message sent to pre-queue 
+2024-07-09 17:30:54.0277 INFO Message sent to sent-queue 
+2024-07-09 17:30:54.0277 INFO Message sent to post-queue 
+2024-07-09 17:30:54.0277 INFO Message sent to queue 
+2024-07-09 17:30:54.0277 INFO Message sent to pre-queue 
+2024-07-09 17:30:59.0150 INFO Message sent to pre-queue 
+2024-07-09 17:30:59.0313 INFO Message sent to post-queue 
+2024-07-09 17:30:59.0313 INFO Message sent to queue 
+2024-07-09 17:30:59.0313 INFO Message sent to sent-queue 
+2024-07-09 17:31:04.0285 INFO Message sent to sent-queue 
+2024-07-09 17:31:04.0285 INFO Message sent to post-queue 
+2024-07-09 17:31:04.0285 INFO Message sent to queue 
+2024-07-09 17:31:04.0285 INFO Message sent to pre-queue 
+2024-07-09 17:31:09.0193 INFO Message sent to sent-queue 
+2024-07-09 17:31:09.0193 INFO Message sent to post-queue 
+2024-07-09 17:31:09.0193 INFO Message sent to queue 
+2024-07-09 17:31:09.0193 INFO Message sent to pre-queue 
+2024-07-09 17:31:14.0269 INFO Message sent to sent-queue 
+2024-07-09 17:31:14.0269 INFO Message sent to queue 
+2024-07-09 17:31:14.0269 INFO Message sent to post-queue 
+2024-07-09 17:31:14.0269 INFO Message sent to pre-queue 
+2024-07-09 17:31:19.0240 INFO Message sent to sent-queue 
+2024-07-09 17:31:19.0240 INFO Message sent to queue 
+2024-07-09 17:31:19.0240 INFO Message sent to post-queue 
+2024-07-09 17:31:19.0240 INFO Message sent to pre-queue 
+2024-07-09 17:31:24.0226 INFO Message sent to sent-queue 
+2024-07-09 17:31:24.0226 INFO Message sent to queue 
+2024-07-09 17:31:24.0231 INFO Message sent to pre-queue 
+2024-07-09 17:31:24.0231 INFO Message sent to post-queue 
+2024-07-09 17:31:29.0292 INFO Message sent to sent-queue 
+2024-07-09 17:31:29.0292 INFO Message sent to queue 
+2024-07-09 17:31:29.0292 INFO Message sent to post-queue 
+2024-07-09 17:31:29.0292 INFO Message sent to pre-queue 
+2024-07-09 17:31:34.0221 INFO Message sent to queue 
+2024-07-09 17:31:34.0221 INFO Message sent to post-queue 
+2024-07-09 17:31:34.0221 INFO Message sent to sent-queue 
+2024-07-09 17:31:34.0221 INFO Message sent to pre-queue 
+2024-07-09 17:31:39.0222 INFO Message sent to sent-queue 
+2024-07-09 17:31:39.0222 INFO Message sent to post-queue 
+2024-07-09 17:31:39.0222 INFO Message sent to queue 
+2024-07-09 17:31:39.0231 INFO Message sent to pre-queue 
+2024-07-09 17:31:44.0161 INFO Message sent to sent-queue 
+2024-07-09 17:31:44.0161 INFO Message sent to post-queue 
+2024-07-09 17:31:44.0161 INFO Message sent to queue 
+2024-07-09 17:31:44.0161 INFO Message sent to pre-queue 
+2024-07-09 17:31:49.0172 INFO Message sent to sent-queue 
+2024-07-09 17:31:49.0172 INFO Message sent to queue 
+2024-07-09 17:31:49.0172 INFO Message sent to post-queue 
+2024-07-09 17:31:49.0172 INFO Message sent to pre-queue 
+2024-07-09 17:31:54.0259 INFO Message sent to sent-queue 
+2024-07-09 17:31:54.0259 INFO Message sent to queue 
+2024-07-09 17:31:54.0259 INFO Message sent to post-queue 
+2024-07-09 17:31:54.0259 INFO Message sent to pre-queue 
+2024-07-09 17:31:59.0243 INFO Message sent to sent-queue 
+2024-07-09 17:31:59.0243 INFO Message sent to post-queue 
+2024-07-09 17:31:59.0243 INFO Message sent to queue 
+2024-07-09 17:31:59.0243 INFO Message sent to pre-queue 
+2024-07-09 17:32:04.0246 INFO Message sent to sent-queue 
+2024-07-09 17:32:04.0246 INFO Message sent to post-queue 
+2024-07-09 17:32:04.0246 INFO Message sent to pre-queue 
+2024-07-09 17:32:04.0246 INFO Message sent to queue 
+2024-07-09 17:32:09.0251 INFO Message sent to sent-queue 
+2024-07-09 17:32:09.0251 INFO Message sent to queue 
+2024-07-09 17:32:09.0251 INFO Message sent to post-queue 
+2024-07-09 17:32:09.0251 INFO Message sent to pre-queue 
+2024-07-09 17:32:14.0256 INFO Message sent to sent-queue 
+2024-07-09 17:32:14.0256 INFO Message sent to queue 
+2024-07-09 17:32:14.0256 INFO Message sent to post-queue 
+2024-07-09 17:32:14.0256 INFO Message sent to pre-queue 
+2024-07-09 17:32:19.0282 INFO Message sent to sent-queue 
+2024-07-09 17:32:19.0282 INFO Message sent to post-queue 
+2024-07-09 17:32:19.0282 INFO Message sent to queue 
+2024-07-09 17:32:19.0282 INFO Message sent to pre-queue 
+2024-07-09 17:32:24.0210 INFO Message sent to sent-queue 
+2024-07-09 17:32:24.0210 INFO Message sent to queue 
+2024-07-09 17:32:24.0210 INFO Message sent to post-queue 
+2024-07-09 17:32:24.0210 INFO Message sent to pre-queue 
+2024-07-09 17:32:29.0238 INFO Message sent to sent-queue 
+2024-07-09 17:32:29.0238 INFO Message sent to queue 
+2024-07-09 17:32:29.0238 INFO Message sent to post-queue 
+2024-07-09 17:32:29.0238 INFO Message sent to pre-queue 
+2024-07-09 17:32:34.0262 INFO Message sent to sent-queue 
+2024-07-09 17:32:34.0262 INFO Message sent to post-queue 
+2024-07-09 17:32:34.0262 INFO Message sent to queue 
+2024-07-09 17:32:34.0262 INFO Message sent to pre-queue 
+2024-07-09 17:32:39.0300 INFO Message sent to sent-queue 
+2024-07-09 17:32:39.0300 INFO Message sent to post-queue 
+2024-07-09 17:32:39.0300 INFO Message sent to queue 
+2024-07-09 17:32:39.0300 INFO Message sent to pre-queue 
+2024-07-09 17:32:44.0171 INFO Message sent to sent-queue 
+2024-07-09 17:32:44.0171 INFO Message sent to post-queue 
+2024-07-09 17:32:44.0171 INFO Message sent to queue 
+2024-07-09 17:32:44.0171 INFO Message sent to pre-queue 
+2024-07-09 17:32:49.0296 INFO Message sent to sent-queue 
+2024-07-09 17:32:49.0296 INFO Message sent to queue 
+2024-07-09 17:32:49.0296 INFO Message sent to post-queue 
+2024-07-09 17:32:49.0296 INFO Message sent to pre-queue 
+2024-07-09 17:32:54.0177 INFO Message sent to sent-queue 
+2024-07-09 17:32:54.0177 INFO Message sent to queue 
+2024-07-09 17:32:54.0177 INFO Message sent to post-queue 
+2024-07-09 17:32:54.0177 INFO Message sent to pre-queue 
+2024-07-09 17:32:59.0180 INFO Message sent to sent-queue 
+2024-07-09 17:32:59.0180 INFO Message sent to queue 
+2024-07-09 17:32:59.0180 INFO Message sent to post-queue 
+2024-07-09 17:32:59.0180 INFO Message sent to pre-queue 
+2024-07-09 17:33:04.0217 INFO Message sent to sent-queue 
+2024-07-09 17:33:04.0217 INFO Message sent to post-queue 
+2024-07-09 17:33:04.0217 INFO Message sent to queue 
+2024-07-09 17:33:04.0217 INFO Message sent to pre-queue 
+2024-07-09 17:33:09.0278 INFO Message sent to sent-queue 
+2024-07-09 17:33:09.0278 INFO Message sent to queue 
+2024-07-09 17:33:09.0278 INFO Message sent to post-queue 
+2024-07-09 17:33:09.0278 INFO Message sent to pre-queue 
+2024-07-09 17:33:14.0166 INFO Message sent to sent-queue 
+2024-07-09 17:33:14.0166 INFO Message sent to post-queue 
+2024-07-09 17:33:14.0166 INFO Message sent to queue 
+2024-07-09 17:33:14.0166 INFO Message sent to pre-queue 
+2024-07-09 17:33:19.0171 INFO Message sent to sent-queue 
+2024-07-09 17:33:19.0171 INFO Message sent to queue 
+2024-07-09 17:33:19.0171 INFO Message sent to post-queue 
+2024-07-09 17:33:19.0171 INFO Message sent to pre-queue 
+2024-07-09 17:33:24.0161 INFO Message sent to sent-queue 
+2024-07-09 17:33:24.0161 INFO Message sent to post-queue 
+2024-07-09 17:33:24.0161 INFO Message sent to queue 
+2024-07-09 17:33:24.0161 INFO Message sent to pre-queue 
+2024-07-09 17:33:29.0276 INFO Message sent to sent-queue 
+2024-07-09 17:33:29.0276 INFO Message sent to queue 
+2024-07-09 17:33:29.0276 INFO Message sent to post-queue 
+2024-07-09 17:33:29.0276 INFO Message sent to pre-queue 
+2024-07-09 17:33:34.0299 INFO Message sent to sent-queue 
+2024-07-09 17:33:34.0299 INFO Message sent to post-queue 
+2024-07-09 17:33:34.0299 INFO Message sent to queue 
+2024-07-09 17:33:34.0299 INFO Message sent to pre-queue 
+2024-07-09 17:33:39.0257 INFO Message sent to sent-queue 
+2024-07-09 17:33:39.0257 INFO Message sent to queue 
+2024-07-09 17:33:39.0257 INFO Message sent to post-queue 
+2024-07-09 17:33:39.0257 INFO Message sent to pre-queue 
+2024-07-09 17:33:44.0196 INFO Message sent to sent-queue 
+2024-07-09 17:33:44.0196 INFO Message sent to queue 
+2024-07-09 17:33:44.0196 INFO Message sent to post-queue 
+2024-07-09 17:33:44.0196 INFO Message sent to pre-queue 
+2024-07-09 17:33:49.0219 INFO Message sent to sent-queue 
+2024-07-09 17:33:49.0219 INFO Message sent to queue 
+2024-07-09 17:33:49.0219 INFO Message sent to post-queue 
+2024-07-09 17:33:49.0219 INFO Message sent to pre-queue 
+2024-07-09 17:33:54.0224 INFO Message sent to sent-queue 
+2024-07-09 17:33:54.0224 INFO Message sent to post-queue 
+2024-07-09 17:33:54.0230 INFO Message sent to queue 
+2024-07-09 17:33:54.0230 INFO Message sent to pre-queue 
+2024-07-09 17:33:59.0186 INFO Message sent to sent-queue 
+2024-07-09 17:33:59.0186 INFO Message sent to queue 
+2024-07-09 17:33:59.0186 INFO Message sent to post-queue 
+2024-07-09 17:33:59.0186 INFO Message sent to pre-queue 
+2024-07-09 17:34:04.0299 INFO Message sent to sent-queue 
+2024-07-09 17:34:04.0299 INFO Message sent to post-queue 
+2024-07-09 17:34:04.0299 INFO Message sent to queue 
+2024-07-09 17:34:04.0299 INFO Message sent to pre-queue 
+2024-07-09 17:34:09.0189 INFO Message sent to sent-queue 
+2024-07-09 17:34:09.0189 INFO Message sent to queue 
+2024-07-09 17:34:09.0189 INFO Message sent to post-queue 
+2024-07-09 17:34:09.0189 INFO Message sent to pre-queue 
+2024-07-09 17:34:14.0292 INFO Message sent to sent-queue 
+2024-07-09 17:34:14.0292 INFO Message sent to queue 
+2024-07-09 17:34:14.0292 INFO Message sent to post-queue 
+2024-07-09 17:34:14.0292 INFO Message sent to pre-queue 
+2024-07-09 17:34:19.0229 INFO Message sent to sent-queue 
+2024-07-09 17:34:19.0229 INFO Message sent to post-queue 
+2024-07-09 17:34:19.0236 INFO Message sent to queue 
+2024-07-09 17:34:19.0236 INFO Message sent to pre-queue 
+2024-07-09 17:34:24.0168 INFO Message sent to sent-queue 
+2024-07-09 17:34:24.0168 INFO Message sent to queue 
+2024-07-09 17:34:24.0168 INFO Message sent to post-queue 
+2024-07-09 17:34:24.0168 INFO Message sent to pre-queue 
+2024-07-09 17:34:29.0184 INFO Message sent to sent-queue 
+2024-07-09 17:34:29.0184 INFO Message sent to queue 
+2024-07-09 17:34:29.0184 INFO Message sent to post-queue 
+2024-07-09 17:34:29.0184 INFO Message sent to pre-queue 
+2024-07-09 17:34:34.0153 INFO Message sent to pre-queue 
+2024-07-09 17:34:34.0304 INFO Message sent to post-queue 
+2024-07-09 17:34:34.0304 INFO Message sent to queue 
+2024-07-09 17:34:34.0304 INFO Message sent to sent-queue 
+2024-07-09 17:34:39.0171 INFO Message sent to sent-queue 
+2024-07-09 17:34:39.0171 INFO Message sent to queue 
+2024-07-09 17:34:39.0171 INFO Message sent to post-queue 
+2024-07-09 17:34:39.0171 INFO Message sent to pre-queue 
+2024-07-09 17:34:44.0282 INFO Message sent to sent-queue 
+2024-07-09 17:34:44.0282 INFO Message sent to post-queue 
+2024-07-09 17:34:44.0282 INFO Message sent to queue 
+2024-07-09 17:34:44.0282 INFO Message sent to pre-queue 
+2024-07-09 17:34:49.0222 INFO Message sent to queue 
+2024-07-09 17:34:49.0222 INFO Message sent to sent-queue 
+2024-07-09 17:34:49.0222 INFO Message sent to post-queue 
+2024-07-09 17:34:49.0222 INFO Message sent to pre-queue 
+2024-07-09 17:34:54.0260 INFO Message sent to sent-queue 
+2024-07-09 17:34:54.0260 INFO Message sent to queue 
+2024-07-09 17:34:54.0260 INFO Message sent to post-queue 
+2024-07-09 17:34:54.0260 INFO Message sent to pre-queue 
+2024-07-09 17:34:59.0195 INFO Message sent to sent-queue 
+2024-07-09 17:34:59.0195 INFO Message sent to queue 
+2024-07-09 17:34:59.0195 INFO Message sent to post-queue 
+2024-07-09 17:34:59.0195 INFO Message sent to pre-queue 
+2024-07-09 17:35:04.0222 INFO Message sent to sent-queue 
+2024-07-09 17:35:04.0222 INFO Message sent to post-queue 
+2024-07-09 17:35:04.0222 INFO Message sent to queue 
+2024-07-09 17:35:04.0276 INFO Message sent to pre-queue 
+2024-07-09 17:35:09.0267 INFO Message sent to sent-queue 
+2024-07-09 17:35:09.0267 INFO Message sent to queue 
+2024-07-09 17:35:09.0267 INFO Message sent to post-queue 
+2024-07-09 17:35:09.0267 INFO Message sent to pre-queue 
+2024-07-09 17:35:14.0300 INFO Message sent to sent-queue 
+2024-07-09 17:35:14.0300 INFO Message sent to post-queue 
+2024-07-09 17:35:14.0300 INFO Message sent to queue 
+2024-07-09 17:35:14.0300 INFO Message sent to pre-queue 
+2024-07-09 17:35:19.0192 INFO Message sent to sent-queue 
+2024-07-09 17:35:19.0192 INFO Message sent to post-queue 
+2024-07-09 17:35:19.0192 INFO Message sent to queue 
+2024-07-09 17:35:19.0192 INFO Message sent to pre-queue 
+2024-07-09 17:35:24.0277 INFO Message sent to sent-queue 
+2024-07-09 17:35:24.0277 INFO Message sent to queue 
+2024-07-09 17:35:24.0277 INFO Message sent to post-queue 
+2024-07-09 17:35:24.0277 INFO Message sent to pre-queue 
+2024-07-09 17:35:29.0221 INFO Message sent to sent-queue 
+2024-07-09 17:35:29.0221 INFO Message sent to post-queue 
+2024-07-09 17:35:29.0221 INFO Message sent to queue 
+2024-07-09 17:35:29.0221 INFO Message sent to pre-queue 
+2024-07-09 17:35:34.0274 INFO Message sent to sent-queue 
+2024-07-09 17:35:34.0274 INFO Message sent to queue 
+2024-07-09 17:35:34.0274 INFO Message sent to post-queue 
+2024-07-09 17:35:34.0274 INFO Message sent to pre-queue 
+2024-07-09 17:35:39.0165 ERROR Error sending message to sent-queue 
+2024-07-09 17:35:39.0165 ERROR Error sending message to queue 
+2024-07-09 17:35:39.0165 ERROR Error sending message to post-queue 
+2024-07-09 17:35:39.0165 ERROR Error sending message to pre-queue 
+2024-07-09 17:35:39.0165 INFO Flag file created. 
+2024-07-09 17:35:44.0264 ERROR Error sending message to sent-queue 
+2024-07-09 17:35:44.0264 ERROR Error sending message to post-queue 
+2024-07-09 17:35:44.0264 ERROR Error sending message to queue 
+2024-07-09 17:35:44.0264 ERROR Error sending message to pre-queue 
+2024-07-09 17:35:49.0152 ERROR Error sending message to sent-queue 
+2024-07-09 17:35:49.0152 ERROR Error sending message to queue 
+2024-07-09 17:35:49.0152 ERROR Error sending message to post-queue 
+2024-07-09 17:35:49.0152 ERROR Error sending message to pre-queue 
+2024-07-09 17:35:54.0194 ERROR Error sending message to sent-queue 
+2024-07-09 17:35:54.0194 ERROR Error sending message to queue 
+2024-07-09 17:35:54.0194 ERROR Error sending message to post-queue 
+2024-07-09 17:35:54.0194 ERROR Error sending message to pre-queue 
+2024-07-09 17:35:59.0205 INFO Message sent to sent-queue 
+2024-07-09 17:35:59.0205 INFO Message sent to queue 
+2024-07-09 17:35:59.0205 INFO Message sent to post-queue 
+2024-07-09 17:35:59.0205 INFO Message sent to pre-queue 
+2024-07-09 17:35:59.0205 INFO Flag file deleted. 
+2024-07-09 17:36:04.0260 INFO Message sent to sent-queue 
+2024-07-09 17:36:04.0260 INFO Message sent to post-queue 
+2024-07-09 17:36:04.0260 INFO Message sent to queue 
+2024-07-09 17:36:04.0260 INFO Message sent to pre-queue 
+2024-07-09 17:36:09.0273 INFO Message sent to sent-queue 
+2024-07-09 17:36:09.0273 INFO Message sent to post-queue 
+2024-07-09 17:36:09.0273 INFO Message sent to queue 
+2024-07-09 17:36:09.0273 INFO Message sent to pre-queue 
+2024-07-09 17:36:14.0179 INFO Message sent to sent-queue 
+2024-07-09 17:36:14.0179 INFO Message sent to queue 
+2024-07-09 17:36:14.0179 INFO Message sent to post-queue 
+2024-07-09 17:36:14.0179 INFO Message sent to pre-queue 
+2024-07-09 17:36:30.2401 INFO Message sent to sent-queue 
+2024-07-09 17:36:30.2401 INFO Message sent to queue 
+2024-07-09 17:36:30.2401 INFO Message sent to post-queue 
+2024-07-09 17:36:30.2401 INFO Message sent to pre-queue 
+2024-07-09 19:47:33.2577 ERROR Error sending message to sent-queue 
+2024-07-09 19:47:33.2581 ERROR Error sending message to post-queue 
+2024-07-09 19:47:33.2581 ERROR Error sending message to pre-queue 
+2024-07-09 19:47:33.2581 ERROR Error sending message to queue 
+2024-07-09 19:47:33.2581 INFO Flag file created. 
+2024-07-09 19:47:38.2516 INFO Message sent to sent-queue 
+2024-07-09 19:47:38.2516 INFO Message sent to queue 
+2024-07-09 19:47:38.2516 INFO Message sent to post-queue 
+2024-07-09 19:47:38.2516 INFO Message sent to pre-queue 
+2024-07-09 19:47:38.2516 INFO Flag file deleted. 
+2024-07-09 19:47:43.2544 INFO Message sent to sent-queue 
+2024-07-09 19:47:43.2544 INFO Message sent to post-queue 
+2024-07-09 19:47:43.2544 INFO Message sent to queue 
+2024-07-09 19:47:43.2544 INFO Message sent to pre-queue 
+2024-07-10 11:25:55.2518 INFO Message sent to post-queue 
+2024-07-10 11:25:55.2518 INFO Message sent to pre-queue 
+2024-07-10 11:25:55.2518 INFO Message sent to queue 
+2024-07-10 11:25:55.2518 INFO Message sent to sent-queue 
+2024-07-10 11:25:55.2599 INFO Flag file deleted. 
+2024-07-10 11:25:55.2599 WARN Stop flag not found 
+2024-07-10 11:26:00.2163 INFO Message sent to sent-queue 
+2024-07-10 11:26:00.2163 INFO Message sent to post-queue 
+2024-07-10 11:26:00.2163 INFO Message sent to pre-queue 
+2024-07-10 11:26:00.2163 INFO Message sent to queue 
+2024-07-10 11:26:00.2163 WARN Stop flag not found 
+2024-07-10 11:26:05.2185 INFO Message sent to sent-queue 
+2024-07-10 11:26:05.2185 INFO Message sent to pre-queue 
+2024-07-10 11:26:05.2185 INFO Message sent to post-queue 
+2024-07-10 11:26:05.2185 INFO Message sent to queue 
+2024-07-10 11:26:05.2185 WARN Stop flag not found 
+2024-07-10 11:26:10.2126 INFO Message sent to sent-queue 
+2024-07-10 11:26:10.2126 INFO Message sent to post-queue 
+2024-07-10 11:26:10.2126 INFO Message sent to queue 
+2024-07-10 11:26:10.2126 INFO Message sent to pre-queue 
+2024-07-10 11:26:10.2126 WARN Stop flag not found 
+2024-07-10 11:26:15.2136 INFO Message sent to sent-queue 
+2024-07-10 11:26:15.2136 INFO Message sent to post-queue 
+2024-07-10 11:26:15.2136 INFO Message sent to queue 
+2024-07-10 11:26:15.2136 INFO Message sent to pre-queue 
+2024-07-10 11:26:15.2136 WARN Stop flag not found 
+2024-07-10 11:26:20.2076 ERROR Error sending message to queue 
+2024-07-10 11:26:20.2076 ERROR Error sending message to pre-queue 
+2024-07-10 11:26:20.2076 INFO Flag file created. 
+2024-07-10 11:26:20.2225 ERROR Error sending message to post-queue 
+2024-07-10 11:26:20.2225 ERROR Error sending message to sent-queue 
+2024-07-10 11:26:25.2084 ERROR Error sending message to sent-queue 
+2024-07-10 11:26:25.2084 ERROR Error sending message to pre-queue 
+2024-07-10 11:26:25.2084 ERROR Error sending message to post-queue 
+2024-07-10 11:26:25.2084 ERROR Error sending message to queue 
+2024-07-10 11:26:30.2205 ERROR Error sending message to sent-queue 
+2024-07-10 11:26:30.2205 ERROR Error sending message to post-queue 
+2024-07-10 11:26:30.2205 ERROR Error sending message to queue 
+2024-07-10 11:26:30.2205 ERROR Error sending message to pre-queue 
+2024-07-10 11:26:35.2157 ERROR Error sending message to sent-queue 
+2024-07-10 11:26:35.2157 ERROR Error sending message to post-queue 
+2024-07-10 11:26:35.2157 ERROR Error sending message to queue 
+2024-07-10 11:26:35.2157 ERROR Error sending message to pre-queue 
+2024-07-10 11:26:40.2218 INFO Message sent to sent-queue 
+2024-07-10 11:26:40.2218 INFO Message sent to queue 
+2024-07-10 11:26:40.2218 INFO Message sent to post-queue 
+2024-07-10 11:26:40.2218 INFO Message sent to pre-queue 
+2024-07-10 11:26:40.2218 INFO Flag file deleted. 
+2024-07-10 11:26:40.2276 WARN Stop flag not found 
+2024-07-10 11:26:45.2191 INFO Message sent to sent-queue 
+2024-07-10 11:26:45.2191 INFO Message sent to queue 
+2024-07-10 11:26:45.2191 INFO Message sent to post-queue 
+2024-07-10 11:26:45.2191 INFO Message sent to pre-queue 
+2024-07-10 11:26:45.2191 WARN Stop flag not found 
+2024-07-10 11:26:50.2162 INFO Message sent to sent-queue 
+2024-07-10 11:26:50.2162 INFO Message sent to post-queue 
+2024-07-10 11:26:50.2162 INFO Message sent to queue 
+2024-07-10 11:26:50.2162 INFO Message sent to pre-queue 
+2024-07-10 11:26:50.2162 WARN Stop flag not found 
+2024-07-10 11:26:55.2182 INFO Message sent to sent-queue 
+2024-07-10 11:26:55.2182 INFO Message sent to post-queue 
+2024-07-10 11:26:55.2182 INFO Message sent to queue 
+2024-07-10 11:26:55.2182 INFO Message sent to pre-queue 
+2024-07-10 11:26:55.2182 WARN Stop flag not found 
+2024-07-10 11:27:00.2118 INFO Message sent to sent-queue 
+2024-07-10 11:27:00.2118 INFO Message sent to queue 
+2024-07-10 11:27:00.2118 INFO Message sent to post-queue 
+2024-07-10 11:27:00.2118 INFO Message sent to pre-queue 
+2024-07-10 11:27:00.2118 WARN Stop flag not found 
+2024-07-10 11:27:05.2175 INFO Message sent to sent-queue 
+2024-07-10 11:27:05.2175 INFO Message sent to queue 
+2024-07-10 11:27:05.2175 INFO Message sent to post-queue 
+2024-07-10 11:27:05.2175 INFO Message sent to pre-queue 
+2024-07-10 11:27:05.2175 WARN Stop flag not found 
+2024-07-10 11:27:10.2133 INFO Message sent to sent-queue 
+2024-07-10 11:27:10.2133 INFO Message sent to post-queue 
+2024-07-10 11:27:10.2133 INFO Message sent to queue 
+2024-07-10 11:27:10.2133 INFO Message sent to pre-queue 
+2024-07-10 11:27:10.2133 WARN Stop flag not found 
+2024-07-10 11:27:15.2212 INFO Message sent to sent-queue 
+2024-07-10 11:27:15.2212 INFO Message sent to post-queue 
+2024-07-10 11:27:15.2212 INFO Message sent to queue 
+2024-07-10 11:27:15.2212 INFO Message sent to pre-queue 
+2024-07-10 11:27:15.2212 WARN Stop flag not found 
+2024-07-10 11:27:20.2116 INFO Message sent to sent-queue 
+2024-07-10 11:27:20.2116 INFO Message sent to post-queue 
+2024-07-10 11:27:20.2116 INFO Message sent to queue 
+2024-07-10 11:27:20.2116 INFO Message sent to pre-queue 
+2024-07-10 11:27:20.2116 WARN Stop flag not found 
+2024-07-10 11:27:25.2132 INFO Message sent to sent-queue 
+2024-07-10 11:27:25.2132 INFO Message sent to post-queue 
+2024-07-10 11:27:25.2132 INFO Message sent to queue 
+2024-07-10 11:27:25.2132 INFO Message sent to pre-queue 
+2024-07-10 11:27:25.2132 WARN Stop flag not found 
+2024-07-10 11:27:30.2104 INFO Message sent to sent-queue 
+2024-07-10 11:27:30.2104 INFO Message sent to post-queue 
+2024-07-10 11:27:30.2110 INFO Message sent to queue 
+2024-07-10 11:27:30.2110 INFO Message sent to pre-queue 
+2024-07-10 11:27:30.2110 WARN Stop flag not found 
+2024-07-10 11:27:35.2160 INFO Message sent to sent-queue 
+2024-07-10 11:27:35.2160 INFO Message sent to queue 
+2024-07-10 11:27:35.2160 INFO Message sent to post-queue 
+2024-07-10 11:27:35.2160 INFO Message sent to pre-queue 
+2024-07-10 11:27:35.2160 WARN Stop flag not found 
+2024-07-10 11:27:40.2138 INFO Message sent to sent-queue 
+2024-07-10 11:27:40.2138 INFO Message sent to post-queue 
+2024-07-10 11:27:40.2138 INFO Message sent to queue 
+2024-07-10 11:27:40.2138 INFO Message sent to pre-queue 
+2024-07-10 11:27:40.2138 WARN Stop flag not found 
+2024-07-10 11:27:45.2224 INFO Message sent to sent-queue 
+2024-07-10 11:27:45.2224 INFO Message sent to queue 
+2024-07-10 11:27:45.2224 INFO Message sent to pre-queue 
+2024-07-10 11:27:45.2224 INFO Message sent to post-queue 
+2024-07-10 11:27:45.2224 WARN Stop flag not found 
+2024-07-10 11:27:50.2202 INFO Message sent to sent-queue 
+2024-07-10 11:27:50.2202 INFO Message sent to post-queue 
+2024-07-10 11:27:50.2202 INFO Message sent to queue 
+2024-07-10 11:27:50.2202 INFO Message sent to pre-queue 
+2024-07-10 11:27:50.2202 WARN Stop flag not found 
+2024-07-10 11:27:55.2116 INFO Message sent to sent-queue 
+2024-07-10 11:27:55.2116 INFO Message sent to post-queue 
+2024-07-10 11:27:55.2116 INFO Message sent to queue 
+2024-07-10 11:27:55.2116 INFO Message sent to pre-queue 
+2024-07-10 11:27:55.2116 WARN Stop flag not found 
+2024-07-10 11:28:00.2138 INFO Message sent to sent-queue 
+2024-07-10 11:28:00.2138 INFO Message sent to post-queue 
+2024-07-10 11:28:00.2138 INFO Message sent to queue 
+2024-07-10 11:28:00.2138 INFO Message sent to pre-queue 
+2024-07-10 11:28:00.2138 WARN Stop flag not found 
+2024-07-10 11:28:05.2101 INFO Message sent to sent-queue 
+2024-07-10 11:28:05.2105 INFO Message sent to post-queue 
+2024-07-10 11:28:05.2105 INFO Message sent to queue 
+2024-07-10 11:28:05.2105 INFO Message sent to pre-queue 
+2024-07-10 11:28:05.2105 WARN Stop flag not found 
+2024-07-10 11:28:10.2180 INFO Message sent to sent-queue 
+2024-07-10 11:28:10.2180 INFO Message sent to post-queue 
+2024-07-10 11:28:10.2180 INFO Message sent to queue 
+2024-07-10 11:28:10.2180 INFO Message sent to pre-queue 
+2024-07-10 11:28:10.2180 WARN Stop flag not found 
+2024-07-10 11:28:15.2104 INFO Message sent to sent-queue 
+2024-07-10 11:28:15.2104 INFO Message sent to post-queue 
+2024-07-10 11:28:15.2110 INFO Message sent to queue 
+2024-07-10 11:28:15.2110 INFO Message sent to pre-queue 
+2024-07-10 11:28:15.2110 WARN Stop flag not found 
+2024-07-10 11:28:20.2213 INFO Message sent to sent-queue 
+2024-07-10 11:28:20.2213 INFO Message sent to queue 
+2024-07-10 11:28:20.2213 INFO Message sent to post-queue 
+2024-07-10 11:28:20.2213 INFO Message sent to pre-queue 
+2024-07-10 11:28:20.2213 WARN Stop flag not found 
+2024-07-10 11:28:25.2201 INFO Message sent to sent-queue 
+2024-07-10 11:28:25.2201 INFO Message sent to post-queue 
+2024-07-10 11:28:25.2201 INFO Message sent to queue 
+2024-07-10 11:28:25.2201 INFO Message sent to pre-queue 
+2024-07-10 11:28:25.2201 WARN Stop flag not found 
+2024-07-10 11:28:30.2148 INFO Message sent to sent-queue 
+2024-07-10 11:28:30.2148 INFO Message sent to post-queue 
+2024-07-10 11:28:30.2148 INFO Message sent to queue 
+2024-07-10 11:28:30.2148 INFO Message sent to pre-queue 
+2024-07-10 11:28:30.2148 WARN Stop flag not found 
+2024-07-10 11:28:35.2199 INFO Message sent to sent-queue 
+2024-07-10 11:28:35.2199 INFO Message sent to queue 
+2024-07-10 11:28:35.2199 INFO Message sent to post-queue 
+2024-07-10 11:28:35.2199 INFO Message sent to pre-queue 
+2024-07-10 11:28:35.2199 WARN Stop flag not found 
+2024-07-10 11:28:40.2138 INFO Message sent to sent-queue 
+2024-07-10 11:28:40.2138 INFO Message sent to post-queue 
+2024-07-10 11:28:40.2138 INFO Message sent to queue 
+2024-07-10 11:28:40.2138 INFO Message sent to pre-queue 
+2024-07-10 11:28:40.2138 WARN Stop flag not found 
+2024-07-10 11:28:45.2130 INFO Message sent to sent-queue 
+2024-07-10 11:28:45.2130 INFO Message sent to post-queue 
+2024-07-10 11:28:45.2130 INFO Message sent to queue 
+2024-07-10 11:28:45.2130 INFO Message sent to pre-queue 
+2024-07-10 11:28:45.2130 WARN Stop flag not found 
+2024-07-10 11:28:50.2156 INFO Message sent to sent-queue 
+2024-07-10 11:28:50.2156 INFO Message sent to post-queue 
+2024-07-10 11:28:50.2156 INFO Message sent to queue 
+2024-07-10 11:28:50.2156 INFO Message sent to pre-queue 
+2024-07-10 11:28:50.2156 WARN Stop flag not found 
+2024-07-10 11:28:55.2172 INFO Message sent to sent-queue 
+2024-07-10 11:28:55.2172 INFO Message sent to post-queue 
+2024-07-10 11:28:55.2172 INFO Message sent to queue 
+2024-07-10 11:28:55.2172 INFO Message sent to pre-queue 
+2024-07-10 11:28:55.2172 WARN Stop flag not found 
+2024-07-10 11:29:00.2130 INFO Message sent to sent-queue 
+2024-07-10 11:29:00.2130 INFO Message sent to post-queue 
+2024-07-10 11:29:00.2130 INFO Message sent to queue 
+2024-07-10 11:29:00.2130 INFO Message sent to pre-queue 
+2024-07-10 11:29:00.2130 WARN Stop flag not found 
+2024-07-10 11:29:05.2214 INFO Message sent to sent-queue 
+2024-07-10 11:29:05.2214 INFO Message sent to post-queue 
+2024-07-10 11:29:05.2214 INFO Message sent to queue 
+2024-07-10 11:29:05.2214 INFO Message sent to pre-queue 
+2024-07-10 11:29:05.2214 WARN Stop flag not found 
+2024-07-10 11:29:10.2173 INFO Message sent to sent-queue 
+2024-07-10 11:29:10.2173 INFO Message sent to post-queue 
+2024-07-10 11:29:10.2173 INFO Message sent to queue 
+2024-07-10 11:29:10.2173 INFO Message sent to pre-queue 
+2024-07-10 11:29:10.2173 WARN Stop flag not found 
+2024-07-10 11:29:15.2133 INFO Message sent to sent-queue 
+2024-07-10 11:29:15.2133 INFO Message sent to post-queue 
+2024-07-10 11:29:15.2133 INFO Message sent to queue 
+2024-07-10 11:29:15.2133 INFO Message sent to pre-queue 
+2024-07-10 11:29:15.2133 WARN Stop flag not found 
+2024-07-10 11:29:20.2098 INFO Message sent to sent-queue 
+2024-07-10 11:29:20.2098 INFO Message sent to post-queue 
+2024-07-10 11:29:20.2098 INFO Message sent to queue 
+2024-07-10 11:29:20.2098 INFO Message sent to pre-queue 
+2024-07-10 11:29:20.2098 WARN Stop flag not found 
+2024-07-10 11:29:25.2196 INFO Message sent to sent-queue 
+2024-07-10 11:29:25.2196 INFO Message sent to queue 
+2024-07-10 11:29:25.2196 INFO Message sent to post-queue 
+2024-07-10 11:29:25.2196 INFO Message sent to pre-queue 
+2024-07-10 11:29:25.2196 WARN Stop flag not found 
+2024-07-10 11:29:30.2215 INFO Message sent to post-queue 
+2024-07-10 11:29:30.2215 INFO Message sent to queue 
+2024-07-10 11:29:30.2215 INFO Message sent to pre-queue 
+2024-07-10 11:29:30.2215 WARN Stop flag not found 
+2024-07-10 11:29:30.2215 INFO Message sent to sent-queue 
+2024-07-10 11:29:35.2202 INFO Message sent to sent-queue 
+2024-07-10 11:29:35.2202 INFO Message sent to queue 
+2024-07-10 11:29:35.2202 INFO Message sent to post-queue 
+2024-07-10 11:29:35.2202 INFO Message sent to pre-queue 
+2024-07-10 11:29:35.2202 WARN Stop flag not found 
+2024-07-10 11:29:40.2218 INFO Message sent to sent-queue 
+2024-07-10 11:29:40.2218 INFO Message sent to post-queue 
+2024-07-10 11:29:40.2218 INFO Message sent to queue 
+2024-07-10 11:29:40.2218 INFO Message sent to pre-queue 
+2024-07-10 11:29:40.2218 WARN Stop flag not found 
+2024-07-10 11:29:45.2218 INFO Message sent to sent-queue 
+2024-07-10 11:29:45.2218 INFO Message sent to post-queue 
+2024-07-10 11:29:45.2218 INFO Message sent to queue 
+2024-07-10 11:29:45.2218 INFO Message sent to pre-queue 
+2024-07-10 11:29:45.2218 WARN Stop flag not found 
+2024-07-10 11:29:50.2123 INFO Message sent to sent-queue 
+2024-07-10 11:29:50.2123 INFO Message sent to post-queue 
+2024-07-10 11:29:50.2123 INFO Message sent to queue 
+2024-07-10 11:29:50.2123 INFO Message sent to pre-queue 
+2024-07-10 11:29:50.2123 WARN Stop flag not found 
+2024-07-10 11:29:55.2188 INFO Message sent to sent-queue 
+2024-07-10 11:29:55.2188 INFO Message sent to queue 
+2024-07-10 11:29:55.2188 INFO Message sent to post-queue 
+2024-07-10 11:29:55.2188 INFO Message sent to pre-queue 
+2024-07-10 11:29:55.2188 WARN Stop flag not found 
+2024-07-10 11:30:00.2087 INFO Message sent to sent-queue 
+2024-07-10 11:30:00.2087 INFO Message sent to post-queue 
+2024-07-10 11:30:00.2087 INFO Message sent to queue 
+2024-07-10 11:30:00.2087 INFO Message sent to pre-queue 
+2024-07-10 11:30:00.2087 WARN Stop flag not found 
+2024-07-10 11:30:05.2107 INFO Message sent to sent-queue 
+2024-07-10 11:30:05.2110 INFO Message sent to post-queue 
+2024-07-10 11:30:05.2110 INFO Message sent to queue 
+2024-07-10 11:30:05.2110 INFO Message sent to pre-queue 
+2024-07-10 11:30:05.2110 WARN Stop flag not found 
+2024-07-10 11:30:10.2142 INFO Message sent to sent-queue 
+2024-07-10 11:30:10.2142 INFO Message sent to post-queue 
+2024-07-10 11:30:10.2142 INFO Message sent to queue 
+2024-07-10 11:30:10.2142 INFO Message sent to pre-queue 
+2024-07-10 11:30:10.2142 WARN Stop flag not found 
+2024-07-10 11:30:15.2138 INFO Message sent to sent-queue 
+2024-07-10 11:30:15.2138 INFO Message sent to post-queue 
+2024-07-10 11:30:15.2138 INFO Message sent to queue 
+2024-07-10 11:30:15.2138 INFO Message sent to pre-queue 
+2024-07-10 11:30:15.2138 WARN Stop flag not found 
+2024-07-10 11:30:20.2080 INFO Message sent to post-queue 
+2024-07-10 11:30:20.2080 INFO Message sent to sent-queue 
+2024-07-10 11:30:20.2080 INFO Message sent to queue 
+2024-07-10 11:30:20.2080 WARN Stop flag not found 
+2024-07-10 11:30:20.2080 INFO Message sent to pre-queue 
+2024-07-10 11:30:25.2094 INFO Message sent to sent-queue 
+2024-07-10 11:30:25.2094 INFO Message sent to post-queue 
+2024-07-10 11:30:25.2094 INFO Message sent to queue 
+2024-07-10 11:30:25.2105 INFO Message sent to pre-queue 
+2024-07-10 11:30:25.2105 WARN Stop flag not found 
+2024-07-10 11:30:30.2070 INFO Message sent to queue 
+2024-07-10 11:30:30.2070 INFO Message sent to pre-queue 
+2024-07-10 11:30:30.2225 INFO Message sent to post-queue 
+2024-07-10 11:30:30.2225 INFO Message sent to sent-queue 
+2024-07-10 11:30:30.2225 WARN Stop flag not found 
+2024-07-10 11:30:35.2094 INFO Message sent to sent-queue 
+2024-07-10 11:30:35.2094 INFO Message sent to post-queue 
+2024-07-10 11:30:35.2094 INFO Message sent to queue 
+2024-07-10 11:30:35.2094 INFO Message sent to pre-queue 
+2024-07-10 11:30:35.2108 WARN Stop flag not found 
+2024-07-10 11:30:40.2133 INFO Message sent to sent-queue 
+2024-07-10 11:30:40.2133 INFO Message sent to post-queue 
+2024-07-10 11:30:40.2133 INFO Message sent to queue 
+2024-07-10 11:30:40.2133 INFO Message sent to pre-queue 
+2024-07-10 11:30:40.2133 WARN Stop flag not found 
+2024-07-10 11:30:45.2108 INFO Message sent to sent-queue 
+2024-07-10 11:30:45.2108 INFO Message sent to post-queue 
+2024-07-10 11:30:45.2108 INFO Message sent to queue 
+2024-07-10 11:30:45.2108 INFO Message sent to pre-queue 
+2024-07-10 11:30:45.2108 WARN Stop flag not found 
+2024-07-10 11:30:50.2175 INFO Message sent to sent-queue 
+2024-07-10 11:30:50.2175 INFO Message sent to post-queue 
+2024-07-10 11:30:50.2175 INFO Message sent to queue 
+2024-07-10 11:30:50.2175 INFO Message sent to pre-queue 
+2024-07-10 11:30:50.2175 WARN Stop flag not found 
+2024-07-10 11:30:55.2206 INFO Message sent to sent-queue 
+2024-07-10 11:30:55.2206 INFO Message sent to queue 
+2024-07-10 11:30:55.2206 INFO Message sent to post-queue 
+2024-07-10 11:30:55.2206 INFO Message sent to pre-queue 
+2024-07-10 11:30:55.2206 WARN Stop flag not found 
+2024-07-10 11:31:00.2212 INFO Message sent to sent-queue 
+2024-07-10 11:31:00.2212 INFO Message sent to post-queue 
+2024-07-10 11:31:00.2212 INFO Message sent to queue 
+2024-07-10 11:31:00.2212 INFO Message sent to pre-queue 
+2024-07-10 11:31:00.2212 WARN Stop flag not found 
+2024-07-10 11:31:05.2087 INFO Message sent to sent-queue 
+2024-07-10 11:31:05.2087 INFO Message sent to post-queue 
+2024-07-10 11:31:05.2087 INFO Message sent to queue 
+2024-07-10 11:31:05.2087 INFO Message sent to pre-queue 
+2024-07-10 11:31:05.2087 WARN Stop flag not found 
+2024-07-10 11:31:10.2143 INFO Message sent to sent-queue 
+2024-07-10 11:31:10.2143 INFO Message sent to post-queue 
+2024-07-10 11:31:10.2143 INFO Message sent to queue 
+2024-07-10 11:31:10.2143 WARN Stop flag not found 
+2024-07-10 11:31:10.2143 INFO Message sent to pre-queue 
+2024-07-10 11:31:15.2086 INFO Message sent to sent-queue 
+2024-07-10 11:31:15.2086 INFO Message sent to post-queue 
+2024-07-10 11:31:15.2086 INFO Message sent to queue 
+2024-07-10 11:31:15.2086 INFO Message sent to pre-queue 
+2024-07-10 11:31:15.2086 WARN Stop flag not found 
+2024-07-10 11:31:20.2144 INFO Message sent to sent-queue 
+2024-07-10 11:31:20.2144 INFO Message sent to post-queue 
+2024-07-10 11:31:20.2144 INFO Message sent to queue 
+2024-07-10 11:31:20.2144 INFO Message sent to pre-queue 
+2024-07-10 11:31:20.2144 WARN Stop flag not found 
+2024-07-10 11:31:25.2202 INFO Message sent to sent-queue 
+2024-07-10 11:31:25.2202 INFO Message sent to queue 
+2024-07-10 11:31:25.2202 INFO Message sent to post-queue 
+2024-07-10 11:31:25.2202 INFO Message sent to pre-queue 
+2024-07-10 11:31:25.2202 WARN Stop flag not found 
+2024-07-10 11:31:30.2182 INFO Message sent to sent-queue 
+2024-07-10 11:31:30.2182 INFO Message sent to post-queue 
+2024-07-10 11:31:30.2182 INFO Message sent to queue 
+2024-07-10 11:31:30.2182 INFO Message sent to pre-queue 
+2024-07-10 11:31:30.2182 WARN Stop flag not found 
+2024-07-10 11:31:35.2101 INFO Message sent to sent-queue 
+2024-07-10 11:31:35.2104 INFO Message sent to post-queue 
+2024-07-10 11:31:35.2104 INFO Message sent to queue 
+2024-07-10 11:31:35.2104 INFO Message sent to pre-queue 
+2024-07-10 11:31:35.2104 WARN Stop flag not found 
+2024-07-10 11:31:40.2179 INFO Message sent to sent-queue 
+2024-07-10 11:31:40.2179 INFO Message sent to queue 
+2024-07-10 11:31:40.2179 INFO Message sent to post-queue 
+2024-07-10 11:31:40.2179 INFO Message sent to pre-queue 
+2024-07-10 11:31:40.2179 WARN Stop flag not found 
+2024-07-10 11:31:45.2157 INFO Message sent to sent-queue 
+2024-07-10 11:31:45.2157 INFO Message sent to post-queue 
+2024-07-10 11:31:45.2157 INFO Message sent to queue 
+2024-07-10 11:31:45.2157 INFO Message sent to pre-queue 
+2024-07-10 11:31:45.2157 WARN Stop flag not found 
+2024-07-10 11:31:50.2165 INFO Message sent to sent-queue 
+2024-07-10 11:31:50.2165 INFO Message sent to queue 
+2024-07-10 11:31:50.2165 INFO Message sent to post-queue 
+2024-07-10 11:31:50.2165 INFO Message sent to pre-queue 
+2024-07-10 11:31:50.2165 WARN Stop flag not found 
+2024-07-10 11:31:55.2164 INFO Message sent to sent-queue 
+2024-07-10 11:31:55.2164 INFO Message sent to post-queue 
+2024-07-10 11:31:55.2164 INFO Message sent to queue 
+2024-07-10 11:31:55.2164 INFO Message sent to pre-queue 
+2024-07-10 11:31:55.2164 WARN Stop flag not found 
+2024-07-10 11:32:00.2207 INFO Message sent to sent-queue 
+2024-07-10 11:32:00.2207 INFO Message sent to post-queue 
+2024-07-10 11:32:00.2207 INFO Message sent to pre-queue 
+2024-07-10 11:32:00.2207 INFO Message sent to queue 
+2024-07-10 11:32:00.2207 WARN Stop flag not found 
+2024-07-10 11:32:05.2200 INFO Message sent to sent-queue 
+2024-07-10 11:32:05.2200 INFO Message sent to queue 
+2024-07-10 11:32:05.2200 INFO Message sent to post-queue 
+2024-07-10 11:32:05.2200 INFO Message sent to pre-queue 
+2024-07-10 11:32:05.2200 WARN Stop flag not found 
+2024-07-10 11:32:10.2200 INFO Message sent to sent-queue 
+2024-07-10 11:32:10.2200 INFO Message sent to queue 
+2024-07-10 11:32:10.2200 INFO Message sent to post-queue 
+2024-07-10 11:32:10.2200 INFO Message sent to pre-queue 
+2024-07-10 11:32:10.2200 WARN Stop flag not found 
+2024-07-10 11:32:15.2137 INFO Message sent to sent-queue 
+2024-07-10 11:32:15.2137 INFO Message sent to queue 
+2024-07-10 11:32:15.2137 INFO Message sent to post-queue 
+2024-07-10 11:32:15.2137 INFO Message sent to pre-queue 
+2024-07-10 11:32:15.2137 WARN Stop flag not found 
+2024-07-10 11:32:20.2109 INFO Message sent to post-queue 
+2024-07-10 11:32:20.2113 INFO Message sent to sent-queue 
+2024-07-10 11:32:20.2113 INFO Message sent to queue 
+2024-07-10 11:32:20.2113 INFO Message sent to pre-queue 
+2024-07-10 11:32:20.2113 WARN Stop flag not found 
+2024-07-10 11:32:25.2112 INFO Message sent to sent-queue 
+2024-07-10 11:32:25.2112 INFO Message sent to post-queue 
+2024-07-10 11:32:25.2112 INFO Message sent to queue 
+2024-07-10 11:32:25.2112 INFO Message sent to pre-queue 
+2024-07-10 11:32:25.2112 WARN Stop flag not found 
+2024-07-10 11:32:30.2193 INFO Message sent to sent-queue 
+2024-07-10 11:32:30.2193 INFO Message sent to post-queue 
+2024-07-10 11:32:30.2193 INFO Message sent to queue 
+2024-07-10 11:32:30.2193 INFO Message sent to pre-queue 
+2024-07-10 11:32:30.2193 WARN Stop flag not found 
+2024-07-10 11:32:35.2220 INFO Message sent to sent-queue 
+2024-07-10 11:32:35.2220 INFO Message sent to queue 
+2024-07-10 11:32:35.2220 INFO Message sent to post-queue 
+2024-07-10 11:32:35.2220 INFO Message sent to pre-queue 
+2024-07-10 11:32:35.2220 WARN Stop flag not found 
+2024-07-10 11:32:40.2155 INFO Message sent to sent-queue 
+2024-07-10 11:32:40.2155 INFO Message sent to post-queue 
+2024-07-10 11:32:40.2155 INFO Message sent to queue 
+2024-07-10 11:32:40.2155 INFO Message sent to pre-queue 
+2024-07-10 11:32:40.2155 WARN Stop flag not found 
+2024-07-10 11:32:45.2088 INFO Message sent to sent-queue 
+2024-07-10 11:32:45.2088 INFO Message sent to post-queue 
+2024-07-10 11:32:45.2088 INFO Message sent to queue 
+2024-07-10 11:32:45.2088 INFO Message sent to pre-queue 
+2024-07-10 11:32:45.2088 WARN Stop flag not found 
+2024-07-10 11:32:50.2223 INFO Message sent to post-queue 
+2024-07-10 11:32:50.2223 INFO Message sent to sent-queue 
+2024-07-10 11:32:50.2223 INFO Message sent to queue 
+2024-07-10 11:32:50.2223 INFO Message sent to pre-queue 
+2024-07-10 11:32:50.2223 WARN Stop flag not found 
+2024-07-10 11:32:55.2176 INFO Message sent to sent-queue 
+2024-07-10 11:32:55.2176 INFO Message sent to post-queue 
+2024-07-10 11:32:55.2176 INFO Message sent to queue 
+2024-07-10 11:32:55.2176 INFO Message sent to pre-queue 
+2024-07-10 11:32:55.2176 WARN Stop flag not found 
+2024-07-10 11:33:00.2147 INFO Message sent to sent-queue 
+2024-07-10 11:33:00.2147 INFO Message sent to post-queue 
+2024-07-10 11:33:00.2147 INFO Message sent to queue 
+2024-07-10 11:33:00.2147 INFO Message sent to pre-queue 
+2024-07-10 11:33:00.2147 WARN Stop flag not found 
+2024-07-10 11:33:05.2178 INFO Message sent to sent-queue 
+2024-07-10 11:33:05.2178 INFO Message sent to post-queue 
+2024-07-10 11:33:05.2178 INFO Message sent to queue 
+2024-07-10 11:33:05.2178 INFO Message sent to pre-queue 
+2024-07-10 11:33:05.2178 WARN Stop flag not found 
+2024-07-10 11:33:10.2131 INFO Message sent to sent-queue 
+2024-07-10 11:33:10.2131 INFO Message sent to queue 
+2024-07-10 11:33:10.2131 INFO Message sent to post-queue 
+2024-07-10 11:33:10.2131 INFO Message sent to pre-queue 
+2024-07-10 11:33:10.2131 WARN Stop flag not found 
+2024-07-10 11:33:15.2158 INFO Message sent to sent-queue 
+2024-07-10 11:33:15.2158 INFO Message sent to post-queue 
+2024-07-10 11:33:15.2158 INFO Message sent to queue 
+2024-07-10 11:33:15.2158 INFO Message sent to pre-queue 
+2024-07-10 11:33:15.2158 WARN Stop flag not found 
+2024-07-10 11:33:20.2113 INFO Message sent to sent-queue 
+2024-07-10 11:33:20.2113 INFO Message sent to post-queue 
+2024-07-10 11:33:20.2113 INFO Message sent to queue 
+2024-07-10 11:33:20.2113 INFO Message sent to pre-queue 
+2024-07-10 11:33:20.2113 WARN Stop flag not found 
+2024-07-10 11:33:25.2191 INFO Message sent to sent-queue 
+2024-07-10 11:33:25.2191 INFO Message sent to post-queue 
+2024-07-10 11:33:25.2191 INFO Message sent to queue 
+2024-07-10 11:33:25.2191 INFO Message sent to pre-queue 
+2024-07-10 11:33:25.2191 WARN Stop flag not found 
+2024-07-10 11:33:30.2289 INFO Message sent to sent-queue 
+2024-07-10 11:33:30.2289 INFO Message sent to post-queue 
+2024-07-10 11:33:30.2289 INFO Message sent to queue 
+2024-07-10 11:33:30.2289 INFO Message sent to pre-queue 
+2024-07-10 11:33:30.2289 WARN Stop flag not found 
+2024-07-10 11:33:35.2173 INFO Message sent to sent-queue 
+2024-07-10 11:33:35.2173 INFO Message sent to queue 
+2024-07-10 11:33:35.2173 INFO Message sent to post-queue 
+2024-07-10 11:33:35.2173 INFO Message sent to pre-queue 
+2024-07-10 11:33:35.2173 WARN Stop flag not found 
+2024-07-10 11:33:40.2168 INFO Message sent to sent-queue 
+2024-07-10 11:33:40.2168 INFO Message sent to queue 
+2024-07-10 11:33:40.2168 INFO Message sent to post-queue 
+2024-07-10 11:33:40.2168 INFO Message sent to pre-queue 
+2024-07-10 11:33:40.2168 WARN Stop flag not found 
+2024-07-10 11:33:45.2092 INFO Message sent to sent-queue 
+2024-07-10 11:33:45.2092 INFO Message sent to post-queue 
+2024-07-10 11:33:45.2092 INFO Message sent to queue 
+2024-07-10 11:33:45.2092 WARN Stop flag not found 
+2024-07-10 11:33:45.2092 INFO Message sent to pre-queue 
+2024-07-10 11:33:50.2087 INFO Message sent to sent-queue 
+2024-07-10 11:33:50.2087 INFO Message sent to post-queue 
+2024-07-10 11:33:50.2087 INFO Message sent to queue 
+2024-07-10 11:33:50.2087 INFO Message sent to pre-queue 
+2024-07-10 11:33:50.2087 WARN Stop flag not found 
+2024-07-10 11:33:55.2217 INFO Message sent to sent-queue 
+2024-07-10 11:33:55.2217 INFO Message sent to post-queue 
+2024-07-10 11:33:55.2217 INFO Message sent to queue 
+2024-07-10 11:33:55.2217 INFO Message sent to pre-queue 
+2024-07-10 11:33:55.2217 WARN Stop flag not found 
+2024-07-10 11:34:00.2196 INFO Message sent to sent-queue 
+2024-07-10 11:34:00.2196 INFO Message sent to post-queue 
+2024-07-10 11:34:00.2196 INFO Message sent to queue 
+2024-07-10 11:34:00.2196 INFO Message sent to pre-queue 
+2024-07-10 11:34:00.2196 WARN Stop flag not found 
+2024-07-10 11:34:05.2208 INFO Message sent to sent-queue 
+2024-07-10 11:34:05.2208 INFO Message sent to post-queue 
+2024-07-10 11:34:05.2208 INFO Message sent to pre-queue 
+2024-07-10 11:34:05.2208 INFO Message sent to queue 
+2024-07-10 11:34:05.2208 WARN Stop flag not found 
+2024-07-10 11:34:10.2205 INFO Message sent to sent-queue 
+2024-07-10 11:34:10.2205 INFO Message sent to post-queue 
+2024-07-10 11:34:10.2205 INFO Message sent to queue 
+2024-07-10 11:34:10.2205 INFO Message sent to pre-queue 
+2024-07-10 11:34:10.2205 WARN Stop flag not found 
+2024-07-10 11:34:15.2228 INFO Message sent to sent-queue 
+2024-07-10 11:34:15.2228 INFO Message sent to queue 
+2024-07-10 11:34:15.2228 INFO Message sent to post-queue 
+2024-07-10 11:34:15.2228 INFO Message sent to pre-queue 
+2024-07-10 11:34:15.2228 WARN Stop flag not found 
+2024-07-10 11:34:20.2202 INFO Message sent to sent-queue 
+2024-07-10 11:34:20.2202 INFO Message sent to queue 
+2024-07-10 11:34:20.2202 INFO Message sent to post-queue 
+2024-07-10 11:34:20.2202 INFO Message sent to pre-queue 
+2024-07-10 11:34:20.2202 WARN Stop flag not found 
+2024-07-10 11:34:25.2213 INFO Message sent to sent-queue 
+2024-07-10 11:34:25.2213 INFO Message sent to queue 
+2024-07-10 11:34:25.2213 INFO Message sent to pre-queue 
+2024-07-10 11:34:25.2213 INFO Message sent to post-queue 
+2024-07-10 11:34:25.2213 WARN Stop flag not found 
+2024-07-10 11:34:30.2134 INFO Message sent to sent-queue 
+2024-07-10 11:34:30.2134 INFO Message sent to queue 
+2024-07-10 11:34:30.2134 INFO Message sent to post-queue 
+2024-07-10 11:34:30.2134 INFO Message sent to pre-queue 
+2024-07-10 11:34:30.2134 WARN Stop flag not found 
+2024-07-10 11:34:35.2192 INFO Message sent to sent-queue 
+2024-07-10 11:34:35.2192 INFO Message sent to queue 
+2024-07-10 11:34:35.2192 INFO Message sent to post-queue 
+2024-07-10 11:34:35.2192 INFO Message sent to pre-queue 
+2024-07-10 11:34:35.2192 WARN Stop flag not found 
+2024-07-10 11:34:40.2147 INFO Message sent to sent-queue 
+2024-07-10 11:34:40.2147 INFO Message sent to post-queue 
+2024-07-10 11:34:40.2147 INFO Message sent to queue 
+2024-07-10 11:34:40.2147 INFO Message sent to pre-queue 
+2024-07-10 11:34:40.2147 WARN Stop flag not found 
+2024-07-10 11:34:45.2123 INFO Message sent to sent-queue 
+2024-07-10 11:34:45.2123 INFO Message sent to post-queue 
+2024-07-10 11:34:45.2123 INFO Message sent to queue 
+2024-07-10 11:34:45.2123 WARN Stop flag not found 
+2024-07-10 11:34:45.2123 INFO Message sent to pre-queue 
+2024-07-10 11:34:50.2158 INFO Message sent to sent-queue 
+2024-07-10 11:34:50.2158 INFO Message sent to post-queue 
+2024-07-10 11:34:50.2158 INFO Message sent to queue 
+2024-07-10 11:34:50.2158 INFO Message sent to pre-queue 
+2024-07-10 11:34:50.2158 WARN Stop flag not found 

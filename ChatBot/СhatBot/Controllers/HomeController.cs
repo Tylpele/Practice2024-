@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using RabbitMQ.Client;
+using System.Diagnostics;
 using System.Text;
 using СhatBot.Models;
 using СhatBot.RabbitMQ;
@@ -10,14 +11,11 @@ namespace ChatBot.Controllers
     public class HomeController : Controller
 
     {
-        private readonly RabbitMqService _rabbitMqService;
-       // private readonly PreProcessor _preHandler;
+        private readonly ILogger<HomeController> _logger;
 
-        public HomeController()
+        public HomeController(ILogger<HomeController> logger)
         {
-            _rabbitMqService = new RabbitMqService();
-            //_preHandler = new PreProcessor();
-
+            _logger = logger;
         }
 
         public IActionResult Index()
@@ -25,7 +23,18 @@ namespace ChatBot.Controllers
             return View();
         }
 
-        
+        public IActionResult Privacy()
+        {
+            return View();
+        }
+
+        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        public IActionResult Error()
+        {
+            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+
+
 
     }
 }

@@ -1,0 +1,51 @@
+﻿﻿@{
+    ViewData["Title"] = "Chat Bot";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Server Error</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body, html {
+            height: 100%;
+        }
+
+        .bg-error {
+            background-color: #f8d7da;
+            color: #721c24;
+        }
+
+        .error-container {
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+
+        .error-message {
+            max-width: 600px;
+        }
+    </style>
+</head>
+<body class="bg-error">
+    <div class="container error-container">
+        <div class="error-message">
+            <h1 class="display-4">Server Error</h1>
+            <p class="lead">We're sorry, but something went wrong on our end. Please try again later.</p>
+            <hr class="my-4">
+        </div>
+    </div>
+
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/5.0.9/signalr.js"></script>

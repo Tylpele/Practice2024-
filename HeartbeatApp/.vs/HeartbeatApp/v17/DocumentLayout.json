@@ -65,8 +65,7 @@
               "RelativeToolTip": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AQIAAIoUAAAAAAAAAAAwwJUUAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-07-09T10:23:41.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T10:23:41.425Z"
             },
             {
               "$type": "Document",
@@ -76,7 +75,7 @@
               "RelativeDocumentMoniker": "HeartbeatApp\\Models\\CheckSentQueue.cs",
               "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\HeartbeatApp\\HeartbeatApp\\Models\\CheckSentQueue.cs",
               "RelativeToolTip": "HeartbeatApp\\Models\\CheckSentQueue.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAA3wC8AAAAWAAAA",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAowAsAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T10:15:54.455Z",
               "EditorCaption": ""
@@ -101,7 +100,7 @@
               "RelativeDocumentMoniker": "HeartbeatApp\\Models\\CheckPostQueue.cs",
               "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\HeartbeatApp\\HeartbeatApp\\Models\\CheckPostQueue.cs",
               "RelativeToolTip": "HeartbeatApp\\Models\\CheckPostQueue.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAAAC4AAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-05T04:48:10.698Z",
               "EditorCaption": ""
@@ -126,7 +125,7 @@
               "RelativeDocumentMoniker": "HeartbeatApp\\Models\\CheckQueue.cs",
               "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\HeartbeatApp\\HeartbeatApp\\Models\\CheckQueue.cs",
               "RelativeToolTip": "HeartbeatApp\\Models\\CheckQueue.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAYwDMAAAAVAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-05T04:40:39.309Z",
               "EditorCaption": ""
@@ -153,8 +152,7 @@
               "RelativeToolTip": "HeartbeatApp\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T10:34:37.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T10:34:37.391Z"
             },
             {
               "$type": "Document",
@@ -164,7 +162,7 @@
               "RelativeDocumentMoniker": "HeartbeatApp\\Models\\CheckPreQueue.cs",
               "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\HeartbeatApp\\HeartbeatApp\\Models\\CheckPreQueue.cs",
               "RelativeToolTip": "HeartbeatApp\\Models\\CheckPreQueue.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAgwC4AAAAWAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T10:14:00.75Z",
               "EditorCaption": ""
